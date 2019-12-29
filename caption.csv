@@ -1,453 +1,453 @@
-﻿sort,filename,caption_en,latitude,longitude,electoral_code,dc_winner,percentage_democracy
-1,I__1.jpg,"Tin Yiu, Yuen Long",22.45,114.004,M-19,🟡,61.20%
-2,I__2.jpg,"San Po Kong, Wong Tai Sin",22.336,114.2,H-07,🟡,55.77%
-3,I__3.jpg,"Mong Kok East, Sham Shui Po",22.324,114.171,E-14,🟡,59.39%
-4,I__4.jpg,"Tai Wai, Sha Tin",22.377,114.177,R-20,🟡,54.27%
-5,I__5.jpg,"Hennessy, Wan Chai",22.281,114.176,B-01,🟡,68.23%
-6,I__6.jpg,"Tuen Mun Rural, Tuen Mun",22.423,113.989,L-29,🟡,60.17%
-7,I__7.jpg,"Shek Wu Hui, North",22.504,114.127,N-13,🟡,62.09%
-8,I__8.jpg,"Ha Tsuen, Yuen Long",22.443,113.973,M-15,🔵,41.59%
-9,I__9.jpg,"Fanling South, North",22.489,114.137,N-07,🟡,57.58%
-10,I__10.jpg,"Shap Pat Heung North, Yuen Long",22.452,114.04,M-10,🔵,45.80%
-11,I__11.jpg,"Luen Wo Hui, North",22.5,114.143,N-01,🟡,56.49%
-12,I__12.jpg,"Ting Sham, Tsuen Wan",22.376,114.059,K-13,🟡,52.97%
-13,I__13.jpg,"Hing Tung, Eastern",22.281,114.219,C-28,🟡,57.82%
-14,I__14.jpg,"Wan Shing, Sha Tin",22.37,114.176,R-16,🟡,59.79%
-15,I__15.jpg,"Chung Tin, Sha Tin",22.383,114.166,R-21,🟡,60.51%
-16,I__16.jpg,"Fortune, Sham Shui Po",22.334,114.154,F-11,🟡,50.61%
-17,I__17.jpg,"So Uk, Sham Shui Po",22.341,114.157,F-20,🔵,48.29%
-18,I__18.jpg,"Fortress Hill, Eastern",22.287,114.194,C-17,🟡,57.72%
-19,I__19.jpg,"Kwong Hong, Sha Tin",22.39,114.217,R-40,🟡,57.32%
-20,I__20.jpg,"Ching Oi, Wong Tai Sin",22.352,114.199,H-17,🟡,61.10%
-21,I__21.jpg,"Kwai Shing West Estate, Kwai Tsing",22.358,114.118,S-20,🟡,57.15%
-22,I__22.jpg,"Lei Muk Shue West, Tsuen Wan",22.378,114.135,K-18,🟡,66.20%
-23,I__23.jpg,"Sau Mau Ping South, Kwun Tong",22.316,114.235,J-15,🔵,48.27%
-24,I__24.jpg,"Hung Hom Bay, Kowloon City",22.305,114.185,G-21,🟡,55.36%
-25,I__25.jpg,"Laguna City, Kwun Tong",22.306,114.227,J-27,🟡,62.01%
-26,I__26.jpg,"Wang Tau Hom, Wong Tai Sin",22.341,114.188,H-11,🟡,57.05%
-27,I__27.jpg,"Tung Chung Central, Islands",22.292,113.946,T-05,🟡,53.44%
-28,I__28.jpg,"Wan Tsui, Eastern",22.259,114.243,C-13,🟡,52.36%
-29,I__29.jpg,"Kwai Hing, Kwai Tsing",22.367,114.133,S-01,🟡,71.50%
-30,I__30.jpg,"Nam Shan, Tai Hang Tung & Tai Hang Sai, Sham Shui Po",22.331,114.17,F-25,🟡,59.31%
-31,I__31.jpg,"Jordan South, Yau Tsim Mong",22.304,114.171,E-19,🟡,51.10%
-32,I__32.jpg,"Sai Kung North, Tai Po",22.436,114.312,P-19,🟡,58.16%
-33,I__33.jpg,"Shui Chuen O, Sha Tin",22.365,114.2,R-09,🟡,50.15%
-34,I__34.jpg,"Pik Wui, Sham Shui Po",22.326,114.151,F-12,🟡,57.91%
-35,I__35.jpg,"Sai Kung Central, Sai Kung",22.377,114.27,Q-01,🟡,54.41%
-36,I__36.jpg,"Yuen Lung, Yuen Long",22.443,114.037,M-04,🟡,58.13%
-37,I__37.jpg,"Yuet Yan, Yuen Long",22.463,113.996,M-28,🟡,54.63%
-38,I__38.jpg,"Fu Heng, Tai Po",22.459,114.174,P-05,🟡,67.45%
-39,I__39.jpg,"Tai Shui Hang, Sha Tin",22.404,114.24,R-35,🟡,58.72%
-40,I__40.jpg,"Shek Yam, Kwai Tsing",22.372,114.137,S-08,🟡,56.73%
-41,I__41.jpg,"Tanner, Eastern",22.29,114.203,C-22,🟡,57.65%
-42,I__42.jpg,"Tsui Hing, Tuen Mun",22.399,113.971,L-07,🟡,60.62%
-43,I__43.jpg,"Kwun Tong On Tai, Kwun Tong",22.327,114.23,J-11,🟡,56.42%
-44,I__44.jpg,"Lai Chi Kok South, Sham Shui Po",22.322,114.14,F-14,🟡,62.72%
-45,I__45.jpg,"Kowloon Bay, Kwun Tong",22.323,114.209,J-02,🟡,89.48%
-46,I__46.jpg,"Ping Shek, Kwun Tong",22.332,114.211,J-05,🟡,51.14%
-47,I__47.jpg,"Ching Fat, Kwai Tsing",22.362,114.096,S-30,🟡,56.55%
-48,I__48.jpg,"Chung Wan, Central & Western",22.283,114.159,A-01,🟡,55.09%
-49,I__49.jpg,"Greenfield, Kwai Tsing",22.352,114.109,S-24,🟡,52.52%
-50,I__50.jpg,"Kwan Po, Sai Kung",22.312,114.263,Q-27,🟡,62.40%
-51,I__51.jpg,"Kai Hiu, Eastern",22.261,114.248,C-35,🔵,49.28%
-52,I__52.jpg,"Old Market & Serenity, Tai Po",22.456,114.158,P-16,🟡,69.97%
-53,I__53.jpg,"Lok Man, Kowloon City",22.317,114.186,G-05,🔵,44.86%
-54,I__54.jpg,"Chun Cheung, Kwun Tong",22.299,114.242,J-22,🟡,62.21%
-55,I__55.jpg,"Tung Chung North, Islands",22.308,113.924,T-06,🟡,39.56%
-56,I__56.jpg,"Kwai Chung Estate South, Kwai Tsing",22.367,114.129,S-06,🟡,55.60%
-57,I__57.jpg,"Wu Kai Sha, Sha Tin",22.432,114.242,R-29,🟡,64.14%
-58,I__58.jpg,"Yau Ma Tei South, Yau Tsim Mong",22.311,114.166,E-04,🟡,55.10%
-59,I__59.jpg,"Fu Cheong, Sham Shui Po",22.33,114.155,F-09,🟡,51.10%
-60,I__60.jpg,"Lok Wah South, Kwun Tong",22.32,114.222,J-34,🟡,50.73%
-61,I__61.jpg,"Lei Muk Shue East, Tsuen Wan",22.374,114.134,K-19,🟡,68.11%
-62,I__62.jpg,"Yuet Wah, Kwun Tong",22.314,114.227,J-32,🟡,53.73%
-63,I__63.jpg,"Lung Ping & Sheung Pak Tin, Sham Shui Po",22.343,114.161,F-22,🟡,70.58%
-64,I__64.jpg,"Yau Tong West, Kwun Tong",22.301,114.23,J-26,🔵,47.89%
-65,I__65.jpg,"Lai Kok, Sham Shui Po",22.332,114.158,F-10,🟡,54.07%
-66,I__66.jpg,"San Hui, Tuen Mun",22.4,113.998,L-11,🟡,60.49%
-67,I__67.jpg,"Choi Hung, Wong Tai Sin",22.336,114.206,H-25,🟡,50.60%
-68,I__68.jpg,"Fu Yan, Yuen Long",22.465,113.998,M-30,🟡,54.87%
-69,I__69.jpg,"Kam Ying, Sha Tin",22.42,114.234,R-32,🟡,59.39%
-70,I__70.jpg,"Po Lai, Sham Shui Po",22.336,114.158,F-01,🟡,63.96%
-71,I__71.jpg,"On Ho, Kwai Tsing",22.361,114.107,S-21,🟡,59.57%
-72,I__72.jpg,"Mong Kok West, Yau Tsim Mong",22.317,114.168,E-06,🔵,45.95%
-73,I__73.jpg,"Shek Lei North, Kwai Tsing",22.366,114.14,S-12,🟡,62.36%
-74,I__74.jpg,"Butterfly, Tuen Mun",22.376,113.963,L-18,🟡,60.37%
-75,I__75.jpg,"Sheung Shui Rural, North",22.502,114.102,N-11,🔵,43.44%
-76,I__76.jpg,"Fei Tsui, Eastern",22.263,114.223,C-14,🟡,56.70%
-77,I__77.jpg,"Kai Yip, Kwun Tong",22.328,114.21,J-03,🟡,53.88%
-78,I__78.jpg,"Kai Tak Central & South, Kowloon City",22.325,114.197,G-14,🔵,46.48%
-79,I__79.jpg,"Wong Uk, Sha Tin",22.382,114.199,R-06,🟡,66.72%
-80,I__80.jpg,"Mei Foo South, Sham Shui Po",22.334,114.142,F-15,🟡,56.33%
-81,I__81.jpg,"Hiu Lai, Kwun Tong",22.32,114.229,J-30,🟡,60.02%
-82,I__82.jpg,"Tai Nan, Sham Shui Po",22.325,114.166,E-12,🟡,58.32%
-83,I__83.jpg,"Ap Lei Chau North, Southern",22.244,114.156,D-03,🟡,61.73%
-84,I__84.jpg,"Pat Heung North, Yuen Long",22.451,114.096,M-38,🔵,33.91%
-85,I__85.jpg,"Mid Levels East, Central & Western",22.279,114.154,A-02,🟡,57.28%
-86,I__86.jpg,"Pek Long, Yuen Long",22.451,114.024,M-08,🟡,62.91%
-87,I__87.jpg,"Mount Parker, Eastern",22.27,114.21,C-15,🔵,48.32%
-88,I__88.jpg,"Hang Hau West, Sai Kung",22.333,114.235,Q-05,🟡,59.78%
-89,I__89.jpg,"Tak Wah, Tsuen Wan",22.371,114.118,K-01,🟡,55.48%
-90,I__90.jpg,"Po Nga, Tai Po",22.452,114.157,P-14,🟡,66.86%
-91,I__91.jpg,"Chung Pak, Yuen Long",22.46,114.001,M-26,🟡,58.84%
-92,I__92.jpg,"Po Tat, Kwun Tong",22.318,114.24,J-16,🟡,52.21%
-93,I__93.jpg,"Tsz Wan East, Wong Tai Sin",22.347,114.204,H-19,🟡,56.51%
-94,I__94.jpg,"Tai Fat Hau, Wan Chai",22.279,114.169,B-13,🟡,51.46%
-95,I__95.jpg,"Chuk Yuen South, Wong Tai Sin",22.344,114.19,H-14,🟡,59.84%
-96,I__96.jpg,"Hong Lok Yuen, Tai Po",22.473,114.177,P-17,🟡,57.72%
-97,I__97.jpg,"Tsuen Wan West, Tsuen Wan",22.373,114.105,K-05,🟡,61.85%
-98,I__98.jpg,"Hanford, Tuen Mun",22.379,113.982,L-14,🟡,66.07%
-99,I__99.jpg,"Wah Lai, Kwai Tsing",22.354,114.135,S-16,🟡,52.01%
-100,I__100.jpg,"Whampoa West, Kowloon City",22.303,114.187,G-20,🟡,61.84%
-101,I__101.jpg,"Tsz Yau, Yuen Long",22.453,114.008,M-21,🟡,64.08%
-102,I__102.jpg,"Kwong Yuen, Sha Tin",22.381,114.215,R-41,🟡,57.74%
-103,I__103.jpg,"Wai Ying, Kwai Tsing",22.357,114.106,S-22,🟡,59.88%
-104,I__104.jpg,"Sheung Lok, Kowloon City",22.316,114.183,G-06,🟡,57.63%
-105,I__105.jpg,"Hip Hong, Kwun Tong",22.318,114.225,J-33,🟡,52.86%
-106,I__106.jpg,"Chi Fu, Southern",22.259,114.14,D-12,🟡,61%
-107,I__107.jpg,"Lai King, Kwai Tsing",22.323,114.128,S-19,🟡,51.51%
-108,I__108.jpg,"Lam Tsuen Valley, Tai Po",22.446,114.135,P-13,🟡,52.05%
-109,I__109.jpg,"Peak, Central & Western",22.267,114.152,A-04,🔵,31.35%
-110,I__110.jpg,"Wan Po South, Sai Kung",22.285,114.268,Q-29,⚪,47.23%
-111,I__111.jpg,"Sha Ta, North",22.509,114.224,N-16,🔵,41.63%
-112,I__112.jpg,"Fort Street, Eastern",22.29,114.198,C-20,🟡,50.61%
-113,I__113.jpg,"King Yee, Eastern",22.26,114.254,C-12,🟡,57.14%
-114,I__114.jpg,"Causeway Bay, Wan Chai",22.28,114.185,B-04,🟡,54.96%
-115,I__115.jpg,"Ma Tau Wai, Kowloon City",22.325,114.187,G-01,🟡,52.84%
-116,I__116.jpg,"Wah Fu South, Southern",22.251,114.135,D-09,🟡,55.74%
-117,I__117.jpg,"Allway, Tsuen Wan",22.394,114.117,K-15,🟡,56.32%
-118,I__118.jpg,"Kwun Tong Central, Kwun Tong",22.313,114.219,J-01,🟡,56.05%
-119,I__119.jpg,"Oi Kwan, Wan Chai",22.278,114.178,B-02,🟡,57.45%
-120,I__120.jpg,"Oi Man, Kowloon City",22.312,114.181,G-24,🟡,53.30%
-121,I__121.jpg,"Lok Wah North, Kwun Tong",22.321,114.221,J-35,🟡,60.73%
-122,I__122.jpg,"Sheung Tak, Sai Kung",22.311,114.258,Q-14,🟡,61.29%
-123,I__123.jpg,"Choi Kin, Sai Kung",22.307,114.254,Q-06,🟡,60.39%
-124,I__124.jpg,"Tsuen Wan Centre, Tsuen Wan",22.377,114.108,K-07,🟡,61.06%
-125,I__125.jpg,"Nam On, Sai Kung",22.316,114.262,Q-26,🟡,67.92%
-126,I__126.jpg,"Sai Kung Islands, Sai Kung",22.392,114.343,Q-03,🟡,57.81%
-127,I__127.jpg,"Jardine's Lookout, Wan Chai",22.269,114.197,B-08,🔵,41.44%
-128,I__128.jpg,"Kowloon Tong, Kowloon City",22.339,114.18,G-10,🔵,46.51%
-129,I__129.jpg,"Leung King, Tuen Mun",22.407,113.963,L-23,🟡,61.87%
-130,I__130.jpg,"Tsim Sha Tsui West, Yau Tsim Mong",22.298,114.17,E-01,🟡,56.65%
-131,I__131.jpg,"Hong King, Sai Kung",22.32,114.254,Q-16,🟡,65.36%
-132,I__132.jpg,"Centre Street, Central & Western",22.286,114.143,A-14,🟡,58.90%
-133,I__133.jpg,"Prime View, Tuen Mun",22.408,113.981,L-31,🟡,67.63%
-134,I__134.jpg,"Tai Kok Tsui South, Yau Tsim Mong",22.321,114.163,E-10,🟡,56%
-135,I__135.jpg,"So Kwun Wat, Tuen Mun",22.378,114.005,L-12,🟡,53.23%
-136,I__136.jpg,"Braemar Hill, Eastern",22.282,114.2,C-16,🔵,44.77%
-137,I__137.jpg,"Tai Wo, Tai Po",22.452,114.162,P-15,🟡,58.56%
-138,I__138.jpg,"Ching On, Wong Tai Sin",22.353,114.212,H-18,🟡,69.41%
-139,I__139.jpg,"Tin Sum, Sha Tin",22.369,114.18,R-18,🟡,52.48%
-140,I__140.jpg,"Sha Tin Town Centre, Sha Tin",22.378,114.186,R-01,🟡,67.98%
-141,I__141.jpg,"Mong Kok South, Yau Tsim Mong",22.319,114.171,E-15,🟡,53.09%
-142,I__142.jpg,"Kwai Shing East Estate, Kwai Tsing",22.364,114.127,S-03,🟡,62.63%
-143,I__143.jpg,"Jat Chuen, Sha Tin",22.371,114.193,R-10,🟡,66.39%
-144,I__144.jpg,"Wang Yat, Yuen Long",22.47,114.005,M-33,🟡,62.16%
-145,I__145.jpg,"Nam Cheong West, Sham Shui Po",22.327,114.159,F-08,🟡,63.27%
-146,I__146.jpg,"Broadwood, Wan Chai",22.272,114.187,B-09,🔵,47.08%
-147,I__147.jpg,"Kwong Ming, Sai Kung",22.313,114.257,Q-15,🟡,56.80%
-148,I__148.jpg,"On Lee, Kwun Tong",22.329,114.227,J-10,🟡,57.69%
-149,I__149.jpg,"Tin Ping East, North",22.504,114.141,N-17,🟡,63.07%
-150,I__150.jpg,"Cheung Sha Wan, Sham Shui Po",22.335,114.161,F-02,🟡,61.04%
-151,I__151.jpg,"Kornhill, Eastern",22.282,114.216,C-26,🟡,59.12%
-152,I__152.jpg,"Nam Cheong South, Sham Shui Po",22.328,114.165,F-06,🟡,57.37%
-153,I__153.jpg,"Clague Garden, Tsuen Wan",22.371,114.111,K-06,🟡,50.61%
-154,I__154.jpg,"Mun Yat, Islands",22.281,113.936,T-02,🟡,67.62%
-155,I__155.jpg,"Fung Tak, Wong Tai Sin",22.344,114.201,H-05,🟡,56.13%
-156,I__156.jpg,"On Tat, Kwun Tong",22.32,114.236,J-14,🔵,40.06%
-157,I__157.jpg,"Shek Kip Mei, Sham Shui Po",22.333,114.166,F-04,🟡,50.08%
-158,I__158.jpg,"Lamma & Po Toi, Islands",22.194,114.131,T-09,🔵,49.22%
-159,I__159.jpg,"Sui Wo, Sha Tin",22.397,114.181,R-22,🟡,58.47%
-160,I__160.jpg,"On Tai, Sha Tin",22.409,114.221,R-36,🟡,58.57%
-161,I__161.jpg,"Wah Fu North, Southern",22.254,114.137,D-10,🟡,61.32%
-162,I__162.jpg,"Di Yee, Sha Tin",22.387,114.207,R-38,🔵,56.48%
-163,I__163.jpg,"Choi Wan South, Wong Tai Sin",22.334,114.217,H-22,🟡,58.01%
-164,I__164.jpg,"Wah Kwai, Southern",22.25,114.138,D-08,🟡,59.34%
-165,I__165.jpg,"Tsing Yi South, Kwai Tsing",22.34,114.1,S-28,🟡,54.46%
-166,I__166.jpg,"Kin Sang, Tuen Mun",22.407,113.969,L-26,🟡,60.44%
-167,I__167.jpg,"Sheung Wan, Central & Western",22.288,114.148,A-12,🟡,68.15%
-168,I__168.jpg,"Yan Tin, Tuen Mun",22.417,113.975,L-28,🔵,39.86%
-169,I__169.jpg,"Lok Hong, Eastern",22.271,114.236,C-32,🟡,56%
-170,I__170.jpg,"Victoria Park, Eastern",22.284,114.19,B-05,🟡,54.07%
-171,I__171.jpg,"Siu Sai Wan, Eastern",22.264,114.248,C-11,🟡,53.67%
-172,I__172.jpg,"University, Central & Western",22.279,114.138,A-05,🟡,51.35%
-173,I__173.jpg,"Yau Oi North, Tuen Mun",22.386,113.971,L-06,🟡,63.47%
-174,I__174.jpg,"Shek Lei South, Kwai Tsing",22.363,114.141,S-13,🟡,58.93%
-175,I__175.jpg,"A Kung Ngam, Eastern",22.279,114.233,C-07,🟡,52.71%
-176,I__176.jpg,"Wah Do, North",22.486,114.142,N-04,🟡,58.68%
-177,I__177.jpg,"Fung Nin, Yuen Long",22.442,114.026,M-01,🟡,53.65%
-178,I__178.jpg,"Tin Shing, Yuen Long",22.448,113.999,M-18,🟡,54.18%
-179,I__179.jpg,"Kai Tak North, Kowloon City",22.333,114.203,G-12,🔵,45.52%
-180,I__180.jpg,"Yau Oi South, Tuen Mun",22.387,113.974,L-05,🟡,63.44%
-181,I__181.jpg,"To Tai, Kwun Tong",22.325,114.216,J-40,🟡,62.16%
-182,I__182.jpg,"Kam Ping, Eastern",22.29,114.2,C-21,🟡,50.70%
-183,I__183.jpg,"Yat Chak, Yuen Long",22.468,113.998,M-31,🟡,58.14%
-184,I__184.jpg,"Aldrich Bay, Eastern",22.282,114.227,C-05,🟡,54.78%
-185,I__185.jpg,"Ching King, Yuen Long",22.464,114.005,M-29,🟡,54.70%
-186,I__186.jpg,"Chi Choi, Wong Tai Sin",22.337,114.209,H-24,🟡,58.67%
-187,I__187.jpg,"South Horizons East, Southern",22.24,114.151,D-06,🟡,55.89%
-188,I__188.jpg,"Lai Wah, Kwai Tsing",22.347,114.14,S-17,🟡,56.18%
-189,I__189.jpg,"Pak Sha Wan, Sai Kung",22.359,114.236,Q-02,🟡,57.08%
-190,I__190.jpg,"Water Street, Central & Western",22.285,114.139,A-15,🟡,59.62%
-191,I__191.jpg,"Upper Tai Wo Hau, Kwai Tsing",22.367,114.123,S-04,🟡,57.21%
-192,I__192.jpg,"Po Tin, Tuen Mun",22.42,113.954,L-25,🔵,42.39%
-193,I__193.jpg,"Tai Hang, Wan Chai",22.28,114.19,B-07,🟡,62.02%
-194,I__194.jpg,"Shap Pat Heung East, Yuen Long",22.426,114.044,M-11,🟡,48.04%
-195,I__195.jpg,"King Fu, Wong Tai Sin",22.345,114.215,H-20,🟡,58.75%
-196,I__196.jpg,"Lower Yiu Tung, Eastern",22.278,114.226,C-29,🟡,60.55%
-197,I__197.jpg,"Tai Koo Shing East, Eastern",22.287,114.22,C-02,🟡,60.95%
-198,I__198.jpg,"San Fu, Tai Po",22.446,114.161,P-12,🟡,56.43%
-199,I__199.jpg,"Tung Chung South, Islands",22.29,113.94,T-04,🟡,56.49%
-200,I__200.jpg,"Stubbs Road, Wan Chai",22.263,114.178,B-11,🔵,45.47%
-201,I__201.jpg,"Tai Kok Tsui North, Yau Tsim Mong",22.324,114.162,E-11,🟡,52.16%
-202,I__202.jpg,"Siu Hong, Tuen Mun",22.408,113.974,L-27,🟡,56.28%
-203,I__203.jpg,"Mei Foo Central, Sham Shui Po",22.336,114.138,F-16,🟡,60.14%
-204,I__204.jpg,"Provident, ",22.293,114.2,C-19,🔵,48.94%
-205,I__205.jpg,"Upper Ngau Tau Kok Estate, Kwun Tong",22.319,114.217,J-38,🔵,48.79%
-206,I__206.jpg,"Sai Ying Pun, Central & Western",22.289,114.142,A-11,🟡,55.39%
-207,I__207.jpg,"Wai Yan, Sai Kung",22.323,114.255,Q-20,🟡,61.24%
-208,I__208.jpg,"Shek Yue, Southern",22.25,114.158,D-14,🟡,56.21%
-209,I__209.jpg,"Hang Hau East, Sai Kung",22.295,114.286,Q-04,🟡,49.57%
-210,I__210.jpg,"Cheung On, Kwai Tsing",22.361,114.102,S-31,🟡,53.14%
-211,I__211.jpg,"Kornhill Garden, Eastern",22.284,114.216,C-27,🟡,59.24%
-212,I__212.jpg,"Pokfulam, Southern",22.267,114.128,D-11,🟡,55.97%
-213,I__213.jpg,"Lower Tai Wo Hau, Kwai Tsing",22.369,114.124,S-05,🟡,69.73%
-214,I__214.jpg,"Ma On Shan Town Centre, Sha Tin",22.426,114.231,R-28,🟡,63.12%
-215,I__215.jpg,"Fu Sun, Tuen Mun",22.381,113.966,L-19,🟡,60.39%
-216,I__216.jpg,"Chun Fung, Sha Tin",22.374,114.187,R-11,🟡,68.10%
-217,I__217.jpg,"Jordan North, Yau Tsim Mong",22.307,114.171,E-18,🟡,56.02%
-218,I__218.jpg,"Shan King, Tuen Mun",22.397,113.965,L-08,🟡,64.31%
-219,I__219.jpg,"Fung Wong, Wong Tai Sin",22.344,114.197,H-04,🟡,61.15%
-220,I__220.jpg,"Shun Tin, Kwun Tong",22.327,114.223,J-08,🟡,62.03%
-221,I__221.jpg,"Chui Tin, Sha Tin",22.358,114.179,R-13,🟡,64.97%
-222,I__222.jpg,"Ap Lei Chau Estate, Southern",22.245,114.151,D-02,🔵,48.57%
-223,I__223.jpg,"Shaukeiwan, Eastern",22.279,114.229,C-06,🟡,62.82%
-224,I__224.jpg,"Tsui Lam, Sai Kung",22.321,114.249,Q-17,🟡,55.47%
-225,I__225.jpg,"Hoi Nam, Sha Tin",22.415,114.223,R-25,🟡,65.15%
-226,I__226.jpg,"Siu Tsui, Tuen Mun",22.383,113.974,L-04,🟡,57.73%
-227,I__227.jpg,"Lai Ching, Kwun Tong",22.33,114.206,J-04,🟡,68.26%
-228,I__228.jpg,"Lai Chi Kok North, Sham Shui Po",22.338,114.149,F-18,🟡,66.62%
-229,I__229.jpg,"Chun Ma, Sha Tin",22.415,114.209,R-24,🟡,50.43%
-230,I__230.jpg,"Shing Hong, Kwai Tsing",22.35,114.101,S-27,🔵,49.18%
-231,I__231.jpg,"Mong Kok North, Yau Tsim Mong",22.322,114.167,E-13,🟡,51%
-232,I__232.jpg,"Yau Chui, Kwun Tong",22.295,114.239,J-24,🔵,43.26%
-233,I__233.jpg,"Ho Man Tin, Kowloon City",22.319,114.179,G-07,🟡,51.41%
-234,I__234.jpg,"Tsui Chuk & Pang Ching, Wong Tai Sin",22.347,114.186,H-13,🟡,48.65%
-235,I__235.jpg,"Kai Tak East, Kowloon City",22.331,114.203,G-13,🔵,41.02%
-236,I__236.jpg,"Shui Wah, Yuen Long",22.459,113.996,M-24,🟡,58.62%
-237,I__237.jpg,"East Tsim Sha Tsui & King's Park, Yau Tsim Mong",22.3,114.183,E-17,🟡,52.69%
-238,I__238.jpg,"Lei Tung II, Southern",22.241,114.155,D-05,🟡,62.84%
-239,I__239.jpg,"Lung Mun, Tuen Mun",22.391,113.964,L-21,🟡,60.07%
-240,I__240.jpg,"Tsuen Wan South, Tsuen Wan",22.365,114.116,K-03,🟡,54.34%
-241,I__241.jpg,"Sung Wong Toi, Kowloon City",22.322,114.192,G-02,🟡,67.59%
-242,I__242.jpg,"Yau Ma Tei North, Yau Tsim Mong",22.314,114.171,E-16,🟡,67.43%
-243,I__243.jpg,"Yan Lam, Eastern",22.266,114.25,C-10,🟡,52.18%
-244,I__244.jpg,"Lai To, Tsuen Wan",22.385,114.091,K-14,🟡,58.45%
-245,I__245.jpg,"Kingswood North, Yuen Long",22.459,114.006,M-27,🟡,49.93%
-246,I__246.jpg,"King Hing, Tuen Mun",22.402,113.969,L-09,🔵,47.90%
-247,I__247.jpg,"Chuk Yuen North, Wong Tai Sin",22.348,114.191,H-15,🟡,55.50%
-248,I__248.jpg,"Ting On, Kwun Tong",22.316,114.22,J-37,🟡,56.14%
-249,I__249.jpg,"O Tong, Sai Kung",22.308,114.257,Q-13,🟡,63.09%
-250,I__250.jpg,"Sam Shing, Tuen Mun",22.387,114.041,L-13,🟡,56.32%
-251,I__251.jpg,"Nam Fung, Eastern",22.282,114.214,C-25,🟡,65.48%
-252,I__252.jpg,"Yau Lai, Kwun Tong",22.301,114.235,J-25,🟡,54.82%
-253,I__253.jpg,"Fung Tsui, North",22.515,114.127,N-15,🟡,55.06%
-254,I__254.jpg,"Ma Tau Kok, Kowloon City",22.319,114.189,G-04,🟡,52.79%
-255,I__255.jpg,"Tin Hau, Eastern",22.282,114.193,B-06,🟡,52.50%
-256,I__256.jpg,"Fu Nam, Sai Kung",22.318,114.269,Q-24,🟡,56.81%
-257,I__257.jpg,"On Ting, Tuen Mun",22.386,113.977,L-03,🟡,55.93%
-258,I__258.jpg,"Lung Sheung, Wong Tai Sin",22.339,114.192,H-03,🟡,55.47%
-259,I__259.jpg,"Sun Tin Wai, Sha Tin",22.357,114.187,R-12,🟡,60.61%
-260,I__260.jpg,"Yiu On, Sha Tin",22.42,114.231,R-33,🟡,61.50%
-261,I__261.jpg,"Un Chau, Sham Shui Po",22.338,114.156,F-19,🟡,53.61%
-262,I__262.jpg,"Tin Ping West, North",22.506,114.13,N-14,🟡,60.45%
-263,I__263.jpg,"Ping Tin, Kwun Tong",22.307,114.236,J-20,🟡,52.81%
-264,I__264.jpg,"Lam Tin, Kwun Tong",22.31,114.236,J-19,🔵,49.69%
-265,I__265.jpg,"Tin Wan, Southern",22.25,114.148,D-13,🟡,61.70%
-266,I__266.jpg,"Wai King, Sai Kung",22.297,114.248,Q-09,🟡,50.86%
-267,I__267.jpg,"Hing Fong, Kwai Tsing",22.356,114.13,S-15,🟡,58.47%
-268,I__268.jpg,"Yuet Wu, Tuen Mun",22.376,113.968,L-15,🟡,63.35%
-269,I__269.jpg,"Ma Wan, Tsuen Wan",22.326,114.033,K-11,🟡,70.85%
-270,I__270.jpg,"Wan Po North, Sai Kung",22.301,114.269,Q-28,⚪,55.71%
-271,I__271.jpg,"Lung Shing, Kowloon City",22.33,114.19,G-11,🔵,47.48%
-272,I__272.jpg,"Prince, Kowloon City",22.327,114.181,G-09,🟡,54.67%
-273,I__273.jpg,"Tung Tau, Wong Tai Sin",22.333,114.194,H-08,🟡,51.09%
-274,I__274.jpg,"Lek Yuen, Sha Tin",22.386,114.188,R-02,🟡,57.33%
-275,I__275.jpg,"Kwai Luen, Kwai Tsing",22.362,114.127,S-02,🟡,57.11%
-276,I__276.jpg,"Fu Pak, Yau Tsim Mong",22.316,114.163,E-07,🟡,62.54%
-277,I__277.jpg,"Belcher, Central & Western",22.283,114.131,A-09,🟡,52.66%
-278,I__278.jpg,"Kingswood South, Yuen Long",22.454,114.002,M-22,🟡,55.13%
-279,I__279.jpg,"Happy Valley, Wan Chai",22.271,114.183,B-10,🟡,54.49%
-280,I__280.jpg,"Hoi Bun, Tsuen Wan",22.362,114.113,K-04,🟡,56.75%
-281,I__281.jpg,"Cheung Ching, Kwai Tsing",22.347,114.11,S-25,🟡,57.57%
-282,I__282.jpg,"Yuen Long Centre, Yuen Long",22.445,114.03,M-02,🟡,59.47%
-283,I__283.jpg,"Fuk Loi, Tsuen Wan",22.373,114.114,K-09,🔵,47.30%
-284,I__284.jpg,"Pat Heung South, Yuen Long",22.417,114.088,M-39,🔵,47.78%
-285,I__285.jpg,"Yee Fu, Tai Po",22.454,114.176,P-06,🟡,70.86%
-286,I__286.jpg,"Nam Cheong Central, Sham Shui Po",22.33,114.161,F-07,🔵,48.40%
-287,I__287.jpg,"Lok Tsui, Tuen Mun",22.39,113.934,L-20,🟡,58.87%
-288,I__288.jpg,"Wu King, Tuen Mun",22.376,113.965,L-17,🟡,67.83%
-289,I__289.jpg,"Fanling Town, North",22.498,114.139,N-02,🟡,56.57%
-290,I__290.jpg,"Tsim Sha Tsui Central, Yau Tsim Mong",22.302,114.175,E-20,🟡,56.78%
-291,I__291.jpg,"Ching Ho, North",22.493,114.127,N-09,🟡,53.83%
-292,I__292.jpg,"Hok Yuen Laguna Verde, Kowloon City",22.31,114.191,G-18,🟡,52.63%
-293,I__293.jpg,"City Garden, Eastern",22.29,114.192,C-18,🟡,47.13%
-294,I__294.jpg,"Yau Yat Tsuen, Sham Shui Po",22.339,114.171,F-24,🟡,50.98%
-295,I__295.jpg,"South Horizons West, Southern",22.244,114.146,D-07,🟡,56.27%
-296,I__296.jpg,"Kwong Tak, Sai Kung",22.308,114.24,J-17,🔵,48.94%
-297,I__297.jpg,"Nam Cheong East, Sham Shui Po",22.33,114.166,F-05,🟡,60.99%
-298,I__298.jpg,"Kwai Chung Estate North, Kwai Tsing",22.369,114.129,S-07,🟡,57.86%
-299,I__299.jpg,"Hau Tak, Sai Kung",22.318,114.265,Q-23,🟡,59.44%
-300,I__300.jpg,"Jordan Valley, Kwun Tong",22.328,114.218,J-07,🔵,49.08%
-301,I__301.jpg,"Tsui Tak, Eastern",22.264,114.239,C-33,🟡,53.41%
-302,I__302.jpg,"Wo Che Estate, Sha Tin",22.388,114.196,R-03,🟡,59.09%
-303,I__303.jpg,"Sau Mau Ping Central, Kwun Tong",22.318,114.234,J-13,🔵,48.11%
-304,I__304.jpg,"Lantau, Islands",22.253,113.933,T-01,🔵,48.02%
-305,I__305.jpg,"Shing Yan, Yuen Long",22.447,114.003,M-17,🟡,57.58%
-306,I__306.jpg,"Tung Wah, Central & Western",22.285,114.148,A-13,🟡,60.84%
-307,I__307.jpg,"Yue Shing, Sha Tin",22.385,114.204,R-05,🟡,62.28%
-308,I__308.jpg,"Yuen Long Tung Tau, Yuen Long",22.45,114.029,M-09,🟡,59.56%
-309,I__309.jpg,"Ka Wai, Kowloon City",22.309,114.187,G-23,🟡,51.81%
-310,I__310.jpg,"Fung Cheung, Yuen Long",22.441,114.033,M-03,🟡,61.02%
-311,I__311.jpg,"Healthy Village, Eastern",22.291,114.206,C-23,🟡,53.24%
-312,I__312.jpg,"Hong Lok, Kwun Tong",22.318,114.221,J-36,🟡,57.80%
-313,I__313.jpg,"Wan Tau Tong, Tai Po",22.442,114.167,P-11,🟡,60.60%
-314,I__314.jpg,"Cheung Hong, Kwai Tsing",22.349,114.102,S-26,🔵,46.25%
-315,I__315.jpg,"Upper Yiu Tung, Eastern",22.277,114.222,C-30,🟡,52.78%
-316,I__316.jpg,"Yu Yan, Sha Tin",22.382,114.235,R-37,🟡,56.73%
-317,I__317.jpg,"Cho Yiu, Kwai Tsing",22.346,114.131,S-18,🟡,51.48%
-318,I__318.jpg,"Fu Kwan, Sai Kung",22.309,114.26,Q-12,🟡,61.31%
-319,I__319.jpg,"Shui Pin, Yuen Long",22.441,114.019,M-06,🟡,52.85%
-320,I__320.jpg,"San Tin, Yuen Long",22.489,114.077,M-36,🔵,44.08%
-321,I__321.jpg,"Kwong Fuk & Plover Cove, Tai Po",22.45,114.172,P-08,🟡,57.06%
-322,I__322.jpg,"Yiu Yau, Yuen Long",22.453,114.004,M-20,🟡,62.23%
-323,I__323.jpg,"Discovery Park, Tsuen Wan",22.375,114.113,K-08,🟡,54.18%
-324,I__324.jpg,"Shek Tong Tsui, Central & Western",22.289,114.135,A-10,🟡,55.27%
-325,I__325.jpg,"Fu Lung, Sha Tin",22.425,114.237,R-31,🟡,62.83%
-326,I__326.jpg,"Lai Chi Kok Central, Sham Shui Po",22.335,114.148,F-13,🟡,63.54%
-327,I__327.jpg,"Ping Shan South, Yuen Long",22.43,114.009,M-13,🟡,53.26%
-328,I__328.jpg,"Kadoorie, Kowloon City",22.323,114.175,G-08,🟡,63.52%
-329,I__329.jpg,"Lung Sing, Wong Tai Sin",22.342,114.203,H-06,🟡,65.77%
-330,I__330.jpg,"Shui Oi, Yuen Long",22.455,113.997,M-23,🟡,53.73%
-331,I__331.jpg,"Tin Heng, Yuen Long",22.472,114.001,M-32,🟡,61.59%
-332,I__332.jpg,"Shek Wai Kok, Tsuen Wan",22.399,114.146,K-17,🔵,47.86%
-333,I__333.jpg,"Lei Cheng Uk, Sham Shui Po",22.339,114.16,F-21,🟡,61.26%
-334,I__334.jpg,"Yat Tung Estate North, Islands",22.282,113.937,T-03,🟡,61.80%
-335,I__335.jpg,"Luk Yeung, Tsuen Wan",22.374,114.119,K-10,🟡,56.68%
-336,I__336.jpg,"Sai Wan, Central & Western",22.284,114.13,A-08,🟡,56.48%
-337,I__337.jpg,"Castle Road, Central & Western",22.281,114.148,A-03,🟡,51.05%
-338,I__338.jpg,"Hin Ka, Sha Tin",22.351,114.174,R-14,🟡,60.64%
-339,I__339.jpg,"Yu Tai, North",22.488,114.12,N-10,🟡,53.12%
-340,I__340.jpg,"Ping Shan Central, Yuen Long",22.453,114.017,M-16,🟡,51.94%
-341,I__341.jpg,"Hing Tsak, Tuen Mun",22.404,113.973,L-10,🟡,52.95%
-342,I__342.jpg,"Yeung Uk Road, Tsuen Wan",22.367,114.119,K-02,🟡,50.60%
-343,I__343.jpg,"Kowloon Station, Yau Tsim Mong",22.305,114.16,E-02,🔵,47.53%
-344,I__344.jpg,"Siu Hei, Tuen Mun",22.373,113.97,L-16,🟡,68.51%
-345,I__345.jpg,"Yan Ying, Sai Kung",22.324,114.258,Q-19,🟡,63.81%
-346,I__346.jpg,"Ping Shan North, Yuen Long",22.47,114.02,M-34,🔵,49.98%
-347,I__347.jpg,"Tsui Wan, Eastern",22.27,114.246,C-09,🟡,55.63%
-348,I__348.jpg,"Lower Shing Mun, Sha Tin",22.361,114.158,R-15,🟡,55.49%
-349,I__349.jpg,"Nam Cheong North, Sham Shui Po",22.332,114.163,F-03,🟡,54.89%
-350,I__350.jpg,"Whampoa East, Kowloon City",22.303,114.191,G-19,🟡,57.66%
-351,I__351.jpg,"Aberdeen, Southern",22.248,114.155,D-01,🟡,62.11%
-352,I__352.jpg,"Charming, Yau Tsim Mong",22.314,114.164,E-05,🟡,54.75%
-353,I__353.jpg,"To Kwa Wan South, Kowloon City",22.313,114.188,G-17,🟡,53.64%
-354,I__354.jpg,"Wong Chuk Hang, Southern",22.251,114.165,D-15,🟡,57.93%
-355,I__355.jpg,"Kennedy Town & Mount Davis, Central & Western",22.278,114.122,A-07,🟡,59.45%
-356,I__356.jpg,"Lei Tung I, Southern",22.236,114.159,D-04,🟡,63.20%
-357,I__357.jpg,"Quarry Bay, Eastern",22.289,114.212,C-24,🟡,55.37%
-358,I__358.jpg,"Chung Ting, Tai Po",22.452,114.168,P-02,🟡,64.02%
-359,I__359.jpg,"Stanley & Shek O, Southern",22.23,114.246,D-17,🟡,49.86%
-360,I__360.jpg,"Nam Ping, Yuen Long",22.448,114.024,M-07,🟡,62.59%
-361,I__361.jpg,"Tung Mei, Wong Tai Sin",22.336,114.193,H-09,🟡,67.72%
-362,I__362.jpg,"King Tin, Kwun Tong",22.309,114.233,J-28,🟡,61.58%
-363,I__363.jpg,"Fairview Park, Yuen Long",22.487,114.035,M-35,🟡,55.41%
-364,I__364.jpg,"Yau Tong East, Kwun Tong",22.295,114.242,J-23,🟡,50.21%
-365,I__365.jpg,"Tin King, Tuen Mun",22.406,113.966,L-24,🟡,61.98%
-366,I__366.jpg,"Choi Wan East, Wong Tai Sin",22.337,114.219,H-21,🟡,51.77%
-367,I__367.jpg,"Wang Fuk, Tai Po",22.433,114.202,P-09,🟡,56.73%
-368,I__368.jpg,"Cheung Shek, Tsuen Wan",22.382,114.125,K-16,🟡,54.48%
-369,I__369.jpg,"Ma Hang Chung, Kowloon City",22.321,114.191,G-03,🟡,61.14%
-370,I__370.jpg,"City One, Sha Tin",22.388,114.203,R-04,🟡,65%
-371,I__371.jpg,"Cheung Wah, North",22.493,114.141,N-03,🟡,68.51%
-372,I__372.jpg,"Tai Pak Tin East, Kwai Tsing",22.368,114.141,S-10,🟡,53.92%
-373,I__373.jpg,"Chung Wah, Yuen Long",22.46,113.998,M-25,🟡,57.72%
-374,I__374.jpg,"Heng Fa Chuen, Eastern",22.276,114.24,C-08,🟡,56.41%
-375,I__375.jpg,"Oi Chun, Kowloon City",22.314,114.178,G-25,🔵,46.52%
-376,I__376.jpg,"Cheung Chau, Islands",22.204,114.036,T-10,🟡,61.40%
-377,I__377.jpg,"Sau Mau Ping North, Kwun Tong",22.323,114.228,J-12,🟡,60.90%
-378,I__378.jpg,"Shap Pat Heung West, Yuen Long",22.416,114.025,M-12,🟡,49.76%
-379,I__379.jpg,"Lei King Wan, Eastern",22.285,114.223,C-03,🟡,57.22%
-380,I__380.jpg,"Mei Foo North, Sham Shui Po",22.34,114.138,F-17,🟡,62.05%
-381,I__381.jpg,"Southorn, Wan Chai",22.271,114.17,B-12,🔵,48%
-382,I__382.jpg,"Tsz Wan West, Wong Tai Sin",22.348,114.198,H-16,🟡,57.91%
-383,I__383.jpg,"Hing Tin, Kwun Tong",22.314,114.24,J-18,🟡,58.17%
-384,I__384.jpg,"Choi Tak, Kwun Tong",22.331,114.216,J-06,🔵,42.79%
-385,I__385.jpg,"Tai Po Hui, Tai Po",22.447,114.168,P-01,🟡,56.66%
-386,I__386.jpg,"Po Lam, Sai Kung",22.326,114.254,Q-18,🟡,57.60%
-387,I__387.jpg,"Siu Chi, Tuen Mun",22.386,113.981,L-02,🟡,78.13%
-388,I__388.jpg,"Fu Ming Sun, Tai Po",22.452,114.174,P-07,🟡,70.42%
-389,I__389.jpg,"Kin Ming, Sai Kung",22.306,114.25,Q-07,🟡,73.49%
-390,I__390.jpg,"Heng On, Sha Tin",22.417,114.229,R-34,🟡,63.22%
-391,I__391.jpg,"Choi Wan West, Wong Tai Sin",22.336,114.213,H-23,🟡,54.39%
-392,I__392.jpg,"Shing Fuk, North",22.493,114.135,N-08,🔵,58.10%
-393,I__393.jpg,"Shuen Wan, Tai Po",22.478,114.25,P-18,🟡,50.99%
-394,I__394.jpg,"Tin Keung, Wong Tai Sin",22.341,114.184,H-12,🟡,59.98%
-395,I__395.jpg,"Tai Po Central, Tai Po",22.452,114.17,P-03,🟡,54.70%
-396,I__396.jpg,"Discovery Bay, Islands",22.299,114.008,T-07,🟡,64.67%
-397,I__397.jpg,"On Yam, Kwai Tsing",22.377,114.142,S-11,🟡,52.01%
-398,I__398.jpg,"Jordan West, Yau Tsim Mong",22.308,114.164,E-03,🟡,53.84%
-399,I__399.jpg,"Tsuen Wan Rural, Tsuen Wan",22.371,114.044,K-12,⚪,39.74%
-400,I__400.jpg,"Lower Ngau Tau Kok Estate, Kwun Tong",22.323,114.216,J-39,🟡,51.68%
-401,I__401.jpg,"San King, Tuen Mun",22.402,113.959,L-22,🟡,69.72%
-402,I__402.jpg,"Tai Koo Shing West, Eastern",22.288,114.216,C-01,🟡,62.87%
-403,I__403.jpg,"Tai Pak Tin West, Kwai Tsing",22.367,114.137,S-09,🔵,51.97%
-404,I__404.jpg,"Kam Tin, Yuen Long",22.447,114.061,M-37,🟡,52.84%
-405,I__405.jpg,"Do Shin, Sai Kung",22.304,114.251,Q-08,⚪,50.95%
-406,I__406.jpg,"Hing Man, Eastern",22.269,114.228,C-31,🟡,51.44%
-407,I__407.jpg,"Tai Po Kau, Tai Po",22.428,114.171,P-10,🟡,53.55%
-408,I__408.jpg,"Sha Kok, Sha Tin",22.379,114.194,R-07,🟡,59.82%
-409,I__409.jpg,"Fo Tan, Sha Tin",22.41,114.189,R-23,🟡,56.65%
-410,I__410.jpg,"Cherry, Yau Tsim Mong",22.319,114.165,E-09,🔵,46.58%
-411,I__411.jpg,"Tai Yuen, Tai Po",22.456,114.169,P-04,🟡,57.81%
-412,I__412.jpg,"Shap Pat Heung Central, Yuen Long",22.438,114.025,M-05,🟡,60.57%
-413,I__413.jpg,"Keng Hau, Sha Tin",22.364,114.174,R-17,🟡,60.11%
-414,I__414.jpg,"Pak Nga, Kwun Tong",22.302,114.239,J-21,🟡,56.38%
-415,I__415.jpg,"Bik Woo, Sha Tin",22.392,114.207,R-39,🟡,55.32%
-416,I__416.jpg,"Lee On, Sha Tin",22.426,114.245,R-30,🟡,65.61%
-417,I__417.jpg,"Kwai Fong, Kwai Tsing",22.36,114.132,S-14,🟡,62.83%
-418,I__418.jpg,"Sheung Shun, Kwun Tong",22.333,114.224,J-09,🔵,36.86%
-419,I__419.jpg,"Hung Hom, Kowloon City",22.307,114.184,G-22,🔵,46.14%
-420,I__420.jpg,"Sai Wan Ho, Eastern",22.282,114.223,C-04,🟡,63.08%
-421,I__421.jpg,"Lung Ha, Wong Tai Sin",22.338,114.197,H-02,🟡,66.72%
-422,I__422.jpg,"Hoi Sham, Kowloon City",22.317,114.193,G-15,🔵,49.78%
-423,I__423.jpg,"To Kwa Wan North, Kowloon City",22.315,114.189,G-16,🔵,44.98%
-424,I__424.jpg,"Ha Pak Tin, Sham Shui Po",22.336,114.167,F-23,⚪,8.46%
-425,I__425.jpg,"Tuen Mun Town Centre, Tuen Mun",22.393,113.977,L-01,🟡,63.19%
-426,I__426.jpg,"Wan Hang, Sai Kung",22.319,114.258,Q-21,🟡,65.16%
-427,I__427.jpg,"Chui Ka, Sha Tin",22.372,114.181,R-19,🟡,58.68%
-428,I__428.jpg,"Yue Wan, Eastern",22.264,114.243,C-34,🟡,59.46%
-429,I__429.jpg,"Chung On, Sha Tin",22.421,114.229,R-26,🟡,60.92%
-430,I__430.jpg,"Cheung Hang, Kwai Tsing",22.359,114.09,S-29,🔵,46.52%
-431,I__431.jpg,"Canal Road, Wan Chai",22.281,114.181,B-03,🟡,57.76%
-432,I__432.jpg,"Bays Area, Southern",22.239,114.191,D-16,🔵,30.01%
-433,I__433.jpg,"Lok Fu, Wong Tai Sin",22.337,114.188,H-10,🟡,55.53%
-434,I__434.jpg,"Po Lok, Kwun Tong",22.317,114.228,J-31,🟡,64.38%
-435,I__435.jpg,"Tak Ming, Sai Kung",22.315,114.268,Q-25,🟡,56.24%
-436,I__436.jpg,"Olympic, Yau Tsim Mong",22.32,114.156,E-08,🟡,58.13%
-437,I__437.jpg,"Hung Fuk, Yuen Long",22.437,113.997,M-14,🟡,51.44%
-438,I__438.jpg,"Tsing Yi Estate, Kwai Tsing",22.353,114.105,S-23,🟡,59.68%
-439,I__439.jpg,"Po Yee, Sai Kung",22.307,114.263,Q-11,🟡,60.11%
-440,I__440.jpg,"King Lam, Sai Kung",22.32,114.261,Q-22,🟡,60.98%
-441,I__441.jpg,"Fu Tai, Tuen Mun",22.414,113.989,L-30,🟡,61.76%
-442,I__442.jpg,"Tsui Ping, Kwun Tong",22.313,114.234,J-29,🟡,52.37%
-443,I__443.jpg,"Lung Tsui, Wong Tai Sin",22.34,114.197,H-01,🟡,52.34%
-444,I__444.jpg,"Choi Yuen, North",22.501,114.125,N-12,🟡,55.23%
-445,I__445.jpg,"Pok Hong, Sha Tin",22.376,114.196,R-08,🟡,73.61%
-446,I__446.jpg,"Queen's Hill, North",22.504,114.166,N-18,🟡,53.28%
-447,I__447.jpg,"Wah Ming, North",22.484,114.141,N-05,🟡,63.89%
-448,I__448.jpg,"Kwun Lung, Central & Western",22.279,114.129,A-06,🟡,52.88%
-449,I__449.jpg,"Hoi Chun, Sai Kung",22.304,114.26,Q-10,🟡,59.37%
-450,I__450.jpg,"Yan Shing, North",22.478,114.138,N-06,🟡,57.84%
-451,I__451.jpg,"Kam To, Sha Tin",22.423,114.225,R-27,🟡,60.01%
-452,I__452.jpg,"Peng Chau & Hei Ling Chau, Islands",22.25,114.043,T-08,🔵,42.17%
+sort,filename,caption_en,caption_zh,latitude,longitude,electoral_code,dc_winner,percentage_democracy
+1,I__1.jpg,"Tin Yiu, Yuen Long","天耀, 元朗区",22.45,114.004,M-19,🟡,61.20%
+2,I__2.jpg,"San Po Kong, Wong Tai Sin","新蒲崗, 黄大仙区",22.336,114.2,H-07,🟡,55.77%
+3,I__3.jpg,"Mong Kok East, Sham Shui Po","旺角東, 油尖旺区",22.324,114.171,E-14,🟡,59.39%
+4,I__4.jpg,"Tai Wai, Sha Tin","大圍, 沙田区",22.377,114.177,R-20,🟡,54.27%
+5,I__5.jpg,"Hennessy, Wan Chai","軒尼詩, 灣仔區",22.281,114.176,B-01,🟡,68.23%
+6,I__6.jpg,"Tuen Mun Rural, Tuen Mun","屯門鄉郊, 屯门区",22.423,113.989,L-29,🟡,60.17%
+7,I__7.jpg,"Shek Wu Hui, North","石湖墟, 北区",22.504,114.127,N-13,🟡,62.09%
+8,I__8.jpg,"Ha Tsuen, Yuen Long","廈村, 元朗区",22.443,113.973,M-15,🔵,41.59%
+9,I__9.jpg,"Fanling South, North","粉嶺南, 北区",22.489,114.137,N-07,🟡,57.58%
+10,I__10.jpg,"Shap Pat Heung North, Yuen Long","十八鄉北, 元朗区",22.452,114.04,M-10,🔵,45.80%
+11,I__11.jpg,"Luen Wo Hui, North","聯和墟, 北区",22.5,114.143,N-01,🟡,56.49%
+12,I__12.jpg,"Ting Sham, Tsuen Wan","汀深, 荃湾区",22.376,114.059,K-13,🟡,52.97%
+13,I__13.jpg,"Hing Tung, Eastern","興東, 東區",22.281,114.219,C-28,🟡,57.82%
+14,I__14.jpg,"Wan Shing, Sha Tin","雲城, 沙田区",22.37,114.176,R-16,🟡,59.79%
+15,I__15.jpg,"Chung Tin, Sha Tin","松田, 沙田区",22.383,114.166,R-21,🟡,60.51%
+16,I__16.jpg,"Fortune, Sham Shui Po","幸福, 深水埗区",22.334,114.154,F-11,🟡,50.61%
+17,I__17.jpg,"So Uk, Sham Shui Po","蘇屋, 深水埗区",22.341,114.157,F-20,🔵,48.29%
+18,I__18.jpg,"Fortress Hill, Eastern","炮台山, 東區",22.287,114.194,C-17,🟡,57.72%
+19,I__19.jpg,"Kwong Hong, Sha Tin","廣康, 沙田区",22.39,114.217,R-40,🟡,57.32%
+20,I__20.jpg,"Ching Oi, Wong Tai Sin","正愛, 黄大仙区",22.352,114.199,H-17,🟡,61.10%
+21,I__21.jpg,"Kwai Shing West Estate, Kwai Tsing","葵盛西邨, 葵青区",22.358,114.118,S-20,🟡,57.15%
+22,I__22.jpg,"Lei Muk Shue West, Tsuen Wan","梨木樹西, 荃湾区",22.378,114.135,K-18,🟡,66.20%
+23,I__23.jpg,"Sau Mau Ping South, Kwun Tong","秀茂坪南, 观塘区",22.316,114.235,J-15,🔵,48.27%
+24,I__24.jpg,"Hung Hom Bay, Kowloon City","紅磡灣, 九龙城区",22.305,114.185,G-21,🟡,55.36%
+25,I__25.jpg,"Laguna City, Kwun Tong","麗港城, 观塘区",22.306,114.227,J-27,🟡,62.01%
+26,I__26.jpg,"Wang Tau Hom, Wong Tai Sin","橫頭磡, 黄大仙区",22.341,114.188,H-11,🟡,57.05%
+27,I__27.jpg,"Tung Chung Central, Islands","東涌中, 离岛区",22.292,113.946,T-05,🟡,53.44%
+28,I__28.jpg,"Wan Tsui, Eastern","環翠, 東區",22.259,114.243,C-13,🟡,52.36%
+29,I__29.jpg,"Kwai Hing, Kwai Tsing","葵興, 葵青区",22.367,114.133,S-01,🟡,71.50%
+30,I__30.jpg,"Nam Shan, Tai Hang Tung & Tai Hang Sai, Sham Shui Po","南山、大坑東及大坑西, 深水埗区",22.331,114.17,F-25,🟡,59.31%
+31,I__31.jpg,"Jordan South, Yau Tsim Mong","佐敦南, 油尖旺区",22.304,114.171,E-19,🟡,51.10%
+32,I__32.jpg,"Sai Kung North, Tai Po","西貢北, 大埔区",22.436,114.312,P-19,🟡,58.16%
+33,I__33.jpg,"Shui Chuen O, Sha Tin","水泉澳, 沙田区",22.365,114.2,R-09,🟡,50.15%
+34,I__34.jpg,"Pik Wui, Sham Shui Po","碧匯, 深水埗区",22.326,114.151,F-12,🟡,57.91%
+35,I__35.jpg,"Sai Kung Central, Sai Kung","西貢市中心, 西贡区",22.377,114.27,Q-01,🟡,54.41%
+36,I__36.jpg,"Yuen Lung, Yuen Long","元龍, 元朗区",22.443,114.037,M-04,🟡,58.13%
+37,I__37.jpg,"Yuet Yan, Yuen Long","悅恩, 元朗区",22.463,113.996,M-28,🟡,54.63%
+38,I__38.jpg,"Fu Heng, Tai Po","富亨, 大埔区",22.459,114.174,P-05,🟡,67.45%
+39,I__39.jpg,"Tai Shui Hang, Sha Tin","大水坑, 沙田区",22.404,114.24,R-35,🟡,58.72%
+40,I__40.jpg,"Shek Yam, Kwai Tsing","石蔭, 葵青区",22.372,114.137,S-08,🟡,56.73%
+41,I__41.jpg,"Tanner, Eastern","丹拿, 東區",22.29,114.203,C-22,🟡,57.65%
+42,I__42.jpg,"Tsui Hing, Tuen Mun","翠興, 屯门区",22.399,113.971,L-07,🟡,60.62%
+43,I__43.jpg,"Kwun Tong On Tai, Kwun Tong","觀塘安泰, 观塘区",22.327,114.23,J-11,🟡,56.42%
+44,I__44.jpg,"Lai Chi Kok South, Sham Shui Po","荔枝角南, 深水埗区",22.322,114.14,F-14,🟡,62.72%
+45,I__45.jpg,"Kowloon Bay, Kwun Tong","九龍灣, 观塘区",22.323,114.209,J-02,🟡,89.48%
+46,I__46.jpg,"Ping Shek, Kwun Tong","坪石, 观塘区",22.332,114.211,J-05,🟡,51.14%
+47,I__47.jpg,"Ching Fat, Kwai Tsing","青發, 葵青区",22.362,114.096,S-30,🟡,56.55%
+48,I__48.jpg,"Chung Wan, Central & Western","中環, 中西區",22.283,114.159,A-01,🟡,55.09%
+49,I__49.jpg,"Greenfield, Kwai Tsing","翠怡, 葵青区",22.352,114.109,S-24,🟡,52.52%
+50,I__50.jpg,"Kwan Po, Sai Kung","軍寶, 西贡区",22.312,114.263,Q-27,🟡,62.40%
+51,I__51.jpg,"Kai Hiu, Eastern","佳曉, 東區",22.261,114.248,C-35,🔵,49.28%
+52,I__52.jpg,"Old Market & Serenity, Tai Po","舊墟及太湖, 大埔区",22.456,114.158,P-16,🟡,69.97%
+53,I__53.jpg,"Lok Man, Kowloon City","樂民, 九龙城区",22.317,114.186,G-05,🔵,44.86%
+54,I__54.jpg,"Chun Cheung, Kwun Tong","俊翔, 观塘区",22.299,114.242,J-22,🟡,62.21%
+55,I__55.jpg,"Tung Chung North, Islands","東涌北, 离岛区",22.308,113.924,T-06,🟡,39.56%
+56,I__56.jpg,"Kwai Chung Estate South, Kwai Tsing","葵涌邨南, 葵青区",22.367,114.129,S-06,🟡,55.60%
+57,I__57.jpg,"Wu Kai Sha, Sha Tin","烏溪沙, 沙田区",22.432,114.242,R-29,🟡,64.14%
+58,I__58.jpg,"Yau Ma Tei South, Yau Tsim Mong","油麻地南, 油尖旺区",22.311,114.166,E-04,🟡,55.10%
+59,I__59.jpg,"Fu Cheong, Sham Shui Po","富昌, 深水埗区",22.33,114.155,F-09,🟡,51.10%
+60,I__60.jpg,"Lok Wah South, Kwun Tong","樂華南, 观塘区",22.32,114.222,J-34,🟡,50.73%
+61,I__61.jpg,"Lei Muk Shue East, Tsuen Wan","梨木樹東, 荃湾区",22.374,114.134,K-19,🟡,68.11%
+62,I__62.jpg,"Yuet Wah, Kwun Tong","月華, 观塘区",22.314,114.227,J-32,🟡,53.73%
+63,I__63.jpg,"Lung Ping & Sheung Pak Tin, Sham Shui Po","龍坪及上白田, 深水埗区",22.343,114.161,F-22,🟡,70.58%
+64,I__64.jpg,"Yau Tong West, Kwun Tong","油塘西, 观塘区",22.301,114.23,J-26,🔵,47.89%
+65,I__65.jpg,"Lai Kok, Sham Shui Po","麗閣, 深水埗区",22.332,114.158,F-10,🟡,54.07%
+66,I__66.jpg,"San Hui, Tuen Mun","新墟, 屯门区",22.4,113.998,L-11,🟡,60.49%
+67,I__67.jpg,"Choi Hung, Wong Tai Sin","彩虹, 黄大仙区",22.336,114.206,H-25,🟡,50.60%
+68,I__68.jpg,"Fu Yan, Yuen Long","富恩, 元朗区",22.465,113.998,M-30,🟡,54.87%
+69,I__69.jpg,"Kam Ying, Sha Tin","錦英, 沙田区",22.42,114.234,R-32,🟡,59.39%
+70,I__70.jpg,"Po Lai, Sham Shui Po","寶麗, 深水埗区",22.336,114.158,F-01,🟡,63.96%
+71,I__71.jpg,"On Ho, Kwai Tsing","安灝, 葵青区",22.361,114.107,S-21,🟡,59.57%
+72,I__72.jpg,"Mong Kok West, Yau Tsim Mong","旺角西, 油尖旺区",22.317,114.168,E-06,🔵,45.95%
+73,I__73.jpg,"Shek Lei North, Kwai Tsing","石籬北, 葵青区",22.366,114.14,S-12,🟡,62.36%
+74,I__74.jpg,"Butterfly, Tuen Mun","蝴蝶, 屯门区",22.376,113.963,L-18,🟡,60.37%
+75,I__75.jpg,"Sheung Shui Rural, North","上水鄉郊, 北区",22.502,114.102,N-11,🔵,43.44%
+76,I__76.jpg,"Fei Tsui, Eastern","翡翠, 東區",22.263,114.223,C-14,🟡,56.70%
+77,I__77.jpg,"Kai Yip, Kwun Tong","啟業, 观塘区",22.328,114.21,J-03,🟡,53.88%
+78,I__78.jpg,"Kai Tak Central & South, Kowloon City","啟德中及南, 九龙城区",22.325,114.197,G-14,🔵,46.48%
+79,I__79.jpg,"Wong Uk, Sha Tin","王屋, 沙田区",22.382,114.199,R-06,🟡,66.72%
+80,I__80.jpg,"Mei Foo South, Sham Shui Po","美孚南, 深水埗区",22.334,114.142,F-15,🟡,56.33%
+81,I__81.jpg,"Hiu Lai, Kwun Tong","曉麗, 观塘区",22.32,114.229,J-30,🟡,60.02%
+82,I__82.jpg,"Tai Nan, Sham Shui Po","大南, 油尖旺区",22.325,114.166,E-12,🟡,58.32%
+83,I__83.jpg,"Ap Lei Chau North, Southern","鴨脷洲北, 南区",22.244,114.156,D-03,🟡,61.73%
+84,I__84.jpg,"Pat Heung North, Yuen Long","八鄉北, 元朗区",22.451,114.096,M-38,🔵,33.91%
+85,I__85.jpg,"Mid Levels East, Central & Western","半山東, 中西區",22.279,114.154,A-02,🟡,57.28%
+86,I__86.jpg,"Pek Long, Yuen Long","北朗, 元朗区",22.451,114.024,M-08,🟡,62.91%
+87,I__87.jpg,"Mount Parker, Eastern","柏架山, 東區",22.27,114.21,C-15,🔵,48.32%
+88,I__88.jpg,"Hang Hau West, Sai Kung","坑口西, 西贡区",22.333,114.235,Q-05,🟡,59.78%
+89,I__89.jpg,"Tak Wah, Tsuen Wan","德華, 荃湾区",22.371,114.118,K-01,🟡,55.48%
+90,I__90.jpg,"Po Nga, Tai Po","寶雅, 大埔区",22.452,114.157,P-14,🟡,66.86%
+91,I__91.jpg,"Chung Pak, Yuen Long","頌栢, 元朗区",22.46,114.001,M-26,🟡,58.84%
+92,I__92.jpg,"Po Tat, Kwun Tong","寶達, 观塘区",22.318,114.24,J-16,🟡,52.21%
+93,I__93.jpg,"Tsz Wan East, Wong Tai Sin","慈雲東, 黄大仙区",22.347,114.204,H-19,🟡,56.51%
+94,I__94.jpg,"Tai Fat Hau, Wan Chai","大佛口, 灣仔區",22.279,114.169,B-13,🟡,51.46%
+95,I__95.jpg,"Chuk Yuen South, Wong Tai Sin","竹園南, 黄大仙区",22.344,114.19,H-14,🟡,59.84%
+96,I__96.jpg,"Hong Lok Yuen, Tai Po","康樂園, 大埔区",22.473,114.177,P-17,🟡,57.72%
+97,I__97.jpg,"Tsuen Wan West, Tsuen Wan","荃灣西, 荃湾区",22.373,114.105,K-05,🟡,61.85%
+98,I__98.jpg,"Hanford, Tuen Mun","恒福, 屯门区",22.379,113.982,L-14,🟡,66.07%
+99,I__99.jpg,"Wah Lai, Kwai Tsing","華麗, 葵青区",22.354,114.135,S-16,🟡,52.01%
+100,I__100.jpg,"Whampoa West, Kowloon City","黃埔西, 九龙城区",22.303,114.187,G-20,🟡,61.84%
+101,I__101.jpg,"Tsz Yau, Yuen Long","慈祐, 元朗区",22.453,114.008,M-21,🟡,64.08%
+102,I__102.jpg,"Kwong Yuen, Sha Tin","廣源, 沙田区",22.381,114.215,R-41,🟡,57.74%
+103,I__103.jpg,"Wai Ying, Kwai Tsing","偉盈, 葵青区",22.357,114.106,S-22,🟡,59.88%
+104,I__104.jpg,"Sheung Lok, Kowloon City","常樂, 九龙城区",22.316,114.183,G-06,🟡,57.63%
+105,I__105.jpg,"Hip Hong, Kwun Tong","協康, 观塘区",22.318,114.225,J-33,🟡,52.86%
+106,I__106.jpg,"Chi Fu, Southern","置富, 南区",22.259,114.14,D-12,🟡,61%
+107,I__107.jpg,"Lai King, Kwai Tsing","荔景, 葵青区",22.323,114.128,S-19,🟡,51.51%
+108,I__108.jpg,"Lam Tsuen Valley, Tai Po","林村谷, 大埔区",22.446,114.135,P-13,🟡,52.05%
+109,I__109.jpg,"Peak, Central & Western","山頂, 中西區",22.267,114.152,A-04,🔵,31.35%
+110,I__110.jpg,"Wan Po South, Sai Kung","環保南, 西贡区",22.285,114.268,Q-29,⚪,47.23%
+111,I__111.jpg,"Sha Ta, North","沙打, 北区",22.509,114.224,N-16,🔵,41.63%
+112,I__112.jpg,"Fort Street, Eastern","堡壘, 東區",22.29,114.198,C-20,🟡,50.61%
+113,I__113.jpg,"King Yee, Eastern","景怡, 東區",22.26,114.254,C-12,🟡,57.14%
+114,I__114.jpg,"Causeway Bay, Wan Chai","銅鑼灣, 灣仔區",22.28,114.185,B-04,🟡,54.96%
+115,I__115.jpg,"Ma Tau Wai, Kowloon City","馬頭圍, 九龙城区",22.325,114.187,G-01,🟡,52.84%
+116,I__116.jpg,"Wah Fu South, Southern","華富南, 南区",22.251,114.135,D-09,🟡,55.74%
+117,I__117.jpg,"Allway, Tsuen Wan","荃威, 荃湾区",22.394,114.117,K-15,🟡,56.32%
+118,I__118.jpg,"Kwun Tong Central, Kwun Tong","觀塘中心, 观塘区",22.313,114.219,J-01,🟡,56.05%
+119,I__119.jpg,"Oi Kwan, Wan Chai","愛群, 灣仔區",22.278,114.178,B-02,🟡,57.45%
+120,I__120.jpg,"Oi Man, Kowloon City","愛民, 九龙城区",22.312,114.181,G-24,🟡,53.30%
+121,I__121.jpg,"Lok Wah North, Kwun Tong","樂華北, 观塘区",22.321,114.221,J-35,🟡,60.73%
+122,I__122.jpg,"Sheung Tak, Sai Kung","尚德, 西贡区",22.311,114.258,Q-14,🟡,61.29%
+123,I__123.jpg,"Choi Kin, Sai Kung","彩健, 西贡区",22.307,114.254,Q-06,🟡,60.39%
+124,I__124.jpg,"Tsuen Wan Centre, Tsuen Wan","荃灣中心, 荃湾区",22.377,114.108,K-07,🟡,61.06%
+125,I__125.jpg,"Nam On, Sai Kung","南安, 西贡区",22.316,114.262,Q-26,🟡,67.92%
+126,I__126.jpg,"Sai Kung Islands, Sai Kung","西貢離島, 西贡区",22.392,114.343,Q-03,🟡,57.81%
+127,I__127.jpg,"Jardine's Lookout, Wan Chai","渣甸山, 灣仔區",22.269,114.197,B-08,🔵,41.44%
+128,I__128.jpg,"Kowloon Tong, Kowloon City","九龍塘, 九龙城区",22.339,114.18,G-10,🔵,46.51%
+129,I__129.jpg,"Leung King, Tuen Mun","良景, 屯门区",22.407,113.963,L-23,🟡,61.87%
+130,I__130.jpg,"Tsim Sha Tsui West, Yau Tsim Mong","尖沙咀西, 油尖旺区",22.298,114.17,E-01,🟡,56.65%
+131,I__131.jpg,"Hong King, Sai Kung","康景, 西贡区",22.32,114.254,Q-16,🟡,65.36%
+132,I__132.jpg,"Centre Street, Central & Western","正街, 中西區",22.286,114.143,A-14,🟡,58.90%
+133,I__133.jpg,"Prime View, Tuen Mun","景峰, 屯门区",22.408,113.981,L-31,🟡,67.63%
+134,I__134.jpg,"Tai Kok Tsui South, Yau Tsim Mong","大角咀南, 油尖旺区",22.321,114.163,E-10,🟡,56%
+135,I__135.jpg,"So Kwun Wat, Tuen Mun","掃管笏, 屯门区",22.378,114.005,L-12,🟡,53.23%
+136,I__136.jpg,"Braemar Hill, Eastern","寶馬山, 東區",22.282,114.2,C-16,🔵,44.77%
+137,I__137.jpg,"Tai Wo, Tai Po","太和, 大埔区",22.452,114.162,P-15,🟡,58.56%
+138,I__138.jpg,"Ching On, Wong Tai Sin","正安, 黄大仙区",22.353,114.212,H-18,🟡,69.41%
+139,I__139.jpg,"Tin Sum, Sha Tin","田心, 沙田区",22.369,114.18,R-18,🟡,52.48%
+140,I__140.jpg,"Sha Tin Town Centre, Sha Tin","沙田市中心, 沙田区",22.378,114.186,R-01,🟡,67.98%
+141,I__141.jpg,"Mong Kok South, Yau Tsim Mong","旺角南, 油尖旺区",22.319,114.171,E-15,🟡,53.09%
+142,I__142.jpg,"Kwai Shing East Estate, Kwai Tsing","葵盛東邨, 葵青区",22.364,114.127,S-03,🟡,62.63%
+143,I__143.jpg,"Jat Chuen, Sha Tin","乙泉, 沙田区",22.371,114.193,R-10,🟡,66.39%
+144,I__144.jpg,"Wang Yat, Yuen Long","宏逸, 元朗区",22.47,114.005,M-33,🟡,62.16%
+145,I__145.jpg,"Nam Cheong West, Sham Shui Po","南昌西, 深水埗区",22.327,114.159,F-08,🟡,63.27%
+146,I__146.jpg,"Broadwood, Wan Chai","樂活, 灣仔區",22.272,114.187,B-09,🔵,47.08%
+147,I__147.jpg,"Kwong Ming, Sai Kung","廣明, 西贡区",22.313,114.257,Q-15,🟡,56.80%
+148,I__148.jpg,"On Lee, Kwun Tong","安利, 观塘区",22.329,114.227,J-10,🟡,57.69%
+149,I__149.jpg,"Tin Ping East, North","天平東, 北区",22.504,114.141,N-17,🟡,63.07%
+150,I__150.jpg,"Cheung Sha Wan, Sham Shui Po","長沙灣, 深水埗区",22.335,114.161,F-02,🟡,61.04%
+151,I__151.jpg,"Kornhill, Eastern","康怡, 東區",22.282,114.216,C-26,🟡,59.12%
+152,I__152.jpg,"Nam Cheong South, Sham Shui Po","南昌南, 深水埗区",22.328,114.165,F-06,🟡,57.37%
+153,I__153.jpg,"Clague Garden, Tsuen Wan","祈德尊, 荃湾区",22.371,114.111,K-06,🟡,50.61%
+154,I__154.jpg,"Mun Yat, Islands","滿逸, 离岛区",22.281,113.936,T-02,🟡,67.62%
+155,I__155.jpg,"Fung Tak, Wong Tai Sin","鳳德, 黄大仙区",22.344,114.201,H-05,🟡,56.13%
+156,I__156.jpg,"On Tat, Kwun Tong","安達, 观塘区",22.32,114.236,J-14,🔵,40.06%
+157,I__157.jpg,"Shek Kip Mei, Sham Shui Po","石硤尾, 深水埗区",22.333,114.166,F-04,🟡,50.08%
+158,I__158.jpg,"Lamma & Po Toi, Islands","南丫及蒲台, 离岛区",22.194,114.131,T-09,🔵,49.22%
+159,I__159.jpg,"Sui Wo, Sha Tin","穗禾, 沙田区",22.397,114.181,R-22,🟡,58.47%
+160,I__160.jpg,"On Tai, Sha Tin","鞍泰, 沙田区",22.409,114.221,R-36,🟡,58.57%
+161,I__161.jpg,"Wah Fu North, Southern","華富北, 南区",22.254,114.137,D-10,🟡,61.32%
+162,I__162.jpg,"Di Yee, Sha Tin","帝怡, 沙田区",22.387,114.207,R-38,🔵,56.48%
+163,I__163.jpg,"Choi Wan South, Wong Tai Sin","彩雲南, 黄大仙区",22.334,114.217,H-22,🟡,58.01%
+164,I__164.jpg,"Wah Kwai, Southern","華貴, 南区",22.25,114.138,D-08,🟡,59.34%
+165,I__165.jpg,"Tsing Yi South, Kwai Tsing","青衣南, 葵青区",22.34,114.1,S-28,🟡,54.46%
+166,I__166.jpg,"Kin Sang, Tuen Mun","建生, 屯门区",22.407,113.969,L-26,🟡,60.44%
+167,I__167.jpg,"Sheung Wan, Central & Western","上環, 中西區",22.288,114.148,A-12,🟡,68.15%
+168,I__168.jpg,"Yan Tin, Tuen Mun","欣田, 屯门区",22.417,113.975,L-28,🔵,39.86%
+169,I__169.jpg,"Lok Hong, Eastern","樂康, 東區",22.271,114.236,C-32,🟡,56%
+170,I__170.jpg,"Victoria Park, Wan Chai","維園, 灣仔區",22.284,114.19,B-05,🟡,54.07%
+171,I__171.jpg,"Siu Sai Wan, Eastern","小西灣, 東區",22.264,114.248,C-11,🟡,53.67%
+172,I__172.jpg,"University, Central & Western","大學, 中西區",22.279,114.138,A-05,🟡,51.35%
+173,I__173.jpg,"Yau Oi North, Tuen Mun","友愛北, 屯门区",22.386,113.971,L-06,🟡,63.47%
+174,I__174.jpg,"Shek Lei South, Kwai Tsing","石籬南, 葵青区",22.363,114.141,S-13,🟡,58.93%
+175,I__175.jpg,"A Kung Ngam, Eastern","阿公岩, 東區",22.279,114.233,C-07,🟡,52.71%
+176,I__176.jpg,"Wah Do, North","華都, 北区",22.486,114.142,N-04,🟡,58.68%
+177,I__177.jpg,"Fung Nin, Yuen Long","豐年, 元朗区",22.442,114.026,M-01,🟡,53.65%
+178,I__178.jpg,"Tin Shing, Yuen Long","天盛, 元朗区",22.448,113.999,M-18,🟡,54.18%
+179,I__179.jpg,"Kai Tak North, Kowloon City","啟德北, 九龙城区",22.333,114.203,G-12,🔵,45.52%
+180,I__180.jpg,"Yau Oi South, Tuen Mun","友愛南, 屯门区",22.387,113.974,L-05,🟡,63.44%
+181,I__181.jpg,"To Tai, Kwun Tong","淘大, 观塘区",22.325,114.216,J-40,🟡,62.16%
+182,I__182.jpg,"Kam Ping, Eastern","錦屏, 東區",22.29,114.2,C-21,🟡,50.70%
+183,I__183.jpg,"Yat Chak, Yuen Long","逸澤, 元朗区",22.468,113.998,M-31,🟡,58.14%
+184,I__184.jpg,"Aldrich Bay, Eastern","愛秩序灣, 東區",22.282,114.227,C-05,🟡,54.78%
+185,I__185.jpg,"Ching King, Yuen Long","晴景, 元朗区",22.464,114.005,M-29,🟡,54.70%
+186,I__186.jpg,"Chi Choi, Wong Tai Sin","池彩, 黄大仙区",22.337,114.209,H-24,🟡,58.67%
+187,I__187.jpg,"South Horizons East, Southern","海怡東, 南区",22.24,114.151,D-06,🟡,55.89%
+188,I__188.jpg,"Lai Wah, Kwai Tsing","荔華, 葵青区",22.347,114.14,S-17,🟡,56.18%
+189,I__189.jpg,"Pak Sha Wan, Sai Kung","白沙灣, 西贡区",22.359,114.236,Q-02,🟡,57.08%
+190,I__190.jpg,"Water Street, Central & Western","水街, 中西區",22.285,114.139,A-15,🟡,59.62%
+191,I__191.jpg,"Upper Tai Wo Hau, Kwai Tsing","上大窩口, 葵青区",22.367,114.123,S-04,🟡,57.21%
+192,I__192.jpg,"Po Tin, Tuen Mun","寶田, 屯门区",22.42,113.954,L-25,🔵,42.39%
+193,I__193.jpg,"Tai Hang, Wan Chai","大坑, 灣仔區",22.28,114.19,B-07,🟡,62.02%
+194,I__194.jpg,"Shap Pat Heung East, Yuen Long","十八鄉東, 元朗区",22.426,114.044,M-11,🟡,48.04%
+195,I__195.jpg,"King Fu, Wong Tai Sin","瓊富, 黄大仙区",22.345,114.215,H-20,🟡,58.75%
+196,I__196.jpg,"Lower Yiu Tung, Eastern","下耀東, 東區",22.278,114.226,C-29,🟡,60.55%
+197,I__197.jpg,"Tai Koo Shing East, Eastern","太古城東, 東區",22.287,114.22,C-02,🟡,60.95%
+198,I__198.jpg,"San Fu, Tai Po","新富, 大埔区",22.446,114.161,P-12,🟡,56.43%
+199,I__199.jpg,"Tung Chung South, Islands","東涌南, 离岛区",22.29,113.94,T-04,🟡,56.49%
+200,I__200.jpg,"Stubbs Road, Wan Chai","司徒拔道, 灣仔區",22.263,114.178,B-11,🔵,45.47%
+201,I__201.jpg,"Tai Kok Tsui North, Yau Tsim Mong","大角咀北, 油尖旺区",22.324,114.162,E-11,🟡,52.16%
+202,I__202.jpg,"Siu Hong, Tuen Mun","兆康, 屯门区",22.408,113.974,L-27,🟡,56.28%
+203,I__203.jpg,"Mei Foo Central, Sham Shui Po","美孚中, 深水埗区",22.336,114.138,F-16,🟡,60.14%
+204,I__204.jpg,"Provident, ","和富, 東區",22.293,114.2,C-19,🔵,48.94%
+205,I__205.jpg,"Upper Ngau Tau Kok Estate, Kwun Tong","牛頭角上邨, 观塘区",22.319,114.217,J-38,🔵,48.79%
+206,I__206.jpg,"Sai Ying Pun, Central & Western","西營盤, 中西區",22.289,114.142,A-11,🟡,55.39%
+207,I__207.jpg,"Wai Yan, Sai Kung","慧茵, 西贡区",22.323,114.255,Q-20,🟡,61.24%
+208,I__208.jpg,"Shek Yue, Southern","石漁, 南区",22.25,114.158,D-14,🟡,56.21%
+209,I__209.jpg,"Hang Hau East, Sai Kung","坑口東, 西贡区",22.295,114.286,Q-04,🟡,49.57%
+210,I__210.jpg,"Cheung On, Kwai Tsing","長安, 葵青区",22.361,114.102,S-31,🟡,53.14%
+211,I__211.jpg,"Kornhill Garden, Eastern","康山, 東區",22.284,114.216,C-27,🟡,59.24%
+212,I__212.jpg,"Pokfulam, Southern","薄扶林, 南区",22.267,114.128,D-11,🟡,55.97%
+213,I__213.jpg,"Lower Tai Wo Hau, Kwai Tsing","下大窩口, 葵青区",22.369,114.124,S-05,🟡,69.73%
+214,I__214.jpg,"Ma On Shan Town Centre, Sha Tin","馬鞍山市中心, 沙田区",22.426,114.231,R-28,🟡,63.12%
+215,I__215.jpg,"Fu Sun, Tuen Mun","富新, 屯门区",22.381,113.966,L-19,🟡,60.39%
+216,I__216.jpg,"Chun Fung, Sha Tin","秦豐, 沙田区",22.374,114.187,R-11,🟡,68.10%
+217,I__217.jpg,"Jordan North, Yau Tsim Mong","佐敦北, 油尖旺区",22.307,114.171,E-18,🟡,56.02%
+218,I__218.jpg,"Shan King, Tuen Mun","山景, 屯门区",22.397,113.965,L-08,🟡,64.31%
+219,I__219.jpg,"Fung Wong, Wong Tai Sin","鳳凰, 黄大仙区",22.344,114.197,H-04,🟡,61.15%
+220,I__220.jpg,"Shun Tin, Kwun Tong","順天, 观塘区",22.327,114.223,J-08,🟡,62.03%
+221,I__221.jpg,"Chui Tin, Sha Tin","翠田, 沙田区",22.358,114.179,R-13,🟡,64.97%
+222,I__222.jpg,"Ap Lei Chau Estate, Southern","鴨脷洲邨, 南区",22.245,114.151,D-02,🔵,48.57%
+223,I__223.jpg,"Shaukeiwan, Eastern","筲箕灣, 東區",22.279,114.229,C-06,🟡,62.82%
+224,I__224.jpg,"Tsui Lam, Sai Kung","翠林, 西贡区",22.321,114.249,Q-17,🟡,55.47%
+225,I__225.jpg,"Hoi Nam, Sha Tin","海嵐, 沙田区",22.415,114.223,R-25,🟡,65.15%
+226,I__226.jpg,"Siu Tsui, Tuen Mun","兆翠, 屯门区",22.383,113.974,L-04,🟡,57.73%
+227,I__227.jpg,"Lai Ching, Kwun Tong","麗晶, 观塘区",22.33,114.206,J-04,🟡,68.26%
+228,I__228.jpg,"Lai Chi Kok North, Sham Shui Po","荔枝角北, 深水埗区",22.338,114.149,F-18,🟡,66.62%
+229,I__229.jpg,"Chun Ma, Sha Tin","駿馬, 沙田区",22.415,114.209,R-24,🟡,50.43%
+230,I__230.jpg,"Shing Hong, Kwai Tsing","盛康, 葵青区",22.35,114.101,S-27,🔵,49.18%
+231,I__231.jpg,"Mong Kok North, Yau Tsim Mong","旺角北, 油尖旺区",22.322,114.167,E-13,🟡,51%
+232,I__232.jpg,"Yau Chui, Kwun Tong","油翠, 观塘区",22.295,114.239,J-24,🔵,43.26%
+233,I__233.jpg,"Ho Man Tin, Kowloon City","何文田, 九龙城区",22.319,114.179,G-07,🟡,51.41%
+234,I__234.jpg,"Tsui Chuk & Pang Ching, Wong Tai Sin","翠竹及鵬程, 黄大仙区",22.347,114.186,H-13,🟡,48.65%
+235,I__235.jpg,"Kai Tak East, Kowloon City","啟德東, 九龙城区",22.331,114.203,G-13,🔵,41.02%
+236,I__236.jpg,"Shui Wah, Yuen Long","瑞華, 元朗区",22.459,113.996,M-24,🟡,58.62%
+237,I__237.jpg,"East Tsim Sha Tsui & King's Park, Yau Tsim Mong","尖東及京士柏, 油尖旺区",22.3,114.183,E-17,🟡,52.69%
+238,I__238.jpg,"Lei Tung II, Southern","利東二, 南区",22.241,114.155,D-05,🟡,62.84%
+239,I__239.jpg,"Lung Mun, Tuen Mun","龍門, 屯门区",22.391,113.964,L-21,🟡,60.07%
+240,I__240.jpg,"Tsuen Wan South, Tsuen Wan","荃灣南, 荃湾区",22.365,114.116,K-03,🟡,54.34%
+241,I__241.jpg,"Sung Wong Toi, Kowloon City","宋皇臺, 九龙城区",22.322,114.192,G-02,🟡,67.59%
+242,I__242.jpg,"Yau Ma Tei North, Yau Tsim Mong","油麻地北, 油尖旺区",22.314,114.171,E-16,🟡,67.43%
+243,I__243.jpg,"Yan Lam, Eastern","欣藍, 東區",22.266,114.25,C-10,🟡,52.18%
+244,I__244.jpg,"Lai To, Tsuen Wan","麗濤, 荃湾区",22.385,114.091,K-14,🟡,58.45%
+245,I__245.jpg,"Kingswood North, Yuen Long","嘉湖北, 元朗区",22.459,114.006,M-27,🟡,49.93%
+246,I__246.jpg,"King Hing, Tuen Mun","景興, 屯门区",22.402,113.969,L-09,🔵,47.90%
+247,I__247.jpg,"Chuk Yuen North, Wong Tai Sin","竹園北, 黄大仙区",22.348,114.191,H-15,🟡,55.50%
+248,I__248.jpg,"Ting On, Kwun Tong","定安, 观塘区",22.316,114.22,J-37,🟡,56.14%
+249,I__249.jpg,"O Tong, Sai Kung","澳唐, 西贡区",22.308,114.257,Q-13,🟡,63.09%
+250,I__250.jpg,"Sam Shing, Tuen Mun","三聖, 屯门区",22.387,114.041,L-13,🟡,56.32%
+251,I__251.jpg,"Nam Fung, Eastern","南豐, 東區",22.282,114.214,C-25,🟡,65.48%
+252,I__252.jpg,"Yau Lai, Kwun Tong","油麗, 观塘区",22.301,114.235,J-25,🟡,54.82%
+253,I__253.jpg,"Fung Tsui, North","鳳翠, 北区",22.515,114.127,N-15,🟡,55.06%
+254,I__254.jpg,"Ma Tau Kok, Kowloon City","馬頭角, 九龙城区",22.319,114.189,G-04,🟡,52.79%
+255,I__255.jpg,"Tin Hau, Wan Chai","天后, 灣仔區",22.282,114.193,B-06,🟡,52.50%
+256,I__256.jpg,"Fu Nam, Sai Kung","富藍, 西贡区",22.318,114.269,Q-24,🟡,56.81%
+257,I__257.jpg,"On Ting, Tuen Mun","安定, 屯门区",22.386,113.977,L-03,🟡,55.93%
+258,I__258.jpg,"Lung Sheung, Wong Tai Sin","龍上, 黄大仙区",22.339,114.192,H-03,🟡,55.47%
+259,I__259.jpg,"Sun Tin Wai, Sha Tin","新田圍, 沙田区",22.357,114.187,R-12,🟡,60.61%
+260,I__260.jpg,"Yiu On, Sha Tin","耀安, 沙田区",22.42,114.231,R-33,🟡,61.50%
+261,I__261.jpg,"Un Chau, Sham Shui Po","元州, 深水埗区",22.338,114.156,F-19,🟡,53.61%
+262,I__262.jpg,"Tin Ping West, North","天平西, 北区",22.506,114.13,N-14,🟡,60.45%
+263,I__263.jpg,"Ping Tin, Kwun Tong","平田, 观塘区",22.307,114.236,J-20,🟡,52.81%
+264,I__264.jpg,"Lam Tin, Kwun Tong","藍田, 观塘区",22.31,114.236,J-19,🔵,49.69%
+265,I__265.jpg,"Tin Wan, Southern","田灣, 南区",22.25,114.148,D-13,🟡,61.70%
+266,I__266.jpg,"Wai King, Sai Kung","維景, 西贡区",22.297,114.248,Q-09,🟡,50.86%
+267,I__267.jpg,"Hing Fong, Kwai Tsing","興芳, 葵青区",22.356,114.13,S-15,🟡,58.47%
+268,I__268.jpg,"Yuet Wu, Tuen Mun","悅湖, 屯门区",22.376,113.968,L-15,🟡,63.35%
+269,I__269.jpg,"Ma Wan, Tsuen Wan","馬灣, 荃湾区",22.326,114.033,K-11,🟡,70.85%
+270,I__270.jpg,"Wan Po North, Sai Kung","環保北, 西贡区",22.301,114.269,Q-28,⚪,55.71%
+271,I__271.jpg,"Lung Shing, Kowloon City","龍城, 九龙城区",22.33,114.19,G-11,🔵,47.48%
+272,I__272.jpg,"Prince, Kowloon City","太子, 九龙城区",22.327,114.181,G-09,🟡,54.67%
+273,I__273.jpg,"Tung Tau, Wong Tai Sin","東頭, 黄大仙区",22.333,114.194,H-08,🟡,51.09%
+274,I__274.jpg,"Lek Yuen, Sha Tin","瀝源, 沙田区",22.386,114.188,R-02,🟡,57.33%
+275,I__275.jpg,"Kwai Luen, Kwai Tsing","葵聯, 葵青区",22.362,114.127,S-02,🟡,57.11%
+276,I__276.jpg,"Fu Pak, Yau Tsim Mong","富柏, 油尖旺区",22.316,114.163,E-07,🟡,62.54%
+277,I__277.jpg,"Belcher, Central & Western","寶翠, 中西區",22.283,114.131,A-09,🟡,52.66%
+278,I__278.jpg,"Kingswood South, Yuen Long","嘉湖南, 元朗区",22.454,114.002,M-22,🟡,55.13%
+279,I__279.jpg,"Happy Valley, Wan Chai","跑馬地, 灣仔區",22.271,114.183,B-10,🟡,54.49%
+280,I__280.jpg,"Hoi Bun, Tsuen Wan","海濱, 荃湾区",22.362,114.113,K-04,🟡,56.75%
+281,I__281.jpg,"Cheung Ching, Kwai Tsing","長青, 葵青区",22.347,114.11,S-25,🟡,57.57%
+282,I__282.jpg,"Yuen Long Centre, Yuen Long","元朗中心, 元朗区",22.445,114.03,M-02,🟡,59.47%
+283,I__283.jpg,"Fuk Loi, Tsuen Wan","福來, 荃湾区",22.373,114.114,K-09,🔵,47.30%
+284,I__284.jpg,"Pat Heung South, Yuen Long","八鄉南, 元朗区",22.417,114.088,M-39,🔵,47.78%
+285,I__285.jpg,"Yee Fu, Tai Po","怡富, 大埔区",22.454,114.176,P-06,🟡,70.86%
+286,I__286.jpg,"Nam Cheong Central, Sham Shui Po","南昌中, 深水埗区",22.33,114.161,F-07,🔵,48.40%
+287,I__287.jpg,"Lok Tsui, Tuen Mun","樂翠, 屯门区",22.39,113.934,L-20,🟡,58.87%
+288,I__288.jpg,"Wu King, Tuen Mun","湖景, 屯门区",22.376,113.965,L-17,🟡,67.83%
+289,I__289.jpg,"Fanling Town, North","粉嶺市, 北区",22.498,114.139,N-02,🟡,56.57%
+290,I__290.jpg,"Tsim Sha Tsui Central, Yau Tsim Mong","尖沙咀中, 油尖旺区",22.302,114.175,E-20,🟡,56.78%
+291,I__291.jpg,"Ching Ho, North","清河, 北区",22.493,114.127,N-09,🟡,53.83%
+292,I__292.jpg,"Hok Yuen Laguna Verde, Kowloon City","鶴園海逸, 九龙城区",22.31,114.191,G-18,🟡,52.63%
+293,I__293.jpg,"City Garden, Eastern","城市花園, 東區",22.29,114.192,C-18,🟡,47.13%
+294,I__294.jpg,"Yau Yat Tsuen, Sham Shui Po","又一村, 深水埗区",22.339,114.171,F-24,🟡,50.98%
+295,I__295.jpg,"South Horizons West, Southern","海怡西, 南区",22.244,114.146,D-07,🟡,56.27%
+296,I__296.jpg,"Kwong Tak, Sai Kung","廣德, 观塘区",22.308,114.24,J-17,🔵,48.94%
+297,I__297.jpg,"Nam Cheong East, Sham Shui Po","南昌東, 深水埗区",22.33,114.166,F-05,🟡,60.99%
+298,I__298.jpg,"Kwai Chung Estate North, Kwai Tsing","葵涌邨北, 葵青区",22.369,114.129,S-07,🟡,57.86%
+299,I__299.jpg,"Hau Tak, Sai Kung","厚德, 西贡区",22.318,114.265,Q-23,🟡,59.44%
+300,I__300.jpg,"Jordan Valley, Kwun Tong","佐敦谷, 观塘区",22.328,114.218,J-07,🔵,49.08%
+301,I__301.jpg,"Tsui Tak, Eastern","翠德, 東區",22.264,114.239,C-33,🟡,53.41%
+302,I__302.jpg,"Wo Che Estate, Sha Tin","禾輋邨, 沙田区",22.388,114.196,R-03,🟡,59.09%
+303,I__303.jpg,"Sau Mau Ping Central, Kwun Tong","秀茂坪中, 观塘区",22.318,114.234,J-13,🔵,48.11%
+304,I__304.jpg,"Lantau, Islands","大嶼山, 离岛区",22.253,113.933,T-01,🔵,48.02%
+305,I__305.jpg,"Shing Yan, Yuen Long","盛欣, 元朗区",22.447,114.003,M-17,🟡,57.58%
+306,I__306.jpg,"Tung Wah, Central & Western","東華, 中西區",22.285,114.148,A-13,🟡,60.84%
+307,I__307.jpg,"Yue Shing, Sha Tin","愉城, 沙田区",22.385,114.204,R-05,🟡,62.28%
+308,I__308.jpg,"Yuen Long Tung Tau, Yuen Long","元朗東頭, 元朗区",22.45,114.029,M-09,🟡,59.56%
+309,I__309.jpg,"Ka Wai, Kowloon City","家維, 九龙城区",22.309,114.187,G-23,🟡,51.81%
+310,I__310.jpg,"Fung Cheung, Yuen Long","鳳翔, 元朗区",22.441,114.033,M-03,🟡,61.02%
+311,I__311.jpg,"Healthy Village, Eastern","健康村, 東區",22.291,114.206,C-23,🟡,53.24%
+312,I__312.jpg,"Hong Lok, Kwun Tong","康樂, 观塘区",22.318,114.221,J-36,🟡,57.80%
+313,I__313.jpg,"Wan Tau Tong, Tai Po","運頭塘, 大埔区",22.442,114.167,P-11,🟡,60.60%
+314,I__314.jpg,"Cheung Hong, Kwai Tsing","長康, 葵青区",22.349,114.102,S-26,🔵,46.25%
+315,I__315.jpg,"Upper Yiu Tung, Eastern","上耀東, 東區",22.277,114.222,C-30,🟡,52.78%
+316,I__316.jpg,"Yu Yan, Sha Tin","愉欣, 沙田区",22.382,114.235,R-37,🟡,56.73%
+317,I__317.jpg,"Cho Yiu, Kwai Tsing","祖堯, 葵青区",22.346,114.131,S-18,🟡,51.48%
+318,I__318.jpg,"Fu Kwan, Sai Kung","富君, 西贡区",22.309,114.26,Q-12,🟡,61.31%
+319,I__319.jpg,"Shui Pin, Yuen Long","水邊, 元朗区",22.441,114.019,M-06,🟡,52.85%
+320,I__320.jpg,"San Tin, Yuen Long","新田, 元朗区",22.489,114.077,M-36,🔵,44.08%
+321,I__321.jpg,"Kwong Fuk & Plover Cove, Tai Po","廣福及寶湖, 大埔区",22.45,114.172,P-08,🟡,57.06%
+322,I__322.jpg,"Yiu Yau, Yuen Long","耀祐, 元朗区",22.453,114.004,M-20,🟡,62.23%
+323,I__323.jpg,"Discovery Park, Tsuen Wan","愉景, 荃湾区",22.375,114.113,K-08,🟡,54.18%
+324,I__324.jpg,"Shek Tong Tsui, Central & Western","石塘咀, 中西區",22.289,114.135,A-10,🟡,55.27%
+325,I__325.jpg,"Fu Lung, Sha Tin","富龍, 沙田区",22.425,114.237,R-31,🟡,62.83%
+326,I__326.jpg,"Lai Chi Kok Central, Sham Shui Po","荔枝角中, 深水埗区",22.335,114.148,F-13,🟡,63.54%
+327,I__327.jpg,"Ping Shan South, Yuen Long","屏山南, 元朗区",22.43,114.009,M-13,🟡,53.26%
+328,I__328.jpg,"Kadoorie, Kowloon City","嘉道理, 九龙城区",22.323,114.175,G-08,🟡,63.52%
+329,I__329.jpg,"Lung Sing, Wong Tai Sin","龍星, 黄大仙区",22.342,114.203,H-06,🟡,65.77%
+330,I__330.jpg,"Shui Oi, Yuen Long","瑞愛, 元朗区",22.455,113.997,M-23,🟡,53.73%
+331,I__331.jpg,"Tin Heng, Yuen Long","天恒, 元朗区",22.472,114.001,M-32,🟡,61.59%
+332,I__332.jpg,"Shek Wai Kok, Tsuen Wan","石圍角, 荃湾区",22.399,114.146,K-17,🔵,47.86%
+333,I__333.jpg,"Lei Cheng Uk, Sham Shui Po","李鄭屋, 深水埗区",22.339,114.16,F-21,🟡,61.26%
+334,I__334.jpg,"Yat Tung Estate North, Islands","逸東邨北, 离岛区",22.282,113.937,T-03,🟡,61.80%
+335,I__335.jpg,"Luk Yeung, Tsuen Wan","綠楊, 荃湾区",22.374,114.119,K-10,🟡,56.68%
+336,I__336.jpg,"Sai Wan, Central & Western","西環, 中西區",22.284,114.13,A-08,🟡,56.48%
+337,I__337.jpg,"Castle Road, Central & Western","衛城, 中西區",22.281,114.148,A-03,🟡,51.05%
+338,I__338.jpg,"Hin Ka, Sha Tin","顯嘉, 沙田区",22.351,114.174,R-14,🟡,60.64%
+339,I__339.jpg,"Yu Tai, North","御太, 北区",22.488,114.12,N-10,🟡,53.12%
+340,I__340.jpg,"Ping Shan Central, Yuen Long","屏山中, 元朗区",22.453,114.017,M-16,🟡,51.94%
+341,I__341.jpg,"Hing Tsak, Tuen Mun","興澤, 屯门区",22.404,113.973,L-10,🟡,52.95%
+342,I__342.jpg,"Yeung Uk Road, Tsuen Wan","楊屋道, 荃湾区",22.367,114.119,K-02,🟡,50.60%
+343,I__343.jpg,"Kowloon Station, Yau Tsim Mong","九龍站, 油尖旺区",22.305,114.16,E-02,🔵,47.53%
+344,I__344.jpg,"Siu Hei, Tuen Mun","兆禧, 屯门区",22.373,113.97,L-16,🟡,68.51%
+345,I__345.jpg,"Yan Ying, Sai Kung","欣英, 西贡区",22.324,114.258,Q-19,🟡,63.81%
+346,I__346.jpg,"Ping Shan North, Yuen Long","屏山北, 元朗区",22.47,114.02,M-34,🔵,49.98%
+347,I__347.jpg,"Tsui Wan, Eastern","翠灣, 東區",22.27,114.246,C-09,🟡,55.63%
+348,I__348.jpg,"Lower Shing Mun, Sha Tin","下城門, 沙田区",22.361,114.158,R-15,🟡,55.49%
+349,I__349.jpg,"Nam Cheong North, Sham Shui Po","南昌北, 深水埗区",22.332,114.163,F-03,🟡,54.89%
+350,I__350.jpg,"Whampoa East, Kowloon City","黃埔東, 九龙城区",22.303,114.191,G-19,🟡,57.66%
+351,I__351.jpg,"Aberdeen, Southern","香港仔, 南区",22.248,114.155,D-01,🟡,62.11%
+352,I__352.jpg,"Charming, Yau Tsim Mong","富榮, 油尖旺区",22.314,114.164,E-05,🟡,54.75%
+353,I__353.jpg,"To Kwa Wan South, Kowloon City","土瓜灣南, 九龙城区",22.313,114.188,G-17,🟡,53.64%
+354,I__354.jpg,"Wong Chuk Hang, Southern","黃竹坑, 南区",22.251,114.165,D-15,🟡,57.93%
+355,I__355.jpg,"Kennedy Town & Mount Davis, Central & Western","堅摩, 中西區",22.278,114.122,A-07,🟡,59.45%
+356,I__356.jpg,"Lei Tung I, Southern","利東一, 南区",22.236,114.159,D-04,🟡,63.20%
+357,I__357.jpg,"Quarry Bay, Eastern","鰂魚涌, 東區",22.289,114.212,C-24,🟡,55.37%
+358,I__358.jpg,"Chung Ting, Tai Po","頌汀, 大埔区",22.452,114.168,P-02,🟡,64.02%
+359,I__359.jpg,"Stanley & Shek O, Southern","赤柱及石澳, 南区",22.23,114.246,D-17,🟡,49.86%
+360,I__360.jpg,"Nam Ping, Yuen Long","南屏, 元朗区",22.448,114.024,M-07,🟡,62.59%
+361,I__361.jpg,"Tung Mei, Wong Tai Sin","東美, 黄大仙区",22.336,114.193,H-09,🟡,67.72%
+362,I__362.jpg,"King Tin, Kwun Tong","景田, 观塘区",22.309,114.233,J-28,🟡,61.58%
+363,I__363.jpg,"Fairview Park, Yuen Long","錦綉花園, 元朗区",22.487,114.035,M-35,🟡,55.41%
+364,I__364.jpg,"Yau Tong East, Kwun Tong","油塘東, 观塘区",22.295,114.242,J-23,🟡,50.21%
+365,I__365.jpg,"Tin King, Tuen Mun","田景, 屯门区",22.406,113.966,L-24,🟡,61.98%
+366,I__366.jpg,"Choi Wan East, Wong Tai Sin","彩雲東, 黄大仙区",22.337,114.219,H-21,🟡,51.77%
+367,I__367.jpg,"Wang Fuk, Tai Po","宏福, 大埔区",22.433,114.202,P-09,🟡,56.73%
+368,I__368.jpg,"Cheung Shek, Tsuen Wan","象石, 荃湾区",22.382,114.125,K-16,🟡,54.48%
+369,I__369.jpg,"Ma Hang Chung, Kowloon City","馬坑涌, 九龙城区",22.321,114.191,G-03,🟡,61.14%
+370,I__370.jpg,"City One, Sha Tin","第一城, 沙田区",22.388,114.203,R-04,🟡,65%
+371,I__371.jpg,"Cheung Wah, North","祥華, 北区",22.493,114.141,N-03,🟡,68.51%
+372,I__372.jpg,"Tai Pak Tin East, Kwai Tsing","大白田東, 葵青区",22.368,114.141,S-10,🟡,53.92%
+373,I__373.jpg,"Chung Wah, Yuen Long","頌華, 元朗区",22.46,113.998,M-25,🟡,57.72%
+374,I__374.jpg,"Heng Fa Chuen, Eastern","杏花邨, 東區",22.276,114.24,C-08,🟡,56.41%
+375,I__375.jpg,"Oi Chun, Kowloon City","愛俊, 九龙城区",22.314,114.178,G-25,🔵,46.52%
+376,I__376.jpg,"Cheung Chau, Islands","長洲, 离岛区",22.204,114.036,T-10,🟡,61.40%
+377,I__377.jpg,"Sau Mau Ping North, Kwun Tong","秀茂坪北, 观塘区",22.323,114.228,J-12,🟡,60.90%
+378,I__378.jpg,"Shap Pat Heung West, Yuen Long","十八鄉西, 元朗区",22.416,114.025,M-12,🟡,49.76%
+379,I__379.jpg,"Lei King Wan, Eastern","鯉景灣, 東區",22.285,114.223,C-03,🟡,57.22%
+380,I__380.jpg,"Mei Foo North, Sham Shui Po","美孚北, 深水埗区",22.34,114.138,F-17,🟡,62.05%
+381,I__381.jpg,"Southorn, Wan Chai","修頓, 灣仔區",22.271,114.17,B-12,🔵,48%
+382,I__382.jpg,"Tsz Wan West, Wong Tai Sin","慈雲西, 黄大仙区",22.348,114.198,H-16,🟡,57.91%
+383,I__383.jpg,"Hing Tin, Kwun Tong","興田, 观塘区",22.314,114.24,J-18,🟡,58.17%
+384,I__384.jpg,"Choi Tak, Kwun Tong","彩德, 观塘区",22.331,114.216,J-06,🔵,42.79%
+385,I__385.jpg,"Tai Po Hui, Tai Po","大埔墟, 大埔区",22.447,114.168,P-01,🟡,56.66%
+386,I__386.jpg,"Po Lam, Sai Kung","寶林, 西贡区",22.326,114.254,Q-18,🟡,57.60%
+387,I__387.jpg,"Siu Chi, Tuen Mun","兆置, 屯门区",22.386,113.981,L-02,🟡,78.13%
+388,I__388.jpg,"Fu Ming Sun, Tai Po","富明新, 大埔区",22.452,114.174,P-07,🟡,70.42%
+389,I__389.jpg,"Kin Ming, Sai Kung","健明, 西贡区",22.306,114.25,Q-07,🟡,73.49%
+390,I__390.jpg,"Heng On, Sha Tin","恆安, 沙田区",22.417,114.229,R-34,🟡,63.22%
+391,I__391.jpg,"Choi Wan West, Wong Tai Sin","彩雲西, 黄大仙区",22.336,114.213,H-23,🟡,54.39%
+392,I__392.jpg,"Shing Fuk, North","盛福, 北区",22.493,114.135,N-08,🔵,58.10%
+393,I__393.jpg,"Shuen Wan, Tai Po","船灣, 大埔区",22.478,114.25,P-18,🟡,50.99%
+394,I__394.jpg,"Tin Keung, Wong Tai Sin","天強, 黄大仙区",22.341,114.184,H-12,🟡,59.98%
+395,I__395.jpg,"Tai Po Central, Tai Po","大埔中, 大埔区",22.452,114.17,P-03,🟡,54.70%
+396,I__396.jpg,"Discovery Bay, Islands","愉景灣, 离岛区",22.299,114.008,T-07,🟡,64.67%
+397,I__397.jpg,"On Yam, Kwai Tsing","安蔭, 葵青区",22.377,114.142,S-11,🟡,52.01%
+398,I__398.jpg,"Jordan West, Yau Tsim Mong","佐敦西, 油尖旺区",22.308,114.164,E-03,🟡,53.84%
+399,I__399.jpg,"Tsuen Wan Rural, Tsuen Wan","荃灣郊區, 荃湾区",22.371,114.044,K-12,⚪,39.74%
+400,I__400.jpg,"Lower Ngau Tau Kok Estate, Kwun Tong","牛頭角下邨, 观塘区",22.323,114.216,J-39,🟡,51.68%
+401,I__401.jpg,"San King, Tuen Mun","新景, 屯门区",22.402,113.959,L-22,🟡,69.72%
+402,I__402.jpg,"Tai Koo Shing West, Eastern","太古城西, 東區",22.288,114.216,C-01,🟡,62.87%
+403,I__403.jpg,"Tai Pak Tin West, Kwai Tsing","大白田西, 葵青区",22.367,114.137,S-09,🔵,51.97%
+404,I__404.jpg,"Kam Tin, Yuen Long","錦田, 元朗区",22.447,114.061,M-37,🟡,52.84%
+405,I__405.jpg,"Do Shin, Sai Kung","都善, 西贡区",22.304,114.251,Q-08,⚪,50.95%
+406,I__406.jpg,"Hing Man, Eastern","興民, 東區",22.269,114.228,C-31,🟡,51.44%
+407,I__407.jpg,"Tai Po Kau, Tai Po","大埔滘, 大埔区",22.428,114.171,P-10,🟡,53.55%
+408,I__408.jpg,"Sha Kok, Sha Tin","沙角, 沙田区",22.379,114.194,R-07,🟡,59.82%
+409,I__409.jpg,"Fo Tan, Sha Tin","火炭, 沙田区",22.41,114.189,R-23,🟡,56.65%
+410,I__410.jpg,"Cherry, Yau Tsim Mong","櫻桃, 油尖旺区",22.319,114.165,E-09,🔵,46.58%
+411,I__411.jpg,"Tai Yuen, Tai Po","大元, 大埔区",22.456,114.169,P-04,🟡,57.81%
+412,I__412.jpg,"Shap Pat Heung Central, Yuen Long","十八鄉中, 元朗区",22.438,114.025,M-05,🟡,60.57%
+413,I__413.jpg,"Keng Hau, Sha Tin","徑口, 沙田区",22.364,114.174,R-17,🟡,60.11%
+414,I__414.jpg,"Pak Nga, Kwun Tong","栢雅, 观塘区",22.302,114.239,J-21,🟡,56.38%
+415,I__415.jpg,"Bik Woo, Sha Tin","碧湖, 沙田区",22.392,114.207,R-39,🟡,55.32%
+416,I__416.jpg,"Lee On, Sha Tin","利安, 沙田区",22.426,114.245,R-30,🟡,65.61%
+417,I__417.jpg,"Kwai Fong, Kwai Tsing","葵芳, 葵青区",22.36,114.132,S-14,🟡,62.83%
+418,I__418.jpg,"Sheung Shun, Kwun Tong","雙順, 观塘区",22.333,114.224,J-09,🔵,36.86%
+419,I__419.jpg,"Hung Hom, Kowloon City","紅磡, 九龙城区",22.307,114.184,G-22,🔵,46.14%
+420,I__420.jpg,"Sai Wan Ho, Eastern","西灣河, 東區",22.282,114.223,C-04,🟡,63.08%
+421,I__421.jpg,"Lung Ha, Wong Tai Sin","龍下, 黄大仙区",22.338,114.197,H-02,🟡,66.72%
+422,I__422.jpg,"Hoi Sham, Kowloon City","海心, 九龙城区",22.317,114.193,G-15,🔵,49.78%
+423,I__423.jpg,"To Kwa Wan North, Kowloon City","土瓜灣北, 九龙城区",22.315,114.189,G-16,🔵,44.98%
+424,I__424.jpg,"Ha Pak Tin, Sham Shui Po","下白田, 深水埗区",22.336,114.167,F-23,⚪,8.46%
+425,I__425.jpg,"Tuen Mun Town Centre, Tuen Mun","屯門市中心, 屯门区",22.393,113.977,L-01,🟡,63.19%
+426,I__426.jpg,"Wan Hang, Sai Kung","運亨, 西贡区",22.319,114.258,Q-21,🟡,65.16%
+427,I__427.jpg,"Chui Ka, Sha Tin","翠嘉, 沙田区",22.372,114.181,R-19,🟡,58.68%
+428,I__428.jpg,"Yue Wan, Eastern","漁灣, 東區",22.264,114.243,C-34,🟡,59.46%
+429,I__429.jpg,"Chung On, Sha Tin","頌安, 沙田区",22.421,114.229,R-26,🟡,60.92%
+430,I__430.jpg,"Cheung Hang, Kwai Tsing","長亨, 葵青区",22.359,114.09,S-29,🔵,46.52%
+431,I__431.jpg,"Canal Road, Wan Chai","鵝頸, 灣仔區",22.281,114.181,B-03,🟡,57.76%
+432,I__432.jpg,"Bays Area, Southern","海灣, 南区",22.239,114.191,D-16,🔵,30.01%
+433,I__433.jpg,"Lok Fu, Wong Tai Sin","樂富, 黄大仙区",22.337,114.188,H-10,🟡,55.53%
+434,I__434.jpg,"Po Lok, Kwun Tong","寶樂, 观塘区",22.317,114.228,J-31,🟡,64.38%
+435,I__435.jpg,"Tak Ming, Sai Kung","德明, 西贡区",22.315,114.268,Q-25,🟡,56.24%
+436,I__436.jpg,"Olympic, Yau Tsim Mong","奧運, 油尖旺区",22.32,114.156,E-08,🟡,58.13%
+437,I__437.jpg,"Hung Fuk, Yuen Long","洪福, 元朗区",22.437,113.997,M-14,🟡,51.44%
+438,I__438.jpg,"Tsing Yi Estate, Kwai Tsing","青衣邨, 葵青区",22.353,114.105,S-23,🟡,59.68%
+439,I__439.jpg,"Po Yee, Sai Kung","寶怡, 西贡区",22.307,114.263,Q-11,🟡,60.11%
+440,I__440.jpg,"King Lam, Sai Kung","景林, 西贡区",22.32,114.261,Q-22,🟡,60.98%
+441,I__441.jpg,"Fu Tai, Tuen Mun","富泰, 屯门区",22.414,113.989,L-30,🟡,61.76%
+442,I__442.jpg,"Tsui Ping, Kwun Tong","翠屏, 观塘区",22.313,114.234,J-29,🟡,52.37%
+443,I__443.jpg,"Lung Tsui, Wong Tai Sin","龍趣, 黄大仙区",22.34,114.197,H-01,🟡,52.34%
+444,I__444.jpg,"Choi Yuen, North","彩園, 北区",22.501,114.125,N-12,🟡,55.23%
+445,I__445.jpg,"Pok Hong, Sha Tin","博康, 沙田区",22.376,114.196,R-08,🟡,73.61%
+446,I__446.jpg,"Queen's Hill, North","皇后山, 北区",22.504,114.166,N-18,🟡,53.28%
+447,I__447.jpg,"Wah Ming, North","華明, 北区",22.484,114.141,N-05,🟡,63.89%
+448,I__448.jpg,"Kwun Lung, Central & Western","觀龍, 中西區",22.279,114.129,A-06,🟡,52.88%
+449,I__449.jpg,"Hoi Chun, Sai Kung","海晉, 西贡区",22.304,114.26,Q-10,🟡,59.37%
+450,I__450.jpg,"Yan Shing, North","欣盛, 北区",22.478,114.138,N-06,🟡,57.84%
+451,I__451.jpg,"Kam To, Sha Tin","錦濤, 沙田区",22.423,114.225,R-27,🟡,60.01%
+452,I__452.jpg,"Peng Chau & Hei Ling Chau, Islands","坪洲及喜靈洲, 离岛区",22.25,114.043,T-08,🔵,42.17%
