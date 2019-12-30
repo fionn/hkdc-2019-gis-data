@@ -1,453 +1,453 @@
 sort,filename,caption_en,caption_zh,latitude,longitude,electoral_code,dc_winner,percentage_democracy
-1,001.jpg,"Tin Yiu, Yuen Long","天耀, 元朗区",22.45,114.004,M-19,democracy,61.20
-2,002.jpg,"San Po Kong, Wong Tai Sin","新蒲崗, 黄大仙区",22.336,114.2,H-07,democracy,55.77
-3,003.jpg,"Mong Kok East, Sham Shui Po","旺角東, 油尖旺区",22.324,114.171,E-14,democracy,59.39
-4,004.jpg,"Tai Wai, Sha Tin","大圍, 沙田区",22.377,114.177,R-20,democracy,54.27
-5,005.jpg,"Hennessy, Wan Chai","軒尼詩, 灣仔區",22.281,114.176,B-01,democracy,68.23
-6,006.jpg,"Tuen Mun Rural, Tuen Mun","屯門鄉郊, 屯门区",22.423,113.989,L-29,democracy,60.17
-7,007.jpg,"Shek Wu Hui, North","石湖墟, 北区",22.504,114.127,N-13,democracy,62.09
-8,008.jpg,"Ha Tsuen, Yuen Long","廈村, 元朗区",22.443,113.973,M-15,establishment,41.59
-9,009.jpg,"Fanling South, North","粉嶺南, 北区",22.489,114.137,N-07,democracy,57.58
-10,010.jpg,"Shap Pat Heung North, Yuen Long","十八鄉北, 元朗区",22.452,114.04,M-10,establishment,45.80
-11,011.jpg,"Luen Wo Hui, North","聯和墟, 北区",22.5,114.143,N-01,democracy,56.49
-12,012.jpg,"Ting Sham, Tsuen Wan","汀深, 荃湾区",22.376,114.059,K-13,democracy,52.97
-13,013.jpg,"Hing Tung, Eastern","興東, 東區",22.281,114.219,C-28,democracy,57.82
-14,014.jpg,"Wan Shing, Sha Tin","雲城, 沙田区",22.37,114.176,R-16,democracy,59.79
-15,015.jpg,"Chung Tin, Sha Tin","松田, 沙田区",22.383,114.166,R-21,democracy,60.51
-16,016.jpg,"Fortune, Sham Shui Po","幸福, 深水埗区",22.334,114.154,F-11,democracy,50.61
-17,017.jpg,"So Uk, Sham Shui Po","蘇屋, 深水埗区",22.341,114.157,F-20,establishment,48.29
-18,018.jpg,"Fortress Hill, Eastern","炮台山, 東區",22.287,114.194,C-17,democracy,57.72
-19,019.jpg,"Kwong Hong, Sha Tin","廣康, 沙田区",22.39,114.217,R-40,democracy,57.32
-20,020.jpg,"Ching Oi, Wong Tai Sin","正愛, 黄大仙区",22.352,114.199,H-17,democracy,61.10
-21,021.jpg,"Kwai Shing West Estate, Kwai Tsing","葵盛西邨, 葵青区",22.358,114.118,S-20,democracy,57.15
-22,022.jpg,"Lei Muk Shue West, Tsuen Wan","梨木樹西, 荃湾区",22.378,114.135,K-18,democracy,66.20
-23,023.jpg,"Sau Mau Ping South, Kwun Tong","秀茂坪南, 观塘区",22.316,114.235,J-15,establishment,48.27
-24,024.jpg,"Hung Hom Bay, Kowloon City","紅磡灣, 九龙城区",22.305,114.185,G-21,democracy,55.36
-25,025.jpg,"Laguna City, Kwun Tong","麗港城, 观塘区",22.306,114.227,J-27,democracy,62.01
-26,026.jpg,"Wang Tau Hom, Wong Tai Sin","橫頭磡, 黄大仙区",22.341,114.188,H-11,democracy,57.05
-27,027.jpg,"Tung Chung Central, Islands","東涌中, 离岛区",22.292,113.946,T-05,democracy,53.44
-28,028.jpg,"Wan Tsui, Eastern","環翠, 東區",22.259,114.243,C-13,democracy,52.36
-29,029.jpg,"Kwai Hing, Kwai Tsing","葵興, 葵青区",22.367,114.133,S-01,democracy,71.50
-30,030.jpg,"Nam Shan, Tai Hang Tung & Tai Hang Sai, Sham Shui Po","南山, 大坑東及大坑西, 深水埗区",22.331,114.17,F-25,democracy,59.31
-31,031.jpg,"Jordan South, Yau Tsim Mong","佐敦南, 油尖旺区",22.304,114.171,E-19,democracy,51.10
-32,032.jpg,"Sai Kung North, Tai Po","西貢北, 大埔区",22.436,114.312,P-19,democracy,58.16
-33,033.jpg,"Shui Chuen O, Sha Tin","水泉澳, 沙田区",22.365,114.2,R-09,democracy,50.15
-34,034.jpg,"Pik Wui, Sham Shui Po","碧匯, 深水埗区",22.326,114.151,F-12,democracy,57.91
-35,035.jpg,"Sai Kung Central, Sai Kung","西貢市中心, 西贡区",22.377,114.27,Q-01,democracy,54.41
-36,036.jpg,"Yuen Lung, Yuen Long","元龍, 元朗区",22.443,114.037,M-04,democracy,58.13
-37,037.jpg,"Yuet Yan, Yuen Long","悅恩, 元朗区",22.463,113.996,M-28,democracy,54.63
-38,038.jpg,"Fu Heng, Tai Po","富亨, 大埔区",22.459,114.174,P-05,democracy,67.45
-39,039.jpg,"Tai Shui Hang, Sha Tin","大水坑, 沙田区",22.404,114.24,R-35,democracy,58.72
-40,040.jpg,"Shek Yam, Kwai Tsing","石蔭, 葵青区",22.372,114.137,S-08,democracy,56.73
-41,041.jpg,"Tanner, Eastern","丹拿, 東區",22.29,114.203,C-22,democracy,57.65
-42,042.jpg,"Tsui Hing, Tuen Mun","翠興, 屯门区",22.399,113.971,L-07,democracy,60.62
-43,043.jpg,"Kwun Tong On Tai, Kwun Tong","觀塘安泰, 观塘区",22.327,114.23,J-11,democracy,56.42
-44,044.jpg,"Lai Chi Kok South, Sham Shui Po","荔枝角南, 深水埗区",22.322,114.14,F-14,democracy,62.72
-45,045.jpg,"Kowloon Bay, Kwun Tong","九龍灣, 观塘区",22.323,114.209,J-02,democracy,89.48
-46,046.jpg,"Ping Shek, Kwun Tong","坪石, 观塘区",22.332,114.211,J-05,democracy,51.14
-47,047.jpg,"Ching Fat, Kwai Tsing","青發, 葵青区",22.362,114.096,S-30,democracy,56.55
-48,048.jpg,"Chung Wan, Central & Western","中環, 中西區",22.283,114.159,A-01,democracy,55.09
-49,049.jpg,"Greenfield, Kwai Tsing","翠怡, 葵青区",22.352,114.109,S-24,democracy,52.52
-50,050.jpg,"Kwan Po, Sai Kung","軍寶, 西贡区",22.312,114.263,Q-27,democracy,62.40
-51,051.jpg,"Kai Hiu, Eastern","佳曉, 東區",22.261,114.248,C-35,establishment,49.28
-52,052.jpg,"Old Market & Serenity, Tai Po","舊墟及太湖, 大埔区",22.456,114.158,P-16,democracy,69.97
-53,053.jpg,"Lok Man, Kowloon City","樂民, 九龙城区",22.317,114.186,G-05,establishment,44.86
-54,054.jpg,"Chun Cheung, Kwun Tong","俊翔, 观塘区",22.299,114.242,J-22,democracy,62.21
-55,055.jpg,"Tung Chung North, Islands","東涌北, 离岛区",22.308,113.924,T-06,democracy,39.56
-56,056.jpg,"Kwai Chung Estate South, Kwai Tsing","葵涌邨南, 葵青区",22.367,114.129,S-06,democracy,55.60
-57,057.jpg,"Wu Kai Sha, Sha Tin","烏溪沙, 沙田区",22.432,114.242,R-29,democracy,64.14
-58,058.jpg,"Yau Ma Tei South, Yau Tsim Mong","油麻地南, 油尖旺区",22.311,114.166,E-04,democracy,55.10
-59,059.jpg,"Fu Cheong, Sham Shui Po","富昌, 深水埗区",22.33,114.155,F-09,democracy,51.10
-60,060.jpg,"Lok Wah South, Kwun Tong","樂華南, 观塘区",22.32,114.222,J-34,democracy,50.73
-61,061.jpg,"Lei Muk Shue East, Tsuen Wan","梨木樹東, 荃湾区",22.374,114.134,K-19,democracy,68.11
-62,062.jpg,"Yuet Wah, Kwun Tong","月華, 观塘区",22.314,114.227,J-32,democracy,53.73
-63,063.jpg,"Lung Ping & Sheung Pak Tin, Sham Shui Po","龍坪及上白田, 深水埗区",22.343,114.161,F-22,democracy,70.58
-64,064.jpg,"Yau Tong West, Kwun Tong","油塘西, 观塘区",22.301,114.23,J-26,establishment,47.89
-65,065.jpg,"Lai Kok, Sham Shui Po","麗閣, 深水埗区",22.332,114.158,F-10,democracy,54.07
-66,066.jpg,"San Hui, Tuen Mun","新墟, 屯门区",22.4,113.998,L-11,democracy,60.49
-67,067.jpg,"Choi Hung, Wong Tai Sin","彩虹, 黄大仙区",22.336,114.206,H-25,democracy,50.60
-68,068.jpg,"Fu Yan, Yuen Long","富恩, 元朗区",22.465,113.998,M-30,democracy,54.87
-69,069.jpg,"Kam Ying, Sha Tin","錦英, 沙田区",22.42,114.234,R-32,democracy,59.39
-70,070.jpg,"Po Lai, Sham Shui Po","寶麗, 深水埗区",22.336,114.158,F-01,democracy,63.96
-71,071.jpg,"On Ho, Kwai Tsing","安灝, 葵青区",22.361,114.107,S-21,democracy,59.57
-72,072.jpg,"Mong Kok West, Yau Tsim Mong","旺角西, 油尖旺区",22.317,114.168,E-06,establishment,45.95
-73,073.jpg,"Shek Lei North, Kwai Tsing","石籬北, 葵青区",22.366,114.14,S-12,democracy,62.36
-74,074.jpg,"Butterfly, Tuen Mun","蝴蝶, 屯门区",22.376,113.963,L-18,democracy,60.37
-75,075.jpg,"Sheung Shui Rural, North","上水鄉郊, 北区",22.502,114.102,N-11,establishment,43.44
-76,076.jpg,"Fei Tsui, Eastern","翡翠, 東區",22.263,114.223,C-14,democracy,56.70
-77,077.jpg,"Kai Yip, Kwun Tong","啟業, 观塘区",22.328,114.21,J-03,democracy,53.88
-78,078.jpg,"Kai Tak Central & South, Kowloon City","啟德中及南, 九龙城区",22.325,114.197,G-14,establishment,46.48
-79,079.jpg,"Wong Uk, Sha Tin","王屋, 沙田区",22.382,114.199,R-06,democracy,66.72
-80,080.jpg,"Mei Foo South, Sham Shui Po","美孚南, 深水埗区",22.334,114.142,F-15,democracy,56.33
-81,081.jpg,"Hiu Lai, Kwun Tong","曉麗, 观塘区",22.32,114.229,J-30,democracy,60.02
-82,082.jpg,"Tai Nan, Sham Shui Po","大南, 油尖旺区",22.325,114.166,E-12,democracy,58.32
-83,083.jpg,"Ap Lei Chau North, Southern","鴨脷洲北, 南区",22.244,114.156,D-03,democracy,61.73
-84,084.jpg,"Pat Heung North, Yuen Long","八鄉北, 元朗区",22.451,114.096,M-38,establishment,33.91
-85,085.jpg,"Mid Levels East, Central & Western","半山東, 中西區",22.279,114.154,A-02,democracy,57.28
-86,086.jpg,"Pek Long, Yuen Long","北朗, 元朗区",22.451,114.024,M-08,democracy,62.91
-87,087.jpg,"Mount Parker, Eastern","柏架山, 東區",22.27,114.21,C-15,establishment,48.32
-88,088.jpg,"Hang Hau West, Sai Kung","坑口西, 西贡区",22.333,114.235,Q-05,democracy,59.78
-89,089.jpg,"Tak Wah, Tsuen Wan","德華, 荃湾区",22.371,114.118,K-01,democracy,55.48
-90,090.jpg,"Po Nga, Tai Po","寶雅, 大埔区",22.452,114.157,P-14,democracy,66.86
-91,091.jpg,"Chung Pak, Yuen Long","頌栢, 元朗区",22.46,114.001,M-26,democracy,58.84
-92,092.jpg,"Po Tat, Kwun Tong","寶達, 观塘区",22.318,114.24,J-16,democracy,52.21
-93,093.jpg,"Tsz Wan East, Wong Tai Sin","慈雲東, 黄大仙区",22.347,114.204,H-19,democracy,56.51
-94,094.jpg,"Tai Fat Hau, Wan Chai","大佛口, 灣仔區",22.279,114.169,B-13,democracy,51.46
-95,095.jpg,"Chuk Yuen South, Wong Tai Sin","竹園南, 黄大仙区",22.344,114.19,H-14,democracy,59.84
-96,096.jpg,"Hong Lok Yuen, Tai Po","康樂園, 大埔区",22.473,114.177,P-17,democracy,57.72
-97,097.jpg,"Tsuen Wan West, Tsuen Wan","荃灣西, 荃湾区",22.373,114.105,K-05,democracy,61.85
-98,098.jpg,"Hanford, Tuen Mun","恒福, 屯门区",22.379,113.982,L-14,democracy,66.07
-99,099.jpg,"Wah Lai, Kwai Tsing","華麗, 葵青区",22.354,114.135,S-16,democracy,52.01
-100,100.jpg,"Whampoa West, Kowloon City","黃埔西, 九龙城区",22.303,114.187,G-20,democracy,61.84
-101,101.jpg,"Tsz Yau, Yuen Long","慈祐, 元朗区",22.453,114.008,M-21,democracy,64.08
-102,102.jpg,"Kwong Yuen, Sha Tin","廣源, 沙田区",22.381,114.215,R-41,democracy,57.74
-103,103.jpg,"Wai Ying, Kwai Tsing","偉盈, 葵青区",22.357,114.106,S-22,democracy,59.88
-104,104.jpg,"Sheung Lok, Kowloon City","常樂, 九龙城区",22.316,114.183,G-06,democracy,57.63
-105,105.jpg,"Hip Hong, Kwun Tong","協康, 观塘区",22.318,114.225,J-33,democracy,52.86
-106,106.jpg,"Chi Fu, Southern","置富, 南区",22.259,114.14,D-12,democracy,61
-107,107.jpg,"Lai King, Kwai Tsing","荔景, 葵青区",22.323,114.128,S-19,democracy,51.51
-108,108.jpg,"Lam Tsuen Valley, Tai Po","林村谷, 大埔区",22.446,114.135,P-13,democracy,52.05
-109,109.jpg,"Peak, Central & Western","山頂, 中西區",22.267,114.152,A-04,establishment,31.35
-110,110.jpg,"Wan Po South, Sai Kung","環保南, 西贡区",22.285,114.268,Q-29,nonpartisan,47.23
-111,111.jpg,"Sha Ta, North","沙打, 北区",22.509,114.224,N-16,establishment,41.63
-112,112.jpg,"Fort Street, Eastern","堡壘, 東區",22.29,114.198,C-20,democracy,50.61
-113,113.jpg,"King Yee, Eastern","景怡, 東區",22.26,114.254,C-12,democracy,57.14
-114,114.jpg,"Causeway Bay, Wan Chai","銅鑼灣, 灣仔區",22.28,114.185,B-04,democracy,54.96
-115,115.jpg,"Ma Tau Wai, Kowloon City","馬頭圍, 九龙城区",22.325,114.187,G-01,democracy,52.84
-116,116.jpg,"Wah Fu South, Southern","華富南, 南区",22.251,114.135,D-09,democracy,55.74
-117,117.jpg,"Allway, Tsuen Wan","荃威, 荃湾区",22.394,114.117,K-15,democracy,56.32
-118,118.jpg,"Kwun Tong Central, Kwun Tong","觀塘中心, 观塘区",22.313,114.219,J-01,democracy,56.05
-119,119.jpg,"Oi Kwan, Wan Chai","愛群, 灣仔區",22.278,114.178,B-02,democracy,57.45
-120,120.jpg,"Oi Man, Kowloon City","愛民, 九龙城区",22.312,114.181,G-24,democracy,53.30
-121,121.jpg,"Lok Wah North, Kwun Tong","樂華北, 观塘区",22.321,114.221,J-35,democracy,60.73
-122,122.jpg,"Sheung Tak, Sai Kung","尚德, 西贡区",22.311,114.258,Q-14,democracy,61.29
-123,123.jpg,"Choi Kin, Sai Kung","彩健, 西贡区",22.307,114.254,Q-06,democracy,60.39
-124,124.jpg,"Tsuen Wan Centre, Tsuen Wan","荃灣中心, 荃湾区",22.377,114.108,K-07,democracy,61.06
-125,125.jpg,"Nam On, Sai Kung","南安, 西贡区",22.316,114.262,Q-26,democracy,67.92
-126,126.jpg,"Sai Kung Islands, Sai Kung","西貢離島, 西贡区",22.392,114.343,Q-03,democracy,57.81
-127,127.jpg,"Jardine's Lookout, Wan Chai","渣甸山, 灣仔區",22.269,114.197,B-08,establishment,41.44
-128,128.jpg,"Kowloon Tong, Kowloon City","九龍塘, 九龙城区",22.339,114.18,G-10,establishment,46.51
-129,129.jpg,"Leung King, Tuen Mun","良景, 屯门区",22.407,113.963,L-23,democracy,61.87
-130,130.jpg,"Tsim Sha Tsui West, Yau Tsim Mong","尖沙咀西, 油尖旺区",22.298,114.17,E-01,democracy,56.65
-131,131.jpg,"Hong King, Sai Kung","康景, 西贡区",22.32,114.254,Q-16,democracy,65.36
-132,132.jpg,"Centre Street, Central & Western","正街, 中西區",22.286,114.143,A-14,democracy,58.90
-133,133.jpg,"Prime View, Tuen Mun","景峰, 屯门区",22.408,113.981,L-31,democracy,67.63
-134,134.jpg,"Tai Kok Tsui South, Yau Tsim Mong","大角咀南, 油尖旺区",22.321,114.163,E-10,democracy,56
-135,135.jpg,"So Kwun Wat, Tuen Mun","掃管笏, 屯门区",22.378,114.005,L-12,democracy,53.23
-136,136.jpg,"Braemar Hill, Eastern","寶馬山, 東區",22.282,114.2,C-16,establishment,44.77
-137,137.jpg,"Tai Wo, Tai Po","太和, 大埔区",22.452,114.162,P-15,democracy,58.56
-138,138.jpg,"Ching On, Wong Tai Sin","正安, 黄大仙区",22.353,114.212,H-18,democracy,69.41
-139,139.jpg,"Tin Sum, Sha Tin","田心, 沙田区",22.369,114.18,R-18,democracy,52.48
-140,140.jpg,"Sha Tin Town Centre, Sha Tin","沙田市中心, 沙田区",22.378,114.186,R-01,democracy,67.98
-141,141.jpg,"Mong Kok South, Yau Tsim Mong","旺角南, 油尖旺区",22.319,114.171,E-15,democracy,53.09
-142,142.jpg,"Kwai Shing East Estate, Kwai Tsing","葵盛東邨, 葵青区",22.364,114.127,S-03,democracy,62.63
-143,143.jpg,"Jat Chuen, Sha Tin","乙泉, 沙田区",22.371,114.193,R-10,democracy,66.39
-144,144.jpg,"Wang Yat, Yuen Long","宏逸, 元朗区",22.47,114.005,M-33,democracy,62.16
-145,145.jpg,"Nam Cheong West, Sham Shui Po","南昌西, 深水埗区",22.327,114.159,F-08,democracy,63.27
-146,146.jpg,"Broadwood, Wan Chai","樂活, 灣仔區",22.272,114.187,B-09,establishment,47.08
-147,147.jpg,"Kwong Ming, Sai Kung","廣明, 西贡区",22.313,114.257,Q-15,democracy,56.80
-148,148.jpg,"On Lee, Kwun Tong","安利, 观塘区",22.329,114.227,J-10,democracy,57.69
-149,149.jpg,"Tin Ping East, North","天平東, 北区",22.504,114.141,N-17,democracy,63.07
-150,150.jpg,"Cheung Sha Wan, Sham Shui Po","長沙灣, 深水埗区",22.335,114.161,F-02,democracy,61.04
-151,151.jpg,"Kornhill, Eastern","康怡, 東區",22.282,114.216,C-26,democracy,59.12
-152,152.jpg,"Nam Cheong South, Sham Shui Po","南昌南, 深水埗区",22.328,114.165,F-06,democracy,57.37
-153,153.jpg,"Clague Garden, Tsuen Wan","祈德尊, 荃湾区",22.371,114.111,K-06,democracy,50.61
-154,154.jpg,"Mun Yat, Islands","滿逸, 离岛区",22.281,113.936,T-02,democracy,67.62
-155,155.jpg,"Fung Tak, Wong Tai Sin","鳳德, 黄大仙区",22.344,114.201,H-05,democracy,56.13
-156,156.jpg,"On Tat, Kwun Tong","安達, 观塘区",22.32,114.236,J-14,establishment,40.06
-157,157.jpg,"Shek Kip Mei, Sham Shui Po","石硤尾, 深水埗区",22.333,114.166,F-04,democracy,50.08
-158,158.jpg,"Lamma & Po Toi, Islands","南丫及蒲台, 离岛区",22.194,114.131,T-09,establishment,49.22
-159,159.jpg,"Sui Wo, Sha Tin","穗禾, 沙田区",22.397,114.181,R-22,democracy,58.47
-160,160.jpg,"On Tai, Sha Tin","鞍泰, 沙田区",22.409,114.221,R-36,democracy,58.57
-161,161.jpg,"Wah Fu North, Southern","華富北, 南区",22.254,114.137,D-10,democracy,61.32
-162,162.jpg,"Di Yee, Sha Tin","帝怡, 沙田区",22.387,114.207,R-38,establishment,56.48
-163,163.jpg,"Choi Wan South, Wong Tai Sin","彩雲南, 黄大仙区",22.334,114.217,H-22,democracy,58.01
-164,164.jpg,"Wah Kwai, Southern","華貴, 南区",22.25,114.138,D-08,democracy,59.34
-165,165.jpg,"Tsing Yi South, Kwai Tsing","青衣南, 葵青区",22.34,114.1,S-28,democracy,54.46
-166,166.jpg,"Kin Sang, Tuen Mun","建生, 屯门区",22.407,113.969,L-26,democracy,60.44
-167,167.jpg,"Sheung Wan, Central & Western","上環, 中西區",22.288,114.148,A-12,democracy,68.15
-168,168.jpg,"Yan Tin, Tuen Mun","欣田, 屯门区",22.417,113.975,L-28,establishment,39.86
-169,169.jpg,"Lok Hong, Eastern","樂康, 東區",22.271,114.236,C-32,democracy,56
-170,170.jpg,"Victoria Park, Wan Chai","維園, 灣仔區",22.284,114.19,B-05,democracy,54.07
-171,171.jpg,"Siu Sai Wan, Eastern","小西灣, 東區",22.264,114.248,C-11,democracy,53.67
-172,172.jpg,"University, Central & Western","大學, 中西區",22.279,114.138,A-05,democracy,51.35
-173,173.jpg,"Yau Oi North, Tuen Mun","友愛北, 屯门区",22.386,113.971,L-06,democracy,63.47
-174,174.jpg,"Shek Lei South, Kwai Tsing","石籬南, 葵青区",22.363,114.141,S-13,democracy,58.93
-175,175.jpg,"A Kung Ngam, Eastern","阿公岩, 東區",22.279,114.233,C-07,democracy,52.71
-176,176.jpg,"Wah Do, North","華都, 北区",22.486,114.142,N-04,democracy,58.68
-177,177.jpg,"Fung Nin, Yuen Long","豐年, 元朗区",22.442,114.026,M-01,democracy,53.65
-178,178.jpg,"Tin Shing, Yuen Long","天盛, 元朗区",22.448,113.999,M-18,democracy,54.18
-179,179.jpg,"Kai Tak North, Kowloon City","啟德北, 九龙城区",22.333,114.203,G-12,establishment,45.52
-180,180.jpg,"Yau Oi South, Tuen Mun","友愛南, 屯门区",22.387,113.974,L-05,democracy,63.44
-181,181.jpg,"To Tai, Kwun Tong","淘大, 观塘区",22.325,114.216,J-40,democracy,62.16
-182,182.jpg,"Kam Ping, Eastern","錦屏, 東區",22.29,114.2,C-21,democracy,50.70
-183,183.jpg,"Yat Chak, Yuen Long","逸澤, 元朗区",22.468,113.998,M-31,democracy,58.14
-184,184.jpg,"Aldrich Bay, Eastern","愛秩序灣, 東區",22.282,114.227,C-05,democracy,54.78
-185,185.jpg,"Ching King, Yuen Long","晴景, 元朗区",22.464,114.005,M-29,democracy,54.70
-186,186.jpg,"Chi Choi, Wong Tai Sin","池彩, 黄大仙区",22.337,114.209,H-24,democracy,58.67
-187,187.jpg,"South Horizons East, Southern","海怡東, 南区",22.24,114.151,D-06,democracy,55.89
-188,188.jpg,"Lai Wah, Kwai Tsing","荔華, 葵青区",22.347,114.14,S-17,democracy,56.18
-189,189.jpg,"Pak Sha Wan, Sai Kung","白沙灣, 西贡区",22.359,114.236,Q-02,democracy,57.08
-190,190.jpg,"Water Street, Central & Western","水街, 中西區",22.285,114.139,A-15,democracy,59.62
-191,191.jpg,"Upper Tai Wo Hau, Kwai Tsing","上大窩口, 葵青区",22.367,114.123,S-04,democracy,57.21
-192,192.jpg,"Po Tin, Tuen Mun","寶田, 屯门区",22.42,113.954,L-25,establishment,42.39
-193,193.jpg,"Tai Hang, Wan Chai","大坑, 灣仔區",22.28,114.19,B-07,democracy,62.02
-194,194.jpg,"Shap Pat Heung East, Yuen Long","十八鄉東, 元朗区",22.426,114.044,M-11,democracy,48.04
-195,195.jpg,"King Fu, Wong Tai Sin","瓊富, 黄大仙区",22.345,114.215,H-20,democracy,58.75
-196,196.jpg,"Lower Yiu Tung, Eastern","下耀東, 東區",22.278,114.226,C-29,democracy,60.55
-197,197.jpg,"Tai Koo Shing East, Eastern","太古城東, 東區",22.287,114.22,C-02,democracy,60.95
-198,198.jpg,"San Fu, Tai Po","新富, 大埔区",22.446,114.161,P-12,democracy,56.43
-199,199.jpg,"Tung Chung South, Islands","東涌南, 离岛区",22.29,113.94,T-04,democracy,56.49
-200,200.jpg,"Stubbs Road, Wan Chai","司徒拔道, 灣仔區",22.263,114.178,B-11,establishment,45.47
-201,201.jpg,"Tai Kok Tsui North, Yau Tsim Mong","大角咀北, 油尖旺区",22.324,114.162,E-11,democracy,52.16
-202,202.jpg,"Siu Hong, Tuen Mun","兆康, 屯门区",22.408,113.974,L-27,democracy,56.28
-203,203.jpg,"Mei Foo Central, Sham Shui Po","美孚中, 深水埗区",22.336,114.138,F-16,democracy,60.14
-204,204.jpg,"Provident, ","和富, 東區",22.293,114.2,C-19,establishment,48.94
-205,205.jpg,"Upper Ngau Tau Kok Estate, Kwun Tong","牛頭角上邨, 观塘区",22.319,114.217,J-38,establishment,48.79
-206,206.jpg,"Sai Ying Pun, Central & Western","西營盤, 中西區",22.289,114.142,A-11,democracy,55.39
-207,207.jpg,"Wai Yan, Sai Kung","慧茵, 西贡区",22.323,114.255,Q-20,democracy,61.24
-208,208.jpg,"Shek Yue, Southern","石漁, 南区",22.25,114.158,D-14,democracy,56.21
-209,209.jpg,"Hang Hau East, Sai Kung","坑口東, 西贡区",22.295,114.286,Q-04,democracy,49.57
-210,210.jpg,"Cheung On, Kwai Tsing","長安, 葵青区",22.361,114.102,S-31,democracy,53.14
-211,211.jpg,"Kornhill Garden, Eastern","康山, 東區",22.284,114.216,C-27,democracy,59.24
-212,212.jpg,"Pokfulam, Southern","薄扶林, 南区",22.267,114.128,D-11,democracy,55.97
-213,213.jpg,"Lower Tai Wo Hau, Kwai Tsing","下大窩口, 葵青区",22.369,114.124,S-05,democracy,69.73
-214,214.jpg,"Ma On Shan Town Centre, Sha Tin","馬鞍山市中心, 沙田区",22.426,114.231,R-28,democracy,63.12
-215,215.jpg,"Fu Sun, Tuen Mun","富新, 屯门区",22.381,113.966,L-19,democracy,60.39
-216,216.jpg,"Chun Fung, Sha Tin","秦豐, 沙田区",22.374,114.187,R-11,democracy,68.10
-217,217.jpg,"Jordan North, Yau Tsim Mong","佐敦北, 油尖旺区",22.307,114.171,E-18,democracy,56.02
-218,218.jpg,"Shan King, Tuen Mun","山景, 屯门区",22.397,113.965,L-08,democracy,64.31
-219,219.jpg,"Fung Wong, Wong Tai Sin","鳳凰, 黄大仙区",22.344,114.197,H-04,democracy,61.15
-220,220.jpg,"Shun Tin, Kwun Tong","順天, 观塘区",22.327,114.223,J-08,democracy,62.03
-221,221.jpg,"Chui Tin, Sha Tin","翠田, 沙田区",22.358,114.179,R-13,democracy,64.97
-222,222.jpg,"Ap Lei Chau Estate, Southern","鴨脷洲邨, 南区",22.245,114.151,D-02,establishment,48.57
-223,223.jpg,"Shaukeiwan, Eastern","筲箕灣, 東區",22.279,114.229,C-06,democracy,62.82
-224,224.jpg,"Tsui Lam, Sai Kung","翠林, 西贡区",22.321,114.249,Q-17,democracy,55.47
-225,225.jpg,"Hoi Nam, Sha Tin","海嵐, 沙田区",22.415,114.223,R-25,democracy,65.15
-226,226.jpg,"Siu Tsui, Tuen Mun","兆翠, 屯门区",22.383,113.974,L-04,democracy,57.73
-227,227.jpg,"Lai Ching, Kwun Tong","麗晶, 观塘区",22.33,114.206,J-04,democracy,68.26
-228,228.jpg,"Lai Chi Kok North, Sham Shui Po","荔枝角北, 深水埗区",22.338,114.149,F-18,democracy,66.62
-229,229.jpg,"Chun Ma, Sha Tin","駿馬, 沙田区",22.415,114.209,R-24,democracy,50.43
-230,230.jpg,"Shing Hong, Kwai Tsing","盛康, 葵青区",22.35,114.101,S-27,establishment,49.18
-231,231.jpg,"Mong Kok North, Yau Tsim Mong","旺角北, 油尖旺区",22.322,114.167,E-13,democracy,51
-232,232.jpg,"Yau Chui, Kwun Tong","油翠, 观塘区",22.295,114.239,J-24,establishment,43.26
-233,233.jpg,"Ho Man Tin, Kowloon City","何文田, 九龙城区",22.319,114.179,G-07,democracy,51.41
-234,234.jpg,"Tsui Chuk & Pang Ching, Wong Tai Sin","翠竹及鵬程, 黄大仙区",22.347,114.186,H-13,democracy,48.65
-235,235.jpg,"Kai Tak East, Kowloon City","啟德東, 九龙城区",22.331,114.203,G-13,establishment,41.02
-236,236.jpg,"Shui Wah, Yuen Long","瑞華, 元朗区",22.459,113.996,M-24,democracy,58.62
-237,237.jpg,"East Tsim Sha Tsui & King's Park, Yau Tsim Mong","尖東及京士柏, 油尖旺区",22.3,114.183,E-17,democracy,52.69
-238,238.jpg,"Lei Tung II, Southern","利東二, 南区",22.241,114.155,D-05,democracy,62.84
-239,239.jpg,"Lung Mun, Tuen Mun","龍門, 屯门区",22.391,113.964,L-21,democracy,60.07
-240,240.jpg,"Tsuen Wan South, Tsuen Wan","荃灣南, 荃湾区",22.365,114.116,K-03,democracy,54.34
-241,241.jpg,"Sung Wong Toi, Kowloon City","宋皇臺, 九龙城区",22.322,114.192,G-02,democracy,67.59
-242,242.jpg,"Yau Ma Tei North, Yau Tsim Mong","油麻地北, 油尖旺区",22.314,114.171,E-16,democracy,67.43
-243,243.jpg,"Yan Lam, Eastern","欣藍, 東區",22.266,114.25,C-10,democracy,52.18
-244,244.jpg,"Lai To, Tsuen Wan","麗濤, 荃湾区",22.385,114.091,K-14,democracy,58.45
-245,245.jpg,"Kingswood North, Yuen Long","嘉湖北, 元朗区",22.459,114.006,M-27,democracy,49.93
-246,246.jpg,"King Hing, Tuen Mun","景興, 屯门区",22.402,113.969,L-09,establishment,47.90
-247,247.jpg,"Chuk Yuen North, Wong Tai Sin","竹園北, 黄大仙区",22.348,114.191,H-15,democracy,55.50
-248,248.jpg,"Ting On, Kwun Tong","定安, 观塘区",22.316,114.22,J-37,democracy,56.14
-249,249.jpg,"O Tong, Sai Kung","澳唐, 西贡区",22.308,114.257,Q-13,democracy,63.09
-250,250.jpg,"Sam Shing, Tuen Mun","三聖, 屯门区",22.387,114.041,L-13,democracy,56.32
-251,251.jpg,"Nam Fung, Eastern","南豐, 東區",22.282,114.214,C-25,democracy,65.48
-252,252.jpg,"Yau Lai, Kwun Tong","油麗, 观塘区",22.301,114.235,J-25,democracy,54.82
-253,253.jpg,"Fung Tsui, North","鳳翠, 北区",22.515,114.127,N-15,democracy,55.06
-254,254.jpg,"Ma Tau Kok, Kowloon City","馬頭角, 九龙城区",22.319,114.189,G-04,democracy,52.79
-255,255.jpg,"Tin Hau, Wan Chai","天后, 灣仔區",22.282,114.193,B-06,democracy,52.50
-256,256.jpg,"Fu Nam, Sai Kung","富藍, 西贡区",22.318,114.269,Q-24,democracy,56.81
-257,257.jpg,"On Ting, Tuen Mun","安定, 屯门区",22.386,113.977,L-03,democracy,55.93
-258,258.jpg,"Lung Sheung, Wong Tai Sin","龍上, 黄大仙区",22.339,114.192,H-03,democracy,55.47
-259,259.jpg,"Sun Tin Wai, Sha Tin","新田圍, 沙田区",22.357,114.187,R-12,democracy,60.61
-260,260.jpg,"Yiu On, Sha Tin","耀安, 沙田区",22.42,114.231,R-33,democracy,61.50
-261,261.jpg,"Un Chau, Sham Shui Po","元州, 深水埗区",22.338,114.156,F-19,democracy,53.61
-262,262.jpg,"Tin Ping West, North","天平西, 北区",22.506,114.13,N-14,democracy,60.45
-263,263.jpg,"Ping Tin, Kwun Tong","平田, 观塘区",22.307,114.236,J-20,democracy,52.81
-264,264.jpg,"Lam Tin, Kwun Tong","藍田, 观塘区",22.31,114.236,J-19,establishment,49.69
-265,265.jpg,"Tin Wan, Southern","田灣, 南区",22.25,114.148,D-13,democracy,61.70
-266,266.jpg,"Wai King, Sai Kung","維景, 西贡区",22.297,114.248,Q-09,democracy,50.86
-267,267.jpg,"Hing Fong, Kwai Tsing","興芳, 葵青区",22.356,114.13,S-15,democracy,58.47
-268,268.jpg,"Yuet Wu, Tuen Mun","悅湖, 屯门区",22.376,113.968,L-15,democracy,63.35
-269,269.jpg,"Ma Wan, Tsuen Wan","馬灣, 荃湾区",22.326,114.033,K-11,democracy,70.85
-270,270.jpg,"Wan Po North, Sai Kung","環保北, 西贡区",22.301,114.269,Q-28,nonpartisan,55.71
-271,271.jpg,"Lung Shing, Kowloon City","龍城, 九龙城区",22.33,114.19,G-11,establishment,47.48
-272,272.jpg,"Prince, Kowloon City","太子, 九龙城区",22.327,114.181,G-09,democracy,54.67
-273,273.jpg,"Tung Tau, Wong Tai Sin","東頭, 黄大仙区",22.333,114.194,H-08,democracy,51.09
-274,274.jpg,"Lek Yuen, Sha Tin","瀝源, 沙田区",22.386,114.188,R-02,democracy,57.33
-275,275.jpg,"Kwai Luen, Kwai Tsing","葵聯, 葵青区",22.362,114.127,S-02,democracy,57.11
-276,276.jpg,"Fu Pak, Yau Tsim Mong","富柏, 油尖旺区",22.316,114.163,E-07,democracy,62.54
-277,277.jpg,"Belcher, Central & Western","寶翠, 中西區",22.283,114.131,A-09,democracy,52.66
-278,278.jpg,"Kingswood South, Yuen Long","嘉湖南, 元朗区",22.454,114.002,M-22,democracy,55.13
-279,279.jpg,"Happy Valley, Wan Chai","跑馬地, 灣仔區",22.271,114.183,B-10,democracy,54.49
-280,280.jpg,"Hoi Bun, Tsuen Wan","海濱, 荃湾区",22.362,114.113,K-04,democracy,56.75
-281,281.jpg,"Cheung Ching, Kwai Tsing","長青, 葵青区",22.347,114.11,S-25,democracy,57.57
-282,282.jpg,"Yuen Long Centre, Yuen Long","元朗中心, 元朗区",22.445,114.03,M-02,democracy,59.47
-283,283.jpg,"Fuk Loi, Tsuen Wan","福來, 荃湾区",22.373,114.114,K-09,establishment,47.30
-284,284.jpg,"Pat Heung South, Yuen Long","八鄉南, 元朗区",22.417,114.088,M-39,establishment,47.78
-285,285.jpg,"Yee Fu, Tai Po","怡富, 大埔区",22.454,114.176,P-06,democracy,70.86
-286,286.jpg,"Nam Cheong Central, Sham Shui Po","南昌中, 深水埗区",22.33,114.161,F-07,establishment,48.40
-287,287.jpg,"Lok Tsui, Tuen Mun","樂翠, 屯门区",22.39,113.934,L-20,democracy,58.87
-288,288.jpg,"Wu King, Tuen Mun","湖景, 屯门区",22.376,113.965,L-17,democracy,67.83
-289,289.jpg,"Fanling Town, North","粉嶺市, 北区",22.498,114.139,N-02,democracy,56.57
-290,290.jpg,"Tsim Sha Tsui Central, Yau Tsim Mong","尖沙咀中, 油尖旺区",22.302,114.175,E-20,democracy,56.78
-291,291.jpg,"Ching Ho, North","清河, 北区",22.493,114.127,N-09,democracy,53.83
-292,292.jpg,"Hok Yuen Laguna Verde, Kowloon City","鶴園海逸, 九龙城区",22.31,114.191,G-18,democracy,52.63
-293,293.jpg,"City Garden, Eastern","城市花園, 東區",22.29,114.192,C-18,democracy,47.13
-294,294.jpg,"Yau Yat Tsuen, Sham Shui Po","又一村, 深水埗区",22.339,114.171,F-24,democracy,50.98
-295,295.jpg,"South Horizons West, Southern","海怡西, 南区",22.244,114.146,D-07,democracy,56.27
-296,296.jpg,"Kwong Tak, Sai Kung","廣德, 观塘区",22.308,114.24,J-17,establishment,48.94
-297,297.jpg,"Nam Cheong East, Sham Shui Po","南昌東, 深水埗区",22.33,114.166,F-05,democracy,60.99
-298,298.jpg,"Kwai Chung Estate North, Kwai Tsing","葵涌邨北, 葵青区",22.369,114.129,S-07,democracy,57.86
-299,299.jpg,"Hau Tak, Sai Kung","厚德, 西贡区",22.318,114.265,Q-23,democracy,59.44
-300,300.jpg,"Jordan Valley, Kwun Tong","佐敦谷, 观塘区",22.328,114.218,J-07,establishment,49.08
-301,301.jpg,"Tsui Tak, Eastern","翠德, 東區",22.264,114.239,C-33,democracy,53.41
-302,302.jpg,"Wo Che Estate, Sha Tin","禾輋邨, 沙田区",22.388,114.196,R-03,democracy,59.09
-303,303.jpg,"Sau Mau Ping Central, Kwun Tong","秀茂坪中, 观塘区",22.318,114.234,J-13,establishment,48.11
-304,304.jpg,"Lantau, Islands","大嶼山, 离岛区",22.253,113.933,T-01,establishment,48.02
-305,305.jpg,"Shing Yan, Yuen Long","盛欣, 元朗区",22.447,114.003,M-17,democracy,57.58
-306,306.jpg,"Tung Wah, Central & Western","東華, 中西區",22.285,114.148,A-13,democracy,60.84
-307,307.jpg,"Yue Shing, Sha Tin","愉城, 沙田区",22.385,114.204,R-05,democracy,62.28
-308,308.jpg,"Yuen Long Tung Tau, Yuen Long","元朗東頭, 元朗区",22.45,114.029,M-09,democracy,59.56
-309,309.jpg,"Ka Wai, Kowloon City","家維, 九龙城区",22.309,114.187,G-23,democracy,51.81
-310,310.jpg,"Fung Cheung, Yuen Long","鳳翔, 元朗区",22.441,114.033,M-03,democracy,61.02
-311,311.jpg,"Healthy Village, Eastern","健康村, 東區",22.291,114.206,C-23,democracy,53.24
-312,312.jpg,"Hong Lok, Kwun Tong","康樂, 观塘区",22.318,114.221,J-36,democracy,57.80
-313,313.jpg,"Wan Tau Tong, Tai Po","運頭塘, 大埔区",22.442,114.167,P-11,democracy,60.60
-314,314.jpg,"Cheung Hong, Kwai Tsing","長康, 葵青区",22.349,114.102,S-26,establishment,46.25
-315,315.jpg,"Upper Yiu Tung, Eastern","上耀東, 東區",22.277,114.222,C-30,democracy,52.78
-316,316.jpg,"Yu Yan, Sha Tin","愉欣, 沙田区",22.382,114.235,R-37,democracy,56.73
-317,317.jpg,"Cho Yiu, Kwai Tsing","祖堯, 葵青区",22.346,114.131,S-18,democracy,51.48
-318,318.jpg,"Fu Kwan, Sai Kung","富君, 西贡区",22.309,114.26,Q-12,democracy,61.31
-319,319.jpg,"Shui Pin, Yuen Long","水邊, 元朗区",22.441,114.019,M-06,democracy,52.85
-320,320.jpg,"San Tin, Yuen Long","新田, 元朗区",22.489,114.077,M-36,establishment,44.08
-321,321.jpg,"Kwong Fuk & Plover Cove, Tai Po","廣福及寶湖, 大埔区",22.45,114.172,P-08,democracy,57.06
-322,322.jpg,"Yiu Yau, Yuen Long","耀祐, 元朗区",22.453,114.004,M-20,democracy,62.23
-323,323.jpg,"Discovery Park, Tsuen Wan","愉景, 荃湾区",22.375,114.113,K-08,democracy,54.18
-324,324.jpg,"Shek Tong Tsui, Central & Western","石塘咀, 中西區",22.289,114.135,A-10,democracy,55.27
-325,325.jpg,"Fu Lung, Sha Tin","富龍, 沙田区",22.425,114.237,R-31,democracy,62.83
-326,326.jpg,"Lai Chi Kok Central, Sham Shui Po","荔枝角中, 深水埗区",22.335,114.148,F-13,democracy,63.54
-327,327.jpg,"Ping Shan South, Yuen Long","屏山南, 元朗区",22.43,114.009,M-13,democracy,53.26
-328,328.jpg,"Kadoorie, Kowloon City","嘉道理, 九龙城区",22.323,114.175,G-08,democracy,63.52
-329,329.jpg,"Lung Sing, Wong Tai Sin","龍星, 黄大仙区",22.342,114.203,H-06,democracy,65.77
-330,330.jpg,"Shui Oi, Yuen Long","瑞愛, 元朗区",22.455,113.997,M-23,democracy,53.73
-331,331.jpg,"Tin Heng, Yuen Long","天恒, 元朗区",22.472,114.001,M-32,democracy,61.59
-332,332.jpg,"Shek Wai Kok, Tsuen Wan","石圍角, 荃湾区",22.399,114.146,K-17,establishment,47.86
-333,333.jpg,"Lei Cheng Uk, Sham Shui Po","李鄭屋, 深水埗区",22.339,114.16,F-21,democracy,61.26
-334,334.jpg,"Yat Tung Estate North, Islands","逸東邨北, 离岛区",22.282,113.937,T-03,democracy,61.80
-335,335.jpg,"Luk Yeung, Tsuen Wan","綠楊, 荃湾区",22.374,114.119,K-10,democracy,56.68
-336,336.jpg,"Sai Wan, Central & Western","西環, 中西區",22.284,114.13,A-08,democracy,56.48
-337,337.jpg,"Castle Road, Central & Western","衛城, 中西區",22.281,114.148,A-03,democracy,51.05
-338,338.jpg,"Hin Ka, Sha Tin","顯嘉, 沙田区",22.351,114.174,R-14,democracy,60.64
-339,339.jpg,"Yu Tai, North","御太, 北区",22.488,114.12,N-10,democracy,53.12
-340,340.jpg,"Ping Shan Central, Yuen Long","屏山中, 元朗区",22.453,114.017,M-16,democracy,51.94
-341,341.jpg,"Hing Tsak, Tuen Mun","興澤, 屯门区",22.404,113.973,L-10,democracy,52.95
-342,342.jpg,"Yeung Uk Road, Tsuen Wan","楊屋道, 荃湾区",22.367,114.119,K-02,democracy,50.60
-343,343.jpg,"Kowloon Station, Yau Tsim Mong","九龍站, 油尖旺区",22.305,114.16,E-02,establishment,47.53
-344,344.jpg,"Siu Hei, Tuen Mun","兆禧, 屯门区",22.373,113.97,L-16,democracy,68.51
-345,345.jpg,"Yan Ying, Sai Kung","欣英, 西贡区",22.324,114.258,Q-19,democracy,63.81
-346,346.jpg,"Ping Shan North, Yuen Long","屏山北, 元朗区",22.47,114.02,M-34,establishment,49.98
-347,347.jpg,"Tsui Wan, Eastern","翠灣, 東區",22.27,114.246,C-09,democracy,55.63
-348,348.jpg,"Lower Shing Mun, Sha Tin","下城門, 沙田区",22.361,114.158,R-15,democracy,55.49
-349,349.jpg,"Nam Cheong North, Sham Shui Po","南昌北, 深水埗区",22.332,114.163,F-03,democracy,54.89
-350,350.jpg,"Whampoa East, Kowloon City","黃埔東, 九龙城区",22.303,114.191,G-19,democracy,57.66
-351,351.jpg,"Aberdeen, Southern","香港仔, 南区",22.248,114.155,D-01,democracy,62.11
-352,352.jpg,"Charming, Yau Tsim Mong","富榮, 油尖旺区",22.314,114.164,E-05,democracy,54.75
-353,353.jpg,"To Kwa Wan South, Kowloon City","土瓜灣南, 九龙城区",22.313,114.188,G-17,democracy,53.64
-354,354.jpg,"Wong Chuk Hang, Southern","黃竹坑, 南区",22.251,114.165,D-15,democracy,57.93
-355,355.jpg,"Kennedy Town & Mount Davis, Central & Western","堅摩, 中西區",22.278,114.122,A-07,democracy,59.45
-356,356.jpg,"Lei Tung I, Southern","利東一, 南区",22.236,114.159,D-04,democracy,63.20
-357,357.jpg,"Quarry Bay, Eastern","鰂魚涌, 東區",22.289,114.212,C-24,democracy,55.37
-358,358.jpg,"Chung Ting, Tai Po","頌汀, 大埔区",22.452,114.168,P-02,democracy,64.02
-359,359.jpg,"Stanley & Shek O, Southern","赤柱及石澳, 南区",22.23,114.246,D-17,democracy,49.86
-360,360.jpg,"Nam Ping, Yuen Long","南屏, 元朗区",22.448,114.024,M-07,democracy,62.59
-361,361.jpg,"Tung Mei, Wong Tai Sin","東美, 黄大仙区",22.336,114.193,H-09,democracy,67.72
-362,362.jpg,"King Tin, Kwun Tong","景田, 观塘区",22.309,114.233,J-28,democracy,61.58
-363,363.jpg,"Fairview Park, Yuen Long","錦綉花園, 元朗区",22.487,114.035,M-35,democracy,55.41
-364,364.jpg,"Yau Tong East, Kwun Tong","油塘東, 观塘区",22.295,114.242,J-23,democracy,50.21
-365,365.jpg,"Tin King, Tuen Mun","田景, 屯门区",22.406,113.966,L-24,democracy,61.98
-366,366.jpg,"Choi Wan East, Wong Tai Sin","彩雲東, 黄大仙区",22.337,114.219,H-21,democracy,51.77
-367,367.jpg,"Wang Fuk, Tai Po","宏福, 大埔区",22.433,114.202,P-09,democracy,56.73
-368,368.jpg,"Cheung Shek, Tsuen Wan","象石, 荃湾区",22.382,114.125,K-16,democracy,54.48
-369,369.jpg,"Ma Hang Chung, Kowloon City","馬坑涌, 九龙城区",22.321,114.191,G-03,democracy,61.14
-370,370.jpg,"City One, Sha Tin","第一城, 沙田区",22.388,114.203,R-04,democracy,65
-371,371.jpg,"Cheung Wah, North","祥華, 北区",22.493,114.141,N-03,democracy,68.51
-372,372.jpg,"Tai Pak Tin East, Kwai Tsing","大白田東, 葵青区",22.368,114.141,S-10,democracy,53.92
-373,373.jpg,"Chung Wah, Yuen Long","頌華, 元朗区",22.46,113.998,M-25,democracy,57.72
-374,374.jpg,"Heng Fa Chuen, Eastern","杏花邨, 東區",22.276,114.24,C-08,democracy,56.41
-375,375.jpg,"Oi Chun, Kowloon City","愛俊, 九龙城区",22.314,114.178,G-25,establishment,46.52
-376,376.jpg,"Cheung Chau, Islands","長洲, 离岛区",22.204,114.036,T-10,democracy,61.40
-377,377.jpg,"Sau Mau Ping North, Kwun Tong","秀茂坪北, 观塘区",22.323,114.228,J-12,democracy,60.90
-378,378.jpg,"Shap Pat Heung West, Yuen Long","十八鄉西, 元朗区",22.416,114.025,M-12,democracy,49.76
-379,379.jpg,"Lei King Wan, Eastern","鯉景灣, 東區",22.285,114.223,C-03,democracy,57.22
-380,380.jpg,"Mei Foo North, Sham Shui Po","美孚北, 深水埗区",22.34,114.138,F-17,democracy,62.05
-381,381.jpg,"Southorn, Wan Chai","修頓, 灣仔區",22.271,114.17,B-12,establishment,48
-382,382.jpg,"Tsz Wan West, Wong Tai Sin","慈雲西, 黄大仙区",22.348,114.198,H-16,democracy,57.91
-383,383.jpg,"Hing Tin, Kwun Tong","興田, 观塘区",22.314,114.24,J-18,democracy,58.17
-384,384.jpg,"Choi Tak, Kwun Tong","彩德, 观塘区",22.331,114.216,J-06,establishment,42.79
-385,385.jpg,"Tai Po Hui, Tai Po","大埔墟, 大埔区",22.447,114.168,P-01,democracy,56.66
-386,386.jpg,"Po Lam, Sai Kung","寶林, 西贡区",22.326,114.254,Q-18,democracy,57.60
-387,387.jpg,"Siu Chi, Tuen Mun","兆置, 屯门区",22.386,113.981,L-02,democracy,78.13
-388,388.jpg,"Fu Ming Sun, Tai Po","富明新, 大埔区",22.452,114.174,P-07,democracy,70.42
-389,389.jpg,"Kin Ming, Sai Kung","健明, 西贡区",22.306,114.25,Q-07,democracy,73.49
-390,390.jpg,"Heng On, Sha Tin","恆安, 沙田区",22.417,114.229,R-34,democracy,63.22
-391,391.jpg,"Choi Wan West, Wong Tai Sin","彩雲西, 黄大仙区",22.336,114.213,H-23,democracy,54.39
-392,392.jpg,"Shing Fuk, North","盛福, 北区",22.493,114.135,N-08,establishment,58.10
-393,393.jpg,"Shuen Wan, Tai Po","船灣, 大埔区",22.478,114.25,P-18,democracy,50.99
-394,394.jpg,"Tin Keung, Wong Tai Sin","天強, 黄大仙区",22.341,114.184,H-12,democracy,59.98
-395,395.jpg,"Tai Po Central, Tai Po","大埔中, 大埔区",22.452,114.17,P-03,democracy,54.70
-396,396.jpg,"Discovery Bay, Islands","愉景灣, 离岛区",22.299,114.008,T-07,democracy,64.67
-397,397.jpg,"On Yam, Kwai Tsing","安蔭, 葵青区",22.377,114.142,S-11,democracy,52.01
-398,398.jpg,"Jordan West, Yau Tsim Mong","佐敦西, 油尖旺区",22.308,114.164,E-03,democracy,53.84
-399,399.jpg,"Tsuen Wan Rural, Tsuen Wan","荃灣郊區, 荃湾区",22.371,114.044,K-12,nonpartisan,39.74
-400,400.jpg,"Lower Ngau Tau Kok Estate, Kwun Tong","牛頭角下邨, 观塘区",22.323,114.216,J-39,democracy,51.68
-401,401.jpg,"San King, Tuen Mun","新景, 屯门区",22.402,113.959,L-22,democracy,69.72
-402,402.jpg,"Tai Koo Shing West, Eastern","太古城西, 東區",22.288,114.216,C-01,democracy,62.87
-403,403.jpg,"Tai Pak Tin West, Kwai Tsing","大白田西, 葵青区",22.367,114.137,S-09,establishment,51.97
-404,404.jpg,"Kam Tin, Yuen Long","錦田, 元朗区",22.447,114.061,M-37,democracy,52.84
-405,405.jpg,"Do Shin, Sai Kung","都善, 西贡区",22.304,114.251,Q-08,nonpartisan,50.95
-406,406.jpg,"Hing Man, Eastern","興民, 東區",22.269,114.228,C-31,democracy,51.44
-407,407.jpg,"Tai Po Kau, Tai Po","大埔滘, 大埔区",22.428,114.171,P-10,democracy,53.55
-408,408.jpg,"Sha Kok, Sha Tin","沙角, 沙田区",22.379,114.194,R-07,democracy,59.82
-409,409.jpg,"Fo Tan, Sha Tin","火炭, 沙田区",22.41,114.189,R-23,democracy,56.65
-410,410.jpg,"Cherry, Yau Tsim Mong","櫻桃, 油尖旺区",22.319,114.165,E-09,establishment,46.58
-411,411.jpg,"Tai Yuen, Tai Po","大元, 大埔区",22.456,114.169,P-04,democracy,57.81
-412,412.jpg,"Shap Pat Heung Central, Yuen Long","十八鄉中, 元朗区",22.438,114.025,M-05,democracy,60.57
-413,413.jpg,"Keng Hau, Sha Tin","徑口, 沙田区",22.364,114.174,R-17,democracy,60.11
-414,414.jpg,"Pak Nga, Kwun Tong","栢雅, 观塘区",22.302,114.239,J-21,democracy,56.38
-415,415.jpg,"Bik Woo, Sha Tin","碧湖, 沙田区",22.392,114.207,R-39,democracy,55.32
-416,416.jpg,"Lee On, Sha Tin","利安, 沙田区",22.426,114.245,R-30,democracy,65.61
-417,417.jpg,"Kwai Fong, Kwai Tsing","葵芳, 葵青区",22.36,114.132,S-14,democracy,62.83
-418,418.jpg,"Sheung Shun, Kwun Tong","雙順, 观塘区",22.333,114.224,J-09,establishment,36.86
-419,419.jpg,"Hung Hom, Kowloon City","紅磡, 九龙城区",22.307,114.184,G-22,establishment,46.14
-420,420.jpg,"Sai Wan Ho, Eastern","西灣河, 東區",22.282,114.223,C-04,democracy,63.08
-421,421.jpg,"Lung Ha, Wong Tai Sin","龍下, 黄大仙区",22.338,114.197,H-02,democracy,66.72
-422,422.jpg,"Hoi Sham, Kowloon City","海心, 九龙城区",22.317,114.193,G-15,establishment,49.78
-423,423.jpg,"To Kwa Wan North, Kowloon City","土瓜灣北, 九龙城区",22.315,114.189,G-16,establishment,44.98
-424,424.jpg,"Ha Pak Tin, Sham Shui Po","下白田, 深水埗区",22.336,114.167,F-23,nonpartisan,8.46
-425,425.jpg,"Tuen Mun Town Centre, Tuen Mun","屯門市中心, 屯门区",22.393,113.977,L-01,democracy,63.19
-426,426.jpg,"Wan Hang, Sai Kung","運亨, 西贡区",22.319,114.258,Q-21,democracy,65.16
-427,427.jpg,"Chui Ka, Sha Tin","翠嘉, 沙田区",22.372,114.181,R-19,democracy,58.68
-428,428.jpg,"Yue Wan, Eastern","漁灣, 東區",22.264,114.243,C-34,democracy,59.46
-429,429.jpg,"Chung On, Sha Tin","頌安, 沙田区",22.421,114.229,R-26,democracy,60.92
-430,430.jpg,"Cheung Hang, Kwai Tsing","長亨, 葵青区",22.359,114.09,S-29,establishment,46.52
-431,431.jpg,"Canal Road, Wan Chai","鵝頸, 灣仔區",22.281,114.181,B-03,democracy,57.76
-432,432.jpg,"Bays Area, Southern","海灣, 南区",22.239,114.191,D-16,establishment,30.01
-433,433.jpg,"Lok Fu, Wong Tai Sin","樂富, 黄大仙区",22.337,114.188,H-10,democracy,55.53
-434,434.jpg,"Po Lok, Kwun Tong","寶樂, 观塘区",22.317,114.228,J-31,democracy,64.38
-435,435.jpg,"Tak Ming, Sai Kung","德明, 西贡区",22.315,114.268,Q-25,democracy,56.24
-436,436.jpg,"Olympic, Yau Tsim Mong","奧運, 油尖旺区",22.32,114.156,E-08,democracy,58.13
-437,437.jpg,"Hung Fuk, Yuen Long","洪福, 元朗区",22.437,113.997,M-14,democracy,51.44
-438,438.jpg,"Tsing Yi Estate, Kwai Tsing","青衣邨, 葵青区",22.353,114.105,S-23,democracy,59.68
-439,439.jpg,"Po Yee, Sai Kung","寶怡, 西贡区",22.307,114.263,Q-11,democracy,60.11
-440,440.jpg,"King Lam, Sai Kung","景林, 西贡区",22.32,114.261,Q-22,democracy,60.98
-441,441.jpg,"Fu Tai, Tuen Mun","富泰, 屯门区",22.414,113.989,L-30,democracy,61.76
-442,442.jpg,"Tsui Ping, Kwun Tong","翠屏, 观塘区",22.313,114.234,J-29,democracy,52.37
-443,443.jpg,"Lung Tsui, Wong Tai Sin","龍趣, 黄大仙区",22.34,114.197,H-01,democracy,52.34
-444,444.jpg,"Choi Yuen, North","彩園, 北区",22.501,114.125,N-12,democracy,55.23
-445,445.jpg,"Pok Hong, Sha Tin","博康, 沙田区",22.376,114.196,R-08,democracy,73.61
-446,446.jpg,"Queen's Hill, North","皇后山, 北区",22.504,114.166,N-18,democracy,53.28
-447,447.jpg,"Wah Ming, North","華明, 北区",22.484,114.141,N-05,democracy,63.89
-448,448.jpg,"Kwun Lung, Central & Western","觀龍, 中西區",22.279,114.129,A-06,democracy,52.88
-449,449.jpg,"Hoi Chun, Sai Kung","海晉, 西贡区",22.304,114.26,Q-10,democracy,59.37
-450,450.jpg,"Yan Shing, North","欣盛, 北区",22.478,114.138,N-06,democracy,57.84
-451,451.jpg,"Kam To, Sha Tin","錦濤, 沙田区",22.423,114.225,R-27,democracy,60.01
-452,452.jpg,"Peng Chau & Hei Ling Chau, Islands","坪洲及喜靈洲, 离岛区",22.25,114.043,T-08,establishment,42.17
+1,001.jpg,"Tin Yiu, Yuen Long District","天耀, 元朗区",22.45,114.004,M-19,democracy,61.20
+2,002.jpg,"San Po Kong, Wong Tai Sin District","新蒲崗, 黄大仙区",22.336,114.2,H-07,democracy,55.77
+3,003.jpg,"Mong Kok East, Sham Shui Po District","旺角東, 油尖旺区",22.324,114.171,E-14,democracy,59.39
+4,004.jpg,"Tai Wai, Sha Tin District","大圍, 沙田区",22.377,114.177,R-20,democracy,54.27
+5,005.jpg,"Hennessy, Wan Chai District","軒尼詩, 灣仔區",22.281,114.176,B-01,democracy,68.23
+6,006.jpg,"Tuen Mun Rural, Tuen Mun District","屯門鄉郊, 屯门区",22.423,113.989,L-29,democracy,60.17
+7,007.jpg,"Shek Wu Hui, North District","石湖墟, 北区",22.504,114.127,N-13,democracy,62.09
+8,008.jpg,"Ha Tsuen, Yuen Long District","廈村, 元朗区",22.443,113.973,M-15,establishment,41.59
+9,009.jpg,"Fanling South, North District","粉嶺南, 北区",22.489,114.137,N-07,democracy,57.58
+10,010.jpg,"Shap Pat Heung North, Yuen Long District","十八鄉北, 元朗区",22.452,114.04,M-10,establishment,45.80
+11,011.jpg,"Luen Wo Hui, North District","聯和墟, 北区",22.5,114.143,N-01,democracy,56.49
+12,012.jpg,"Ting Sham, Tsuen Wan District","汀深, 荃湾区",22.376,114.059,K-13,democracy,52.97
+13,013.jpg,"Hing Tung, Eastern District","興東, 東區",22.281,114.219,C-28,democracy,57.82
+14,014.jpg,"Wan Shing, Sha Tin District","雲城, 沙田区",22.37,114.176,R-16,democracy,59.79
+15,015.jpg,"Chung Tin, Sha Tin District","松田, 沙田区",22.383,114.166,R-21,democracy,60.51
+16,016.jpg,"Fortune, Sham Shui Po District","幸福, 深水埗区",22.334,114.154,F-11,democracy,50.61
+17,017.jpg,"So Uk, Sham Shui Po District","蘇屋, 深水埗区",22.341,114.157,F-20,establishment,48.29
+18,018.jpg,"Fortress Hill, Eastern District","炮台山, 東區",22.287,114.194,C-17,democracy,57.72
+19,019.jpg,"Kwong Hong, Sha Tin District","廣康, 沙田区",22.39,114.217,R-40,democracy,57.32
+20,020.jpg,"Ching Oi, Wong Tai Sin District","正愛, 黄大仙区",22.352,114.199,H-17,democracy,61.10
+21,021.jpg,"Kwai Shing West Estate, Kwai Tsing District","葵盛西邨, 葵青区",22.358,114.118,S-20,democracy,57.15
+22,022.jpg,"Lei Muk Shue West, Tsuen Wan District","梨木樹西, 荃湾区",22.378,114.135,K-18,democracy,66.20
+23,023.jpg,"Sau Mau Ping South, Kwun Tong District","秀茂坪南, 观塘区",22.316,114.235,J-15,establishment,48.27
+24,024.jpg,"Hung Hom Bay, Kowloon City District","紅磡灣, 九龙城区",22.305,114.185,G-21,democracy,55.36
+25,025.jpg,"Laguna City, Kwun Tong District","麗港城, 观塘区",22.306,114.227,J-27,democracy,62.01
+26,026.jpg,"Wang Tau Hom, Wong Tai Sin District","橫頭磡, 黄大仙区",22.341,114.188,H-11,democracy,57.05
+27,027.jpg,"Tung Chung Central, Islands District","東涌中, 离岛区",22.292,113.946,T-05,democracy,53.44
+28,028.jpg,"Wan Tsui, Eastern District","環翠, 東區",22.259,114.243,C-13,democracy,52.36
+29,029.jpg,"Kwai Hing, Kwai Tsing District","葵興, 葵青区",22.367,114.133,S-01,democracy,71.50
+30,030.jpg,"Nam Shan, Tai Hang Tung & Tai Hang Sai, Sham Shui Po District","南山, 大坑東及大坑西, 深水埗区",22.331,114.17,F-25,democracy,59.31
+31,031.jpg,"Jordan South, Yau Tsim Mong District","佐敦南, 油尖旺区",22.304,114.171,E-19,democracy,51.10
+32,032.jpg,"Sai Kung North, Tai Po District","西貢北, 大埔区",22.436,114.312,P-19,democracy,58.16
+33,033.jpg,"Shui Chuen O, Sha Tin District","水泉澳, 沙田区",22.365,114.2,R-09,democracy,50.15
+34,034.jpg,"Pik Wui, Sham Shui Po District","碧匯, 深水埗区",22.326,114.151,F-12,democracy,57.91
+35,035.jpg,"Sai Kung Central, Sai Kung District","西貢市中心, 西贡区",22.377,114.27,Q-01,democracy,54.41
+36,036.jpg,"Yuen Lung, Yuen Long District","元龍, 元朗区",22.443,114.037,M-04,democracy,58.13
+37,037.jpg,"Yuet Yan, Yuen Long District","悅恩, 元朗区",22.463,113.996,M-28,democracy,54.63
+38,038.jpg,"Fu Heng, Tai Po District","富亨, 大埔区",22.459,114.174,P-05,democracy,67.45
+39,039.jpg,"Tai Shui Hang, Sha Tin District","大水坑, 沙田区",22.404,114.24,R-35,democracy,58.72
+40,040.jpg,"Shek Yam, Kwai Tsing District","石蔭, 葵青区",22.372,114.137,S-08,democracy,56.73
+41,041.jpg,"Tanner, Eastern District","丹拿, 東區",22.29,114.203,C-22,democracy,57.65
+42,042.jpg,"Tsui Hing, Tuen Mun District","翠興, 屯门区",22.399,113.971,L-07,democracy,60.62
+43,043.jpg,"Kwun Tong On Tai, Kwun Tong District","觀塘安泰, 观塘区",22.327,114.23,J-11,democracy,56.42
+44,044.jpg,"Lai Chi Kok South, Sham Shui Po District","荔枝角南, 深水埗区",22.322,114.14,F-14,democracy,62.72
+45,045.jpg,"Kowloon Bay, Kwun Tong District","九龍灣, 观塘区",22.323,114.209,J-02,democracy,89.48
+46,046.jpg,"Ping Shek, Kwun Tong District","坪石, 观塘区",22.332,114.211,J-05,democracy,51.14
+47,047.jpg,"Ching Fat, Kwai Tsing District","青發, 葵青区",22.362,114.096,S-30,democracy,56.55
+48,048.jpg,"Chung Wan, Central & Western District","中環, 中西區",22.283,114.159,A-01,democracy,55.09
+49,049.jpg,"Greenfield, Kwai Tsing District","翠怡, 葵青区",22.352,114.109,S-24,democracy,52.52
+50,050.jpg,"Kwan Po, Sai Kung District","軍寶, 西贡区",22.312,114.263,Q-27,democracy,62.40
+51,051.jpg,"Kai Hiu, Eastern District","佳曉, 東區",22.261,114.248,C-35,establishment,49.28
+52,052.jpg,"Old Market & Serenity, Tai Po District","舊墟及太湖, 大埔区",22.456,114.158,P-16,democracy,69.97
+53,053.jpg,"Lok Man, Kowloon City District","樂民, 九龙城区",22.317,114.186,G-05,establishment,44.86
+54,054.jpg,"Chun Cheung, Kwun Tong District","俊翔, 观塘区",22.299,114.242,J-22,democracy,62.21
+55,055.jpg,"Tung Chung North, Islands District","東涌北, 离岛区",22.308,113.924,T-06,democracy,39.56
+56,056.jpg,"Kwai Chung Estate South, Kwai Tsing District","葵涌邨南, 葵青区",22.367,114.129,S-06,democracy,55.60
+57,057.jpg,"Wu Kai Sha, Sha Tin District","烏溪沙, 沙田区",22.432,114.242,R-29,democracy,64.14
+58,058.jpg,"Yau Ma Tei South, Yau Tsim Mong District","油麻地南, 油尖旺区",22.311,114.166,E-04,democracy,55.10
+59,059.jpg,"Fu Cheong, Sham Shui Po District","富昌, 深水埗区",22.33,114.155,F-09,democracy,51.10
+60,060.jpg,"Lok Wah South, Kwun Tong District","樂華南, 观塘区",22.32,114.222,J-34,democracy,50.73
+61,061.jpg,"Lei Muk Shue East, Tsuen Wan District","梨木樹東, 荃湾区",22.374,114.134,K-19,democracy,68.11
+62,062.jpg,"Yuet Wah, Kwun Tong District","月華, 观塘区",22.314,114.227,J-32,democracy,53.73
+63,063.jpg,"Lung Ping & Sheung Pak Tin, Sham Shui Po District","龍坪及上白田, 深水埗区",22.343,114.161,F-22,democracy,70.58
+64,064.jpg,"Yau Tong West, Kwun Tong District","油塘西, 观塘区",22.301,114.23,J-26,establishment,47.89
+65,065.jpg,"Lai Kok, Sham Shui Po District","麗閣, 深水埗区",22.332,114.158,F-10,democracy,54.07
+66,066.jpg,"San Hui, Tuen Mun District","新墟, 屯门区",22.4,113.998,L-11,democracy,60.49
+67,067.jpg,"Choi Hung, Wong Tai Sin District","彩虹, 黄大仙区",22.336,114.206,H-25,democracy,50.60
+68,068.jpg,"Fu Yan, Yuen Long District","富恩, 元朗区",22.465,113.998,M-30,democracy,54.87
+69,069.jpg,"Kam Ying, Sha Tin District","錦英, 沙田区",22.42,114.234,R-32,democracy,59.39
+70,070.jpg,"Po Lai, Sham Shui Po District","寶麗, 深水埗区",22.336,114.158,F-01,democracy,63.96
+71,071.jpg,"On Ho, Kwai Tsing District","安灝, 葵青区",22.361,114.107,S-21,democracy,59.57
+72,072.jpg,"Mong Kok West, Yau Tsim Mong District","旺角西, 油尖旺区",22.317,114.168,E-06,establishment,45.95
+73,073.jpg,"Shek Lei North, Kwai Tsing District","石籬北, 葵青区",22.366,114.14,S-12,democracy,62.36
+74,074.jpg,"Butterfly, Tuen Mun District","蝴蝶, 屯门区",22.376,113.963,L-18,democracy,60.37
+75,075.jpg,"Sheung Shui Rural, North District","上水鄉郊, 北区",22.502,114.102,N-11,establishment,43.44
+76,076.jpg,"Fei Tsui, Eastern District","翡翠, 東區",22.263,114.223,C-14,democracy,56.70
+77,077.jpg,"Kai Yip, Kwun Tong District","啟業, 观塘区",22.328,114.21,J-03,democracy,53.88
+78,078.jpg,"Kai Tak Central & South, Kowloon City District","啟德中及南, 九龙城区",22.325,114.197,G-14,establishment,46.48
+79,079.jpg,"Wong Uk, Sha Tin District","王屋, 沙田区",22.382,114.199,R-06,democracy,66.72
+80,080.jpg,"Mei Foo South, Sham Shui Po District","美孚南, 深水埗区",22.334,114.142,F-15,democracy,56.33
+81,081.jpg,"Hiu Lai, Kwun Tong District","曉麗, 观塘区",22.32,114.229,J-30,democracy,60.02
+82,082.jpg,"Tai Nan, Sham Shui Po District","大南, 油尖旺区",22.325,114.166,E-12,democracy,58.32
+83,083.jpg,"Ap Lei Chau North, Southern District","鴨脷洲北, 南区",22.244,114.156,D-03,democracy,61.73
+84,084.jpg,"Pat Heung North, Yuen Long District","八鄉北, 元朗区",22.451,114.096,M-38,establishment,33.91
+85,085.jpg,"Mid Levels East, Central & Western District","半山東, 中西區",22.279,114.154,A-02,democracy,57.28
+86,086.jpg,"Pek Long, Yuen Long District","北朗, 元朗区",22.451,114.024,M-08,democracy,62.91
+87,087.jpg,"Mount Parker, Eastern District","柏架山, 東區",22.27,114.21,C-15,establishment,48.32
+88,088.jpg,"Hang Hau West, Sai Kung District","坑口西, 西贡区",22.333,114.235,Q-05,democracy,59.78
+89,089.jpg,"Tak Wah, Tsuen Wan District","德華, 荃湾区",22.371,114.118,K-01,democracy,55.48
+90,090.jpg,"Po Nga, Tai Po District","寶雅, 大埔区",22.452,114.157,P-14,democracy,66.86
+91,091.jpg,"Chung Pak, Yuen Long District","頌栢, 元朗区",22.46,114.001,M-26,democracy,58.84
+92,092.jpg,"Po Tat, Kwun Tong District","寶達, 观塘区",22.318,114.24,J-16,democracy,52.21
+93,093.jpg,"Tsz Wan East, Wong Tai Sin District","慈雲東, 黄大仙区",22.347,114.204,H-19,democracy,56.51
+94,094.jpg,"Tai Fat Hau, Wan Chai District","大佛口, 灣仔區",22.279,114.169,B-13,democracy,51.46
+95,095.jpg,"Chuk Yuen South, Wong Tai Sin District","竹園南, 黄大仙区",22.344,114.19,H-14,democracy,59.84
+96,096.jpg,"Hong Lok Yuen, Tai Po District","康樂園, 大埔区",22.473,114.177,P-17,democracy,57.72
+97,097.jpg,"Tsuen Wan West, Tsuen Wan District","荃灣西, 荃湾区",22.373,114.105,K-05,democracy,61.85
+98,098.jpg,"Hanford, Tuen Mun District","恒福, 屯门区",22.379,113.982,L-14,democracy,66.07
+99,099.jpg,"Wah Lai, Kwai Tsing District","華麗, 葵青区",22.354,114.135,S-16,democracy,52.01
+100,100.jpg,"Whampoa West, Kowloon City District","黃埔西, 九龙城区",22.303,114.187,G-20,democracy,61.84
+101,101.jpg,"Tsz Yau, Yuen Long District","慈祐, 元朗区",22.453,114.008,M-21,democracy,64.08
+102,102.jpg,"Kwong Yuen, Sha Tin District","廣源, 沙田区",22.381,114.215,R-41,democracy,57.74
+103,103.jpg,"Wai Ying, Kwai Tsing District","偉盈, 葵青区",22.357,114.106,S-22,democracy,59.88
+104,104.jpg,"Sheung Lok, Kowloon City District","常樂, 九龙城区",22.316,114.183,G-06,democracy,57.63
+105,105.jpg,"Hip Hong, Kwun Tong District","協康, 观塘区",22.318,114.225,J-33,democracy,52.86
+106,106.jpg,"Chi Fu, Southern District","置富, 南区",22.259,114.14,D-12,democracy,61
+107,107.jpg,"Lai King, Kwai Tsing District","荔景, 葵青区",22.323,114.128,S-19,democracy,51.51
+108,108.jpg,"Lam Tsuen Valley, Tai Po District","林村谷, 大埔区",22.446,114.135,P-13,democracy,52.05
+109,109.jpg,"Peak, Central & Western District","山頂, 中西區",22.267,114.152,A-04,establishment,31.35
+110,110.jpg,"Wan Po South, Sai Kung District","環保南, 西贡区",22.285,114.268,Q-29,nonpartisan,47.23
+111,111.jpg,"Sha Ta, North District","沙打, 北区",22.509,114.224,N-16,establishment,41.63
+112,112.jpg,"Fort Street, Eastern District","堡壘, 東區",22.29,114.198,C-20,democracy,50.61
+113,113.jpg,"King Yee, Eastern District","景怡, 東區",22.26,114.254,C-12,democracy,57.14
+114,114.jpg,"Causeway Bay, Wan Chai District","銅鑼灣, 灣仔區",22.28,114.185,B-04,democracy,54.96
+115,115.jpg,"Ma Tau Wai, Kowloon City District","馬頭圍, 九龙城区",22.325,114.187,G-01,democracy,52.84
+116,116.jpg,"Wah Fu South, Southern District","華富南, 南区",22.251,114.135,D-09,democracy,55.74
+117,117.jpg,"Allway, Tsuen Wan District","荃威, 荃湾区",22.394,114.117,K-15,democracy,56.32
+118,118.jpg,"Kwun Tong Central, Kwun Tong District","觀塘中心, 观塘区",22.313,114.219,J-01,democracy,56.05
+119,119.jpg,"Oi Kwan, Wan Chai District","愛群, 灣仔區",22.278,114.178,B-02,democracy,57.45
+120,120.jpg,"Oi Man, Kowloon City District","愛民, 九龙城区",22.312,114.181,G-24,democracy,53.30
+121,121.jpg,"Lok Wah North, Kwun Tong District","樂華北, 观塘区",22.321,114.221,J-35,democracy,60.73
+122,122.jpg,"Sheung Tak, Sai Kung District","尚德, 西贡区",22.311,114.258,Q-14,democracy,61.29
+123,123.jpg,"Choi Kin, Sai Kung District","彩健, 西贡区",22.307,114.254,Q-06,democracy,60.39
+124,124.jpg,"Tsuen Wan Centre, Tsuen Wan District","荃灣中心, 荃湾区",22.377,114.108,K-07,democracy,61.06
+125,125.jpg,"Nam On, Sai Kung District","南安, 西贡区",22.316,114.262,Q-26,democracy,67.92
+126,126.jpg,"Sai Kung Islands, Sai Kung District","西貢離島, 西贡区",22.392,114.343,Q-03,democracy,57.81
+127,127.jpg,"Jardine's Lookout, Wan Chai District","渣甸山, 灣仔區",22.269,114.197,B-08,establishment,41.44
+128,128.jpg,"Kowloon Tong, Kowloon City District","九龍塘, 九龙城区",22.339,114.18,G-10,establishment,46.51
+129,129.jpg,"Leung King, Tuen Mun District","良景, 屯门区",22.407,113.963,L-23,democracy,61.87
+130,130.jpg,"Tsim Sha Tsui West, Yau Tsim Mong District","尖沙咀西, 油尖旺区",22.298,114.17,E-01,democracy,56.65
+131,131.jpg,"Hong King, Sai Kung District","康景, 西贡区",22.32,114.254,Q-16,democracy,65.36
+132,132.jpg,"Centre Street, Central & Western District","正街, 中西區",22.286,114.143,A-14,democracy,58.90
+133,133.jpg,"Prime View, Tuen Mun District","景峰, 屯门区",22.408,113.981,L-31,democracy,67.63
+134,134.jpg,"Tai Kok Tsui South, Yau Tsim Mong District","大角咀南, 油尖旺区",22.321,114.163,E-10,democracy,56
+135,135.jpg,"So Kwun Wat, Tuen Mun District","掃管笏, 屯门区",22.378,114.005,L-12,democracy,53.23
+136,136.jpg,"Braemar Hill, Eastern District","寶馬山, 東區",22.282,114.2,C-16,establishment,44.77
+137,137.jpg,"Tai Wo, Tai Po District","太和, 大埔区",22.452,114.162,P-15,democracy,58.56
+138,138.jpg,"Ching On, Wong Tai Sin District","正安, 黄大仙区",22.353,114.212,H-18,democracy,69.41
+139,139.jpg,"Tin Sum, Sha Tin District","田心, 沙田区",22.369,114.18,R-18,democracy,52.48
+140,140.jpg,"Sha Tin Town Centre, Sha Tin District","沙田市中心, 沙田区",22.378,114.186,R-01,democracy,67.98
+141,141.jpg,"Mong Kok South, Yau Tsim Mong District","旺角南, 油尖旺区",22.319,114.171,E-15,democracy,53.09
+142,142.jpg,"Kwai Shing East Estate, Kwai Tsing District","葵盛東邨, 葵青区",22.364,114.127,S-03,democracy,62.63
+143,143.jpg,"Jat Chuen, Sha Tin District","乙泉, 沙田区",22.371,114.193,R-10,democracy,66.39
+144,144.jpg,"Wang Yat, Yuen Long District","宏逸, 元朗区",22.47,114.005,M-33,democracy,62.16
+145,145.jpg,"Nam Cheong West, Sham Shui Po District","南昌西, 深水埗区",22.327,114.159,F-08,democracy,63.27
+146,146.jpg,"Broadwood, Wan Chai District","樂活, 灣仔區",22.272,114.187,B-09,establishment,47.08
+147,147.jpg,"Kwong Ming, Sai Kung District","廣明, 西贡区",22.313,114.257,Q-15,democracy,56.80
+148,148.jpg,"On Lee, Kwun Tong District","安利, 观塘区",22.329,114.227,J-10,democracy,57.69
+149,149.jpg,"Tin Ping East, North District","天平東, 北区",22.504,114.141,N-17,democracy,63.07
+150,150.jpg,"Cheung Sha Wan, Sham Shui Po District","長沙灣, 深水埗区",22.335,114.161,F-02,democracy,61.04
+151,151.jpg,"Kornhill, Eastern District","康怡, 東區",22.282,114.216,C-26,democracy,59.12
+152,152.jpg,"Nam Cheong South, Sham Shui Po District","南昌南, 深水埗区",22.328,114.165,F-06,democracy,57.37
+153,153.jpg,"Clague Garden, Tsuen Wan District","祈德尊, 荃湾区",22.371,114.111,K-06,democracy,50.61
+154,154.jpg,"Mun Yat, Islands District","滿逸, 离岛区",22.281,113.936,T-02,democracy,67.62
+155,155.jpg,"Fung Tak, Wong Tai Sin District","鳳德, 黄大仙区",22.344,114.201,H-05,democracy,56.13
+156,156.jpg,"On Tat, Kwun Tong District","安達, 观塘区",22.32,114.236,J-14,establishment,40.06
+157,157.jpg,"Shek Kip Mei, Sham Shui Po District","石硤尾, 深水埗区",22.333,114.166,F-04,democracy,50.08
+158,158.jpg,"Lamma & Po Toi, Islands District","南丫及蒲台, 离岛区",22.194,114.131,T-09,establishment,49.22
+159,159.jpg,"Sui Wo, Sha Tin District","穗禾, 沙田区",22.397,114.181,R-22,democracy,58.47
+160,160.jpg,"On Tai, Sha Tin District","鞍泰, 沙田区",22.409,114.221,R-36,democracy,58.57
+161,161.jpg,"Wah Fu North, Southern District","華富北, 南区",22.254,114.137,D-10,democracy,61.32
+162,162.jpg,"Di Yee, Sha Tin District","帝怡, 沙田区",22.387,114.207,R-38,establishment,56.48
+163,163.jpg,"Choi Wan South, Wong Tai Sin District","彩雲南, 黄大仙区",22.334,114.217,H-22,democracy,58.01
+164,164.jpg,"Wah Kwai, Southern District","華貴, 南区",22.25,114.138,D-08,democracy,59.34
+165,165.jpg,"Tsing Yi South, Kwai Tsing District","青衣南, 葵青区",22.34,114.1,S-28,democracy,54.46
+166,166.jpg,"Kin Sang, Tuen Mun District","建生, 屯门区",22.407,113.969,L-26,democracy,60.44
+167,167.jpg,"Sheung Wan, Central & Western District","上環, 中西區",22.288,114.148,A-12,democracy,68.15
+168,168.jpg,"Yan Tin, Tuen Mun District","欣田, 屯门区",22.417,113.975,L-28,establishment,39.86
+169,169.jpg,"Lok Hong, Eastern District","樂康, 東區",22.271,114.236,C-32,democracy,56
+170,170.jpg,"Victoria Park, Wan Chai District","維園, 灣仔區",22.284,114.19,B-05,democracy,54.07
+171,171.jpg,"Siu Sai Wan, Eastern District","小西灣, 東區",22.264,114.248,C-11,democracy,53.67
+172,172.jpg,"University, Central & Western District","大學, 中西區",22.279,114.138,A-05,democracy,51.35
+173,173.jpg,"Yau Oi North, Tuen Mun District","友愛北, 屯门区",22.386,113.971,L-06,democracy,63.47
+174,174.jpg,"Shek Lei South, Kwai Tsing District","石籬南, 葵青区",22.363,114.141,S-13,democracy,58.93
+175,175.jpg,"A Kung Ngam, Eastern District","阿公岩, 東區",22.279,114.233,C-07,democracy,52.71
+176,176.jpg,"Wah Do, North District","華都, 北区",22.486,114.142,N-04,democracy,58.68
+177,177.jpg,"Fung Nin, Yuen Long District","豐年, 元朗区",22.442,114.026,M-01,democracy,53.65
+178,178.jpg,"Tin Shing, Yuen Long District","天盛, 元朗区",22.448,113.999,M-18,democracy,54.18
+179,179.jpg,"Kai Tak North, Kowloon City District","啟德北, 九龙城区",22.333,114.203,G-12,establishment,45.52
+180,180.jpg,"Yau Oi South, Tuen Mun District","友愛南, 屯门区",22.387,113.974,L-05,democracy,63.44
+181,181.jpg,"To Tai, Kwun Tong District","淘大, 观塘区",22.325,114.216,J-40,democracy,62.16
+182,182.jpg,"Kam Ping, Eastern District","錦屏, 東區",22.29,114.2,C-21,democracy,50.70
+183,183.jpg,"Yat Chak, Yuen Long District","逸澤, 元朗区",22.468,113.998,M-31,democracy,58.14
+184,184.jpg,"Aldrich Bay, Eastern District","愛秩序灣, 東區",22.282,114.227,C-05,democracy,54.78
+185,185.jpg,"Ching King, Yuen Long District","晴景, 元朗区",22.464,114.005,M-29,democracy,54.70
+186,186.jpg,"Chi Choi, Wong Tai Sin District","池彩, 黄大仙区",22.337,114.209,H-24,democracy,58.67
+187,187.jpg,"South Horizons East, Southern District","海怡東, 南区",22.24,114.151,D-06,democracy,55.89
+188,188.jpg,"Lai Wah, Kwai Tsing District","荔華, 葵青区",22.347,114.14,S-17,democracy,56.18
+189,189.jpg,"Pak Sha Wan, Sai Kung District","白沙灣, 西贡区",22.359,114.236,Q-02,democracy,57.08
+190,190.jpg,"Water Street, Central & Western District","水街, 中西區",22.285,114.139,A-15,democracy,59.62
+191,191.jpg,"Upper Tai Wo Hau, Kwai Tsing District","上大窩口, 葵青区",22.367,114.123,S-04,democracy,57.21
+192,192.jpg,"Po Tin, Tuen Mun District","寶田, 屯门区",22.42,113.954,L-25,establishment,42.39
+193,193.jpg,"Tai Hang, Wan Chai District","大坑, 灣仔區",22.28,114.19,B-07,democracy,62.02
+194,194.jpg,"Shap Pat Heung East, Yuen Long District","十八鄉東, 元朗区",22.426,114.044,M-11,democracy,48.04
+195,195.jpg,"King Fu, Wong Tai Sin District","瓊富, 黄大仙区",22.345,114.215,H-20,democracy,58.75
+196,196.jpg,"Lower Yiu Tung, Eastern District","下耀東, 東區",22.278,114.226,C-29,democracy,60.55
+197,197.jpg,"Tai Koo Shing East, Eastern District","太古城東, 東區",22.287,114.22,C-02,democracy,60.95
+198,198.jpg,"San Fu, Tai Po District","新富, 大埔区",22.446,114.161,P-12,democracy,56.43
+199,199.jpg,"Tung Chung South, Islands District","東涌南, 离岛区",22.29,113.94,T-04,democracy,56.49
+200,200.jpg,"Stubbs Road, Wan Chai District","司徒拔道, 灣仔區",22.263,114.178,B-11,establishment,45.47
+201,201.jpg,"Tai Kok Tsui North, Yau Tsim Mong District","大角咀北, 油尖旺区",22.324,114.162,E-11,democracy,52.16
+202,202.jpg,"Siu Hong, Tuen Mun District","兆康, 屯门区",22.408,113.974,L-27,democracy,56.28
+203,203.jpg,"Mei Foo Central, Sham Shui Po District","美孚中, 深水埗区",22.336,114.138,F-16,democracy,60.14
+204,204.jpg,"Provident,  District","和富, 東區",22.293,114.2,C-19,establishment,48.94
+205,205.jpg,"Upper Ngau Tau Kok Estate, Kwun Tong District","牛頭角上邨, 观塘区",22.319,114.217,J-38,establishment,48.79
+206,206.jpg,"Sai Ying Pun, Central & Western District","西營盤, 中西區",22.289,114.142,A-11,democracy,55.39
+207,207.jpg,"Wai Yan, Sai Kung District","慧茵, 西贡区",22.323,114.255,Q-20,democracy,61.24
+208,208.jpg,"Shek Yue, Southern District","石漁, 南区",22.25,114.158,D-14,democracy,56.21
+209,209.jpg,"Hang Hau East, Sai Kung District","坑口東, 西贡区",22.295,114.286,Q-04,democracy,49.57
+210,210.jpg,"Cheung On, Kwai Tsing District","長安, 葵青区",22.361,114.102,S-31,democracy,53.14
+211,211.jpg,"Kornhill Garden, Eastern District","康山, 東區",22.284,114.216,C-27,democracy,59.24
+212,212.jpg,"Pokfulam, Southern District","薄扶林, 南区",22.267,114.128,D-11,democracy,55.97
+213,213.jpg,"Lower Tai Wo Hau, Kwai Tsing District","下大窩口, 葵青区",22.369,114.124,S-05,democracy,69.73
+214,214.jpg,"Ma On Shan Town Centre, Sha Tin District","馬鞍山市中心, 沙田区",22.426,114.231,R-28,democracy,63.12
+215,215.jpg,"Fu Sun, Tuen Mun District","富新, 屯门区",22.381,113.966,L-19,democracy,60.39
+216,216.jpg,"Chun Fung, Sha Tin District","秦豐, 沙田区",22.374,114.187,R-11,democracy,68.10
+217,217.jpg,"Jordan North, Yau Tsim Mong District","佐敦北, 油尖旺区",22.307,114.171,E-18,democracy,56.02
+218,218.jpg,"Shan King, Tuen Mun District","山景, 屯门区",22.397,113.965,L-08,democracy,64.31
+219,219.jpg,"Fung Wong, Wong Tai Sin District","鳳凰, 黄大仙区",22.344,114.197,H-04,democracy,61.15
+220,220.jpg,"Shun Tin, Kwun Tong District","順天, 观塘区",22.327,114.223,J-08,democracy,62.03
+221,221.jpg,"Chui Tin, Sha Tin District","翠田, 沙田区",22.358,114.179,R-13,democracy,64.97
+222,222.jpg,"Ap Lei Chau Estate, Southern District","鴨脷洲邨, 南区",22.245,114.151,D-02,establishment,48.57
+223,223.jpg,"Shaukeiwan, Eastern District","筲箕灣, 東區",22.279,114.229,C-06,democracy,62.82
+224,224.jpg,"Tsui Lam, Sai Kung District","翠林, 西贡区",22.321,114.249,Q-17,democracy,55.47
+225,225.jpg,"Hoi Nam, Sha Tin District","海嵐, 沙田区",22.415,114.223,R-25,democracy,65.15
+226,226.jpg,"Siu Tsui, Tuen Mun District","兆翠, 屯门区",22.383,113.974,L-04,democracy,57.73
+227,227.jpg,"Lai Ching, Kwun Tong District","麗晶, 观塘区",22.33,114.206,J-04,democracy,68.26
+228,228.jpg,"Lai Chi Kok North, Sham Shui Po District","荔枝角北, 深水埗区",22.338,114.149,F-18,democracy,66.62
+229,229.jpg,"Chun Ma, Sha Tin District","駿馬, 沙田区",22.415,114.209,R-24,democracy,50.43
+230,230.jpg,"Shing Hong, Kwai Tsing District","盛康, 葵青区",22.35,114.101,S-27,establishment,49.18
+231,231.jpg,"Mong Kok North, Yau Tsim Mong District","旺角北, 油尖旺区",22.322,114.167,E-13,democracy,51
+232,232.jpg,"Yau Chui, Kwun Tong District","油翠, 观塘区",22.295,114.239,J-24,establishment,43.26
+233,233.jpg,"Ho Man Tin, Kowloon City District","何文田, 九龙城区",22.319,114.179,G-07,democracy,51.41
+234,234.jpg,"Tsui Chuk & Pang Ching, Wong Tai Sin District","翠竹及鵬程, 黄大仙区",22.347,114.186,H-13,democracy,48.65
+235,235.jpg,"Kai Tak East, Kowloon City District","啟德東, 九龙城区",22.331,114.203,G-13,establishment,41.02
+236,236.jpg,"Shui Wah, Yuen Long District","瑞華, 元朗区",22.459,113.996,M-24,democracy,58.62
+237,237.jpg,"East Tsim Sha Tsui & King's Park, Yau Tsim Mong District","尖東及京士柏, 油尖旺区",22.3,114.183,E-17,democracy,52.69
+238,238.jpg,"Lei Tung II, Southern District","利東二, 南区",22.241,114.155,D-05,democracy,62.84
+239,239.jpg,"Lung Mun, Tuen Mun District","龍門, 屯门区",22.391,113.964,L-21,democracy,60.07
+240,240.jpg,"Tsuen Wan South, Tsuen Wan District","荃灣南, 荃湾区",22.365,114.116,K-03,democracy,54.34
+241,241.jpg,"Sung Wong Toi, Kowloon City District","宋皇臺, 九龙城区",22.322,114.192,G-02,democracy,67.59
+242,242.jpg,"Yau Ma Tei North, Yau Tsim Mong District","油麻地北, 油尖旺区",22.314,114.171,E-16,democracy,67.43
+243,243.jpg,"Yan Lam, Eastern District","欣藍, 東區",22.266,114.25,C-10,democracy,52.18
+244,244.jpg,"Lai To, Tsuen Wan District","麗濤, 荃湾区",22.385,114.091,K-14,democracy,58.45
+245,245.jpg,"Kingswood North, Yuen Long District","嘉湖北, 元朗区",22.459,114.006,M-27,democracy,49.93
+246,246.jpg,"King Hing, Tuen Mun District","景興, 屯门区",22.402,113.969,L-09,establishment,47.90
+247,247.jpg,"Chuk Yuen North, Wong Tai Sin District","竹園北, 黄大仙区",22.348,114.191,H-15,democracy,55.50
+248,248.jpg,"Ting On, Kwun Tong District","定安, 观塘区",22.316,114.22,J-37,democracy,56.14
+249,249.jpg,"O Tong, Sai Kung District","澳唐, 西贡区",22.308,114.257,Q-13,democracy,63.09
+250,250.jpg,"Sam Shing, Tuen Mun District","三聖, 屯门区",22.387,114.041,L-13,democracy,56.32
+251,251.jpg,"Nam Fung, Eastern District","南豐, 東區",22.282,114.214,C-25,democracy,65.48
+252,252.jpg,"Yau Lai, Kwun Tong District","油麗, 观塘区",22.301,114.235,J-25,democracy,54.82
+253,253.jpg,"Fung Tsui, North District","鳳翠, 北区",22.515,114.127,N-15,democracy,55.06
+254,254.jpg,"Ma Tau Kok, Kowloon City District","馬頭角, 九龙城区",22.319,114.189,G-04,democracy,52.79
+255,255.jpg,"Tin Hau, Wan Chai District","天后, 灣仔區",22.282,114.193,B-06,democracy,52.50
+256,256.jpg,"Fu Nam, Sai Kung District","富藍, 西贡区",22.318,114.269,Q-24,democracy,56.81
+257,257.jpg,"On Ting, Tuen Mun District","安定, 屯门区",22.386,113.977,L-03,democracy,55.93
+258,258.jpg,"Lung Sheung, Wong Tai Sin District","龍上, 黄大仙区",22.339,114.192,H-03,democracy,55.47
+259,259.jpg,"Sun Tin Wai, Sha Tin District","新田圍, 沙田区",22.357,114.187,R-12,democracy,60.61
+260,260.jpg,"Yiu On, Sha Tin District","耀安, 沙田区",22.42,114.231,R-33,democracy,61.50
+261,261.jpg,"Un Chau, Sham Shui Po District","元州, 深水埗区",22.338,114.156,F-19,democracy,53.61
+262,262.jpg,"Tin Ping West, North District","天平西, 北区",22.506,114.13,N-14,democracy,60.45
+263,263.jpg,"Ping Tin, Kwun Tong District","平田, 观塘区",22.307,114.236,J-20,democracy,52.81
+264,264.jpg,"Lam Tin, Kwun Tong District","藍田, 观塘区",22.31,114.236,J-19,establishment,49.69
+265,265.jpg,"Tin Wan, Southern District","田灣, 南区",22.25,114.148,D-13,democracy,61.70
+266,266.jpg,"Wai King, Sai Kung District","維景, 西贡区",22.297,114.248,Q-09,democracy,50.86
+267,267.jpg,"Hing Fong, Kwai Tsing District","興芳, 葵青区",22.356,114.13,S-15,democracy,58.47
+268,268.jpg,"Yuet Wu, Tuen Mun District","悅湖, 屯门区",22.376,113.968,L-15,democracy,63.35
+269,269.jpg,"Ma Wan, Tsuen Wan District","馬灣, 荃湾区",22.326,114.033,K-11,democracy,70.85
+270,270.jpg,"Wan Po North, Sai Kung District","環保北, 西贡区",22.301,114.269,Q-28,nonpartisan,55.71
+271,271.jpg,"Lung Shing, Kowloon City District","龍城, 九龙城区",22.33,114.19,G-11,establishment,47.48
+272,272.jpg,"Prince, Kowloon City District","太子, 九龙城区",22.327,114.181,G-09,democracy,54.67
+273,273.jpg,"Tung Tau, Wong Tai Sin District","東頭, 黄大仙区",22.333,114.194,H-08,democracy,51.09
+274,274.jpg,"Lek Yuen, Sha Tin District","瀝源, 沙田区",22.386,114.188,R-02,democracy,57.33
+275,275.jpg,"Kwai Luen, Kwai Tsing District","葵聯, 葵青区",22.362,114.127,S-02,democracy,57.11
+276,276.jpg,"Fu Pak, Yau Tsim Mong District","富柏, 油尖旺区",22.316,114.163,E-07,democracy,62.54
+277,277.jpg,"Belcher, Central & Western District","寶翠, 中西區",22.283,114.131,A-09,democracy,52.66
+278,278.jpg,"Kingswood South, Yuen Long District","嘉湖南, 元朗区",22.454,114.002,M-22,democracy,55.13
+279,279.jpg,"Happy Valley, Wan Chai District","跑馬地, 灣仔區",22.271,114.183,B-10,democracy,54.49
+280,280.jpg,"Hoi Bun, Tsuen Wan District","海濱, 荃湾区",22.362,114.113,K-04,democracy,56.75
+281,281.jpg,"Cheung Ching, Kwai Tsing District","長青, 葵青区",22.347,114.11,S-25,democracy,57.57
+282,282.jpg,"Yuen Long Centre, Yuen Long District","元朗中心, 元朗区",22.445,114.03,M-02,democracy,59.47
+283,283.jpg,"Fuk Loi, Tsuen Wan District","福來, 荃湾区",22.373,114.114,K-09,establishment,47.30
+284,284.jpg,"Pat Heung South, Yuen Long District","八鄉南, 元朗区",22.417,114.088,M-39,establishment,47.78
+285,285.jpg,"Yee Fu, Tai Po District","怡富, 大埔区",22.454,114.176,P-06,democracy,70.86
+286,286.jpg,"Nam Cheong Central, Sham Shui Po District","南昌中, 深水埗区",22.33,114.161,F-07,establishment,48.40
+287,287.jpg,"Lok Tsui, Tuen Mun District","樂翠, 屯门区",22.39,113.934,L-20,democracy,58.87
+288,288.jpg,"Wu King, Tuen Mun District","湖景, 屯门区",22.376,113.965,L-17,democracy,67.83
+289,289.jpg,"Fanling Town, North District","粉嶺市, 北区",22.498,114.139,N-02,democracy,56.57
+290,290.jpg,"Tsim Sha Tsui Central, Yau Tsim Mong District","尖沙咀中, 油尖旺区",22.302,114.175,E-20,democracy,56.78
+291,291.jpg,"Ching Ho, North District","清河, 北区",22.493,114.127,N-09,democracy,53.83
+292,292.jpg,"Hok Yuen Laguna Verde, Kowloon City District","鶴園海逸, 九龙城区",22.31,114.191,G-18,democracy,52.63
+293,293.jpg,"City Garden, Eastern District","城市花園, 東區",22.29,114.192,C-18,democracy,47.13
+294,294.jpg,"Yau Yat Tsuen, Sham Shui Po District","又一村, 深水埗区",22.339,114.171,F-24,democracy,50.98
+295,295.jpg,"South Horizons West, Southern District","海怡西, 南区",22.244,114.146,D-07,democracy,56.27
+296,296.jpg,"Kwong Tak, Sai Kung District","廣德, 观塘区",22.308,114.24,J-17,establishment,48.94
+297,297.jpg,"Nam Cheong East, Sham Shui Po District","南昌東, 深水埗区",22.33,114.166,F-05,democracy,60.99
+298,298.jpg,"Kwai Chung Estate North, Kwai Tsing District","葵涌邨北, 葵青区",22.369,114.129,S-07,democracy,57.86
+299,299.jpg,"Hau Tak, Sai Kung District","厚德, 西贡区",22.318,114.265,Q-23,democracy,59.44
+300,300.jpg,"Jordan Valley, Kwun Tong District","佐敦谷, 观塘区",22.328,114.218,J-07,establishment,49.08
+301,301.jpg,"Tsui Tak, Eastern District","翠德, 東區",22.264,114.239,C-33,democracy,53.41
+302,302.jpg,"Wo Che Estate, Sha Tin District","禾輋邨, 沙田区",22.388,114.196,R-03,democracy,59.09
+303,303.jpg,"Sau Mau Ping Central, Kwun Tong District","秀茂坪中, 观塘区",22.318,114.234,J-13,establishment,48.11
+304,304.jpg,"Lantau, Islands District","大嶼山, 离岛区",22.253,113.933,T-01,establishment,48.02
+305,305.jpg,"Shing Yan, Yuen Long District","盛欣, 元朗区",22.447,114.003,M-17,democracy,57.58
+306,306.jpg,"Tung Wah, Central & Western District","東華, 中西區",22.285,114.148,A-13,democracy,60.84
+307,307.jpg,"Yue Shing, Sha Tin District","愉城, 沙田区",22.385,114.204,R-05,democracy,62.28
+308,308.jpg,"Yuen Long Tung Tau, Yuen Long District","元朗東頭, 元朗区",22.45,114.029,M-09,democracy,59.56
+309,309.jpg,"Ka Wai, Kowloon City District","家維, 九龙城区",22.309,114.187,G-23,democracy,51.81
+310,310.jpg,"Fung Cheung, Yuen Long District","鳳翔, 元朗区",22.441,114.033,M-03,democracy,61.02
+311,311.jpg,"Healthy Village, Eastern District","健康村, 東區",22.291,114.206,C-23,democracy,53.24
+312,312.jpg,"Hong Lok, Kwun Tong District","康樂, 观塘区",22.318,114.221,J-36,democracy,57.80
+313,313.jpg,"Wan Tau Tong, Tai Po District","運頭塘, 大埔区",22.442,114.167,P-11,democracy,60.60
+314,314.jpg,"Cheung Hong, Kwai Tsing District","長康, 葵青区",22.349,114.102,S-26,establishment,46.25
+315,315.jpg,"Upper Yiu Tung, Eastern District","上耀東, 東區",22.277,114.222,C-30,democracy,52.78
+316,316.jpg,"Yu Yan, Sha Tin District","愉欣, 沙田区",22.382,114.235,R-37,democracy,56.73
+317,317.jpg,"Cho Yiu, Kwai Tsing District","祖堯, 葵青区",22.346,114.131,S-18,democracy,51.48
+318,318.jpg,"Fu Kwan, Sai Kung District","富君, 西贡区",22.309,114.26,Q-12,democracy,61.31
+319,319.jpg,"Shui Pin, Yuen Long District","水邊, 元朗区",22.441,114.019,M-06,democracy,52.85
+320,320.jpg,"San Tin, Yuen Long District","新田, 元朗区",22.489,114.077,M-36,establishment,44.08
+321,321.jpg,"Kwong Fuk & Plover Cove, Tai Po District","廣福及寶湖, 大埔区",22.45,114.172,P-08,democracy,57.06
+322,322.jpg,"Yiu Yau, Yuen Long District","耀祐, 元朗区",22.453,114.004,M-20,democracy,62.23
+323,323.jpg,"Discovery Park, Tsuen Wan District","愉景, 荃湾区",22.375,114.113,K-08,democracy,54.18
+324,324.jpg,"Shek Tong Tsui, Central & Western District","石塘咀, 中西區",22.289,114.135,A-10,democracy,55.27
+325,325.jpg,"Fu Lung, Sha Tin District","富龍, 沙田区",22.425,114.237,R-31,democracy,62.83
+326,326.jpg,"Lai Chi Kok Central, Sham Shui Po District","荔枝角中, 深水埗区",22.335,114.148,F-13,democracy,63.54
+327,327.jpg,"Ping Shan South, Yuen Long District","屏山南, 元朗区",22.43,114.009,M-13,democracy,53.26
+328,328.jpg,"Kadoorie, Kowloon City District","嘉道理, 九龙城区",22.323,114.175,G-08,democracy,63.52
+329,329.jpg,"Lung Sing, Wong Tai Sin District","龍星, 黄大仙区",22.342,114.203,H-06,democracy,65.77
+330,330.jpg,"Shui Oi, Yuen Long District","瑞愛, 元朗区",22.455,113.997,M-23,democracy,53.73
+331,331.jpg,"Tin Heng, Yuen Long District","天恒, 元朗区",22.472,114.001,M-32,democracy,61.59
+332,332.jpg,"Shek Wai Kok, Tsuen Wan District","石圍角, 荃湾区",22.399,114.146,K-17,establishment,47.86
+333,333.jpg,"Lei Cheng Uk, Sham Shui Po District","李鄭屋, 深水埗区",22.339,114.16,F-21,democracy,61.26
+334,334.jpg,"Yat Tung Estate North, Islands District","逸東邨北, 离岛区",22.282,113.937,T-03,democracy,61.80
+335,335.jpg,"Luk Yeung, Tsuen Wan District","綠楊, 荃湾区",22.374,114.119,K-10,democracy,56.68
+336,336.jpg,"Sai Wan, Central & Western District","西環, 中西區",22.284,114.13,A-08,democracy,56.48
+337,337.jpg,"Castle Road, Central & Western District","衛城, 中西區",22.281,114.148,A-03,democracy,51.05
+338,338.jpg,"Hin Ka, Sha Tin District","顯嘉, 沙田区",22.351,114.174,R-14,democracy,60.64
+339,339.jpg,"Yu Tai, North District","御太, 北区",22.488,114.12,N-10,democracy,53.12
+340,340.jpg,"Ping Shan Central, Yuen Long District","屏山中, 元朗区",22.453,114.017,M-16,democracy,51.94
+341,341.jpg,"Hing Tsak, Tuen Mun District","興澤, 屯门区",22.404,113.973,L-10,democracy,52.95
+342,342.jpg,"Yeung Uk Road, Tsuen Wan District","楊屋道, 荃湾区",22.367,114.119,K-02,democracy,50.60
+343,343.jpg,"Kowloon Station, Yau Tsim Mong District","九龍站, 油尖旺区",22.305,114.16,E-02,establishment,47.53
+344,344.jpg,"Siu Hei, Tuen Mun District","兆禧, 屯门区",22.373,113.97,L-16,democracy,68.51
+345,345.jpg,"Yan Ying, Sai Kung District","欣英, 西贡区",22.324,114.258,Q-19,democracy,63.81
+346,346.jpg,"Ping Shan North, Yuen Long District","屏山北, 元朗区",22.47,114.02,M-34,establishment,49.98
+347,347.jpg,"Tsui Wan, Eastern District","翠灣, 東區",22.27,114.246,C-09,democracy,55.63
+348,348.jpg,"Lower Shing Mun, Sha Tin District","下城門, 沙田区",22.361,114.158,R-15,democracy,55.49
+349,349.jpg,"Nam Cheong North, Sham Shui Po District","南昌北, 深水埗区",22.332,114.163,F-03,democracy,54.89
+350,350.jpg,"Whampoa East, Kowloon City District","黃埔東, 九龙城区",22.303,114.191,G-19,democracy,57.66
+351,351.jpg,"Aberdeen, Southern District","香港仔, 南区",22.248,114.155,D-01,democracy,62.11
+352,352.jpg,"Charming, Yau Tsim Mong District","富榮, 油尖旺区",22.314,114.164,E-05,democracy,54.75
+353,353.jpg,"To Kwa Wan South, Kowloon City District","土瓜灣南, 九龙城区",22.313,114.188,G-17,democracy,53.64
+354,354.jpg,"Wong Chuk Hang, Southern District","黃竹坑, 南区",22.251,114.165,D-15,democracy,57.93
+355,355.jpg,"Kennedy Town & Mount Davis, Central & Western District","堅摩, 中西區",22.278,114.122,A-07,democracy,59.45
+356,356.jpg,"Lei Tung I, Southern District","利東一, 南区",22.236,114.159,D-04,democracy,63.20
+357,357.jpg,"Quarry Bay, Eastern District","鰂魚涌, 東區",22.289,114.212,C-24,democracy,55.37
+358,358.jpg,"Chung Ting, Tai Po District","頌汀, 大埔区",22.452,114.168,P-02,democracy,64.02
+359,359.jpg,"Stanley & Shek O, Southern District","赤柱及石澳, 南区",22.23,114.246,D-17,democracy,49.86
+360,360.jpg,"Nam Ping, Yuen Long District","南屏, 元朗区",22.448,114.024,M-07,democracy,62.59
+361,361.jpg,"Tung Mei, Wong Tai Sin District","東美, 黄大仙区",22.336,114.193,H-09,democracy,67.72
+362,362.jpg,"King Tin, Kwun Tong District","景田, 观塘区",22.309,114.233,J-28,democracy,61.58
+363,363.jpg,"Fairview Park, Yuen Long District","錦綉花園, 元朗区",22.487,114.035,M-35,democracy,55.41
+364,364.jpg,"Yau Tong East, Kwun Tong District","油塘東, 观塘区",22.295,114.242,J-23,democracy,50.21
+365,365.jpg,"Tin King, Tuen Mun District","田景, 屯门区",22.406,113.966,L-24,democracy,61.98
+366,366.jpg,"Choi Wan East, Wong Tai Sin District","彩雲東, 黄大仙区",22.337,114.219,H-21,democracy,51.77
+367,367.jpg,"Wang Fuk, Tai Po District","宏福, 大埔区",22.433,114.202,P-09,democracy,56.73
+368,368.jpg,"Cheung Shek, Tsuen Wan District","象石, 荃湾区",22.382,114.125,K-16,democracy,54.48
+369,369.jpg,"Ma Hang Chung, Kowloon City District","馬坑涌, 九龙城区",22.321,114.191,G-03,democracy,61.14
+370,370.jpg,"City One, Sha Tin District","第一城, 沙田区",22.388,114.203,R-04,democracy,65
+371,371.jpg,"Cheung Wah, North District","祥華, 北区",22.493,114.141,N-03,democracy,68.51
+372,372.jpg,"Tai Pak Tin East, Kwai Tsing District","大白田東, 葵青区",22.368,114.141,S-10,democracy,53.92
+373,373.jpg,"Chung Wah, Yuen Long District","頌華, 元朗区",22.46,113.998,M-25,democracy,57.72
+374,374.jpg,"Heng Fa Chuen, Eastern District","杏花邨, 東區",22.276,114.24,C-08,democracy,56.41
+375,375.jpg,"Oi Chun, Kowloon City District","愛俊, 九龙城区",22.314,114.178,G-25,establishment,46.52
+376,376.jpg,"Cheung Chau, Islands District","長洲, 离岛区",22.204,114.036,T-10,democracy,61.40
+377,377.jpg,"Sau Mau Ping North, Kwun Tong District","秀茂坪北, 观塘区",22.323,114.228,J-12,democracy,60.90
+378,378.jpg,"Shap Pat Heung West, Yuen Long District","十八鄉西, 元朗区",22.416,114.025,M-12,democracy,49.76
+379,379.jpg,"Lei King Wan, Eastern District","鯉景灣, 東區",22.285,114.223,C-03,democracy,57.22
+380,380.jpg,"Mei Foo North, Sham Shui Po District","美孚北, 深水埗区",22.34,114.138,F-17,democracy,62.05
+381,381.jpg,"Southorn, Wan Chai District","修頓, 灣仔區",22.271,114.17,B-12,establishment,48
+382,382.jpg,"Tsz Wan West, Wong Tai Sin District","慈雲西, 黄大仙区",22.348,114.198,H-16,democracy,57.91
+383,383.jpg,"Hing Tin, Kwun Tong District","興田, 观塘区",22.314,114.24,J-18,democracy,58.17
+384,384.jpg,"Choi Tak, Kwun Tong District","彩德, 观塘区",22.331,114.216,J-06,establishment,42.79
+385,385.jpg,"Tai Po Hui, Tai Po District","大埔墟, 大埔区",22.447,114.168,P-01,democracy,56.66
+386,386.jpg,"Po Lam, Sai Kung District","寶林, 西贡区",22.326,114.254,Q-18,democracy,57.60
+387,387.jpg,"Siu Chi, Tuen Mun District","兆置, 屯门区",22.386,113.981,L-02,democracy,78.13
+388,388.jpg,"Fu Ming Sun, Tai Po District","富明新, 大埔区",22.452,114.174,P-07,democracy,70.42
+389,389.jpg,"Kin Ming, Sai Kung District","健明, 西贡区",22.306,114.25,Q-07,democracy,73.49
+390,390.jpg,"Heng On, Sha Tin District","恆安, 沙田区",22.417,114.229,R-34,democracy,63.22
+391,391.jpg,"Choi Wan West, Wong Tai Sin District","彩雲西, 黄大仙区",22.336,114.213,H-23,democracy,54.39
+392,392.jpg,"Shing Fuk, North District","盛福, 北区",22.493,114.135,N-08,establishment,58.10
+393,393.jpg,"Shuen Wan, Tai Po District","船灣, 大埔区",22.478,114.25,P-18,democracy,50.99
+394,394.jpg,"Tin Keung, Wong Tai Sin District","天強, 黄大仙区",22.341,114.184,H-12,democracy,59.98
+395,395.jpg,"Tai Po Central, Tai Po District","大埔中, 大埔区",22.452,114.17,P-03,democracy,54.70
+396,396.jpg,"Discovery Bay, Islands District","愉景灣, 离岛区",22.299,114.008,T-07,democracy,64.67
+397,397.jpg,"On Yam, Kwai Tsing District","安蔭, 葵青区",22.377,114.142,S-11,democracy,52.01
+398,398.jpg,"Jordan West, Yau Tsim Mong District","佐敦西, 油尖旺区",22.308,114.164,E-03,democracy,53.84
+399,399.jpg,"Tsuen Wan Rural, Tsuen Wan District","荃灣郊區, 荃湾区",22.371,114.044,K-12,nonpartisan,39.74
+400,400.jpg,"Lower Ngau Tau Kok Estate, Kwun Tong District","牛頭角下邨, 观塘区",22.323,114.216,J-39,democracy,51.68
+401,401.jpg,"San King, Tuen Mun District","新景, 屯门区",22.402,113.959,L-22,democracy,69.72
+402,402.jpg,"Tai Koo Shing West, Eastern District","太古城西, 東區",22.288,114.216,C-01,democracy,62.87
+403,403.jpg,"Tai Pak Tin West, Kwai Tsing District","大白田西, 葵青区",22.367,114.137,S-09,establishment,51.97
+404,404.jpg,"Kam Tin, Yuen Long District","錦田, 元朗区",22.447,114.061,M-37,democracy,52.84
+405,405.jpg,"Do Shin, Sai Kung District","都善, 西贡区",22.304,114.251,Q-08,nonpartisan,50.95
+406,406.jpg,"Hing Man, Eastern District","興民, 東區",22.269,114.228,C-31,democracy,51.44
+407,407.jpg,"Tai Po Kau, Tai Po District","大埔滘, 大埔区",22.428,114.171,P-10,democracy,53.55
+408,408.jpg,"Sha Kok, Sha Tin District","沙角, 沙田区",22.379,114.194,R-07,democracy,59.82
+409,409.jpg,"Fo Tan, Sha Tin District","火炭, 沙田区",22.41,114.189,R-23,democracy,56.65
+410,410.jpg,"Cherry, Yau Tsim Mong District","櫻桃, 油尖旺区",22.319,114.165,E-09,establishment,46.58
+411,411.jpg,"Tai Yuen, Tai Po District","大元, 大埔区",22.456,114.169,P-04,democracy,57.81
+412,412.jpg,"Shap Pat Heung Central, Yuen Long District","十八鄉中, 元朗区",22.438,114.025,M-05,democracy,60.57
+413,413.jpg,"Keng Hau, Sha Tin District","徑口, 沙田区",22.364,114.174,R-17,democracy,60.11
+414,414.jpg,"Pak Nga, Kwun Tong District","栢雅, 观塘区",22.302,114.239,J-21,democracy,56.38
+415,415.jpg,"Bik Woo, Sha Tin District","碧湖, 沙田区",22.392,114.207,R-39,democracy,55.32
+416,416.jpg,"Lee On, Sha Tin District","利安, 沙田区",22.426,114.245,R-30,democracy,65.61
+417,417.jpg,"Kwai Fong, Kwai Tsing District","葵芳, 葵青区",22.36,114.132,S-14,democracy,62.83
+418,418.jpg,"Sheung Shun, Kwun Tong District","雙順, 观塘区",22.333,114.224,J-09,establishment,36.86
+419,419.jpg,"Hung Hom, Kowloon City District","紅磡, 九龙城区",22.307,114.184,G-22,establishment,46.14
+420,420.jpg,"Sai Wan Ho, Eastern District","西灣河, 東區",22.282,114.223,C-04,democracy,63.08
+421,421.jpg,"Lung Ha, Wong Tai Sin District","龍下, 黄大仙区",22.338,114.197,H-02,democracy,66.72
+422,422.jpg,"Hoi Sham, Kowloon City District","海心, 九龙城区",22.317,114.193,G-15,establishment,49.78
+423,423.jpg,"To Kwa Wan North, Kowloon City District","土瓜灣北, 九龙城区",22.315,114.189,G-16,establishment,44.98
+424,424.jpg,"Ha Pak Tin, Sham Shui Po District","下白田, 深水埗区",22.336,114.167,F-23,nonpartisan,8.46
+425,425.jpg,"Tuen Mun Town Centre, Tuen Mun District","屯門市中心, 屯门区",22.393,113.977,L-01,democracy,63.19
+426,426.jpg,"Wan Hang, Sai Kung District","運亨, 西贡区",22.319,114.258,Q-21,democracy,65.16
+427,427.jpg,"Chui Ka, Sha Tin District","翠嘉, 沙田区",22.372,114.181,R-19,democracy,58.68
+428,428.jpg,"Yue Wan, Eastern District","漁灣, 東區",22.264,114.243,C-34,democracy,59.46
+429,429.jpg,"Chung On, Sha Tin District","頌安, 沙田区",22.421,114.229,R-26,democracy,60.92
+430,430.jpg,"Cheung Hang, Kwai Tsing District","長亨, 葵青区",22.359,114.09,S-29,establishment,46.52
+431,431.jpg,"Canal Road, Wan Chai District","鵝頸, 灣仔區",22.281,114.181,B-03,democracy,57.76
+432,432.jpg,"Bays Area, Southern District","海灣, 南区",22.239,114.191,D-16,establishment,30.01
+433,433.jpg,"Lok Fu, Wong Tai Sin District","樂富, 黄大仙区",22.337,114.188,H-10,democracy,55.53
+434,434.jpg,"Po Lok, Kwun Tong District","寶樂, 观塘区",22.317,114.228,J-31,democracy,64.38
+435,435.jpg,"Tak Ming, Sai Kung District","德明, 西贡区",22.315,114.268,Q-25,democracy,56.24
+436,436.jpg,"Olympic, Yau Tsim Mong District","奧運, 油尖旺区",22.32,114.156,E-08,democracy,58.13
+437,437.jpg,"Hung Fuk, Yuen Long District","洪福, 元朗区",22.437,113.997,M-14,democracy,51.44
+438,438.jpg,"Tsing Yi Estate, Kwai Tsing District","青衣邨, 葵青区",22.353,114.105,S-23,democracy,59.68
+439,439.jpg,"Po Yee, Sai Kung District","寶怡, 西贡区",22.307,114.263,Q-11,democracy,60.11
+440,440.jpg,"King Lam, Sai Kung District","景林, 西贡区",22.32,114.261,Q-22,democracy,60.98
+441,441.jpg,"Fu Tai, Tuen Mun District","富泰, 屯门区",22.414,113.989,L-30,democracy,61.76
+442,442.jpg,"Tsui Ping, Kwun Tong District","翠屏, 观塘区",22.313,114.234,J-29,democracy,52.37
+443,443.jpg,"Lung Tsui, Wong Tai Sin District","龍趣, 黄大仙区",22.34,114.197,H-01,democracy,52.34
+444,444.jpg,"Choi Yuen, North District","彩園, 北区",22.501,114.125,N-12,democracy,55.23
+445,445.jpg,"Pok Hong, Sha Tin District","博康, 沙田区",22.376,114.196,R-08,democracy,73.61
+446,446.jpg,"Queen's Hill, North District","皇后山, 北区",22.504,114.166,N-18,democracy,53.28
+447,447.jpg,"Wah Ming, North District","華明, 北区",22.484,114.141,N-05,democracy,63.89
+448,448.jpg,"Kwun Lung, Central & Western District","觀龍, 中西區",22.279,114.129,A-06,democracy,52.88
+449,449.jpg,"Hoi Chun, Sai Kung District","海晉, 西贡区",22.304,114.26,Q-10,democracy,59.37
+450,450.jpg,"Yan Shing, North District","欣盛, 北区",22.478,114.138,N-06,democracy,57.84
+451,451.jpg,"Kam To, Sha Tin District","錦濤, 沙田区",22.423,114.225,R-27,democracy,60.01
+452,452.jpg,"Peng Chau & Hei Ling Chau, Islands District","坪洲及喜靈洲, 离岛区",22.25,114.043,T-08,establishment,42.17
