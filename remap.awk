@@ -21,5 +21,7 @@ NR > 1 {
         $3 = sprintf("%s District", $3)
     }
 
+    gsub(", ", "，", $4)
+
     print
 }
