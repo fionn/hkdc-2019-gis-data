@@ -1,4 +1,5 @@
 #!/bin/sed -f
+s/\r$//g
 1s/.*/\L&/
 1s/caption_eng/caption_en/
 1s/ /_/
