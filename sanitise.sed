@@ -11,3 +11,4 @@ s/⚪/nonpartisan/g
 s/、/, /g
 s/%$//g
 s/I__//g
+s/'/’/g
